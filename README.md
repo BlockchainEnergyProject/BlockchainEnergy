@@ -35,8 +35,8 @@ More information at [bcecoin.com](https://www.bcecoin.com)
 <tr>
 <th scope="col">BLock no</th>
 <th scope="col">Reward / block</th>
-<th scope="col">Staking</th>
-<th scope="col">Masternodes</th> 
+<th scope="col">Masternodes</th>
+<th scope="col">Stakings</th> 
 </tr>
 </thead>
 <tbody>
