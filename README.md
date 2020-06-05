@@ -22,7 +22,7 @@ More information at [bcecoin.com](https://www.bcecoin.com)
 <tr><td>Masternode Collateral Locked</td><td>YES</td></tr>
 <tr><td>P2P port</td><td>18555</td></tr>
 <tr><td>RPC port</td><td>18444</td></tr>
-<tr><td>Max Coin Supply</td><td>Infinity</td></tr>
+<tr><td>Max Coin Supply</td><td>21023050</td></tr>
 </table>
 
 *View Coin Distribution on [bcecoin.com](https://www.bcecoin.com)
