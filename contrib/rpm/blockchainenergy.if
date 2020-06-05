@@ -1,0 +1,157 @@
+
+## <summary>policy for blockchainenergy</summary>
+
+
+########################################
+## <summary>
+##	Transition to blockchainenergy.
+## </summary>
+## <param name="domain">
+## <summary>
+##	Domain allowed to transition.
+## </summary>
+## </param>
+#
+interface(`blockchainenergy_domtrans',`
+	gen_require(`
+		type blockchainenergy_t, blockchainenergy_exec_t;
+	')
+
+	corecmd_search_bin($1)
+	domtrans_pattern($1, blockchainenergy_exec_t, blockchainenergy_t)
+')
+
+
+########################################
+## <summary>
+##	Execute blockchainenergy server in the blockchainenergy domain.
+## </summary>
+## <param name="domain">
+##	<summary>
+##	Domain allowed access.
+##	</summary>
+## </param>
+#
+interface(`blockchainenergy_initrc_domtrans',`
+	gen_require(`
+		type blockchainenergy_initrc_exec_t;
+	')
+
+	init_labeled_script_domtrans($1, blockchainenergy_initrc_exec_t)
+')
+
+
+########################################
+## <summary>
+##	Search blockchainenergy lib directories.
+## </summary>
+## <param name="domain">
+##	<summary>
+##	Domain allowed access.
+##	</summary>
+## </param>
+#
+interface(`blockchainenergy_search_lib',`
+	gen_require(`
+		type blockchainenergy_var_lib_t;
+	')
+
+	allow $1 blockchainenergy_var_lib_t:dir search_dir_perms;
+	files_search_var_lib($1)
+')
+
+########################################
+## <summary>
+##	Read blockchainenergy lib files.
+## </summary>
+## <param name="domain">
+##	<summary>
+##	Domain allowed access.
+##	</summary>
+## </param>
+#
+interface(`blockchainenergy_read_lib_files',`
+	gen_require(`
+		type blockchainenergy_var_lib_t;
+	')
+
+	files_search_var_lib($1)
+	read_files_pattern($1, blockchainenergy_var_lib_t, blockchainenergy_var_lib_t)
+')
+
+########################################
+## <summary>
+##	Manage blockchainenergy lib files.
+## </summary>
+## <param name="domain">
+##	<summary>
+##	Domain allowed access.
+##	</summary>
+## </param>
+#
+interface(`blockchainenergy_manage_lib_files',`
+	gen_require(`
+		type blockchainenergy_var_lib_t;
+	')
+
+	files_search_var_lib($1)
+	manage_files_pattern($1, blockchainenergy_var_lib_t, blockchainenergy_var_lib_t)
+')
+
+########################################
+## <summary>
+##	Manage blockchainenergy lib directories.
+## </summary>
+## <param name="domain">
+##	<summary>
+##	Domain allowed access.
+##	</summary>
+## </param>
+#
+interface(`blockchainenergy_manage_lib_dirs',`
+	gen_require(`
+		type blockchainenergy_var_lib_t;
+	')
+
+	files_search_var_lib($1)
+	manage_dirs_pattern($1, blockchainenergy_var_lib_t, blockchainenergy_var_lib_t)
+')
+
+
+########################################
+## <summary>
+##	All of the rules required to administrate
+##	a blockchainenergy environment
+## </summary>
+## <param name="domain">
+##	<summary>
+##	Domain allowed access.
+##	</summary>
+## </param>
+## <param name="role">
+##	<summary>
+##	Role allowed access.
+##	</summary>
+## </param>
+## <rolecap/>
+#
+interface(`blockchainenergy_admin',`
+	gen_require(`
+		type blockchainenergy_t;
+		type blockchainenergy_initrc_exec_t;
+		type blockchainenergy_var_lib_t;
+	')
+
+	allow $1 blockchainenergy_t:process { ptrace signal_perms };
+	ps_process_pattern($1, blockchainenergy_t)
+
+	blockchainenergy_initrc_domtrans($1)
+	domain_system_change_exemption($1)
+	role_transition $2 blockchainenergy_initrc_exec_t system_r;
+	allow $2 system_r;
+
+	files_search_var_lib($1)
+	admin_pattern($1, blockchainenergy_var_lib_t)
+
+')
+

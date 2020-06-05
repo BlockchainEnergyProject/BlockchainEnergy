@@ -1,0 +1,8 @@
+/usr/bin/blockchainenergy-cli		--	gen_context(system_u:object_r:blockchainenergy_exec_t,s0)
+/usr/sbin/blockchainenergyd		--	gen_context(system_u:object_r:blockchainenergy_exec_t,s0)
+/usr/lib(64)?/blockchainenergy/blockchainenergyd		--	gen_context(system_u:object_r:blockchainenergy_exec_t,s0)
+
+/etc/blockchainenergy(/.*)?		gen_context(system_u:object_r:blockchainenergy_conf_t,s0)
+/var/lib/blockchainenergy(/.*)?		gen_context(system_u:object_r:blockchainenergy_var_lib_t,s0)
+
+(/var)?/run/blockchainenergyd(/.*)?   gen_context(system_u:object_r:blockchainenergy_var_run_t,s0)

@@ -1,0 +1,6 @@
+usr/local/bin/blockchainenergy-qt usr/bin
+share/pixmaps/blockchainenergy32.xpm usr/share/pixmaps
+share/pixmaps/blockchainenergy16.xpm usr/share/pixmaps
+share/pixmaps/blockchainenergy128.png usr/share/pixmaps
+debian/blockchainenergy-qt.desktop usr/share/applications
+debian/blockchainenergy-qt.protocol usr/share/kde4/services/

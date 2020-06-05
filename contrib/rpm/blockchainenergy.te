@@ -1,0 +1,81 @@
+policy_module(blockchainenergy, 1.100.1)
+
+########################################
+#
+# Declarations
+#
+
+type blockchainenergy_t;
+type blockchainenergy_exec_t;
+init_daemon_domain(blockchainenergy_t, blockchainenergy_exec_t)
+
+permissive blockchainenergy_t;
+
+type blockchainenergy_initrc_exec_t;
+init_script_file(blockchainenergy_initrc_exec_t)
+
+type blockchainenergy_conf_t;
+files_type(blockchainenergy_conf_t)
+
+type blockchainenergy_var_lib_t;
+files_type(blockchainenergy_var_lib_t)
+
+type blockchainenergy_var_run_t;
+files_type(blockchainenergy_var_run_t)
+
+type blockchainenergy_port_t;
+corenet_port(blockchainenergy_port_t)
+
+########################################
+#
+# blockchainenergy local policy
+#
+allow blockchainenergy_t self:process { fork };
+
+allow blockchainenergy_t self:fifo_file rw_fifo_file_perms;
+allow blockchainenergy_t self:unix_stream_socket create_stream_socket_perms;
+
+manage_dirs_pattern(blockchainenergy_t, blockchainenergy_conf_t, blockchainenergy_conf_t)
+manage_files_pattern(blockchainenergy_t, blockchainenergy_conf_t, blockchainenergy_conf_t)
+
+manage_dirs_pattern(blockchainenergy_t, blockchainenergy_var_lib_t, blockchainenergy_var_lib_t)
+manage_files_pattern(blockchainenergy_t, blockchainenergy_var_lib_t, blockchainenergy_var_lib_t)
+files_var_lib_filetrans(blockchainenergy_t, blockchainenergy_var_lib_t, { dir file })
+
+manage_dirs_pattern(blockchainenergy_t, blockchainenergy_var_run_t, blockchainenergy_var_run_t)
+manage_files_pattern(blockchainenergy_t, blockchainenergy_var_run_t, blockchainenergy_var_run_t)
+
+sysnet_dns_name_resolve(blockchainenergy_t)
+corenet_all_recvfrom_unlabeled(blockchainenergy_t)
+
+allow blockchainenergy_t self:tcp_socket create_stream_socket_perms;
+corenet_tcp_sendrecv_generic_if(blockchainenergy_t)
+corenet_tcp_sendrecv_generic_node(blockchainenergy_t)
+corenet_tcp_sendrecv_all_ports(blockchainenergy_t)
+corenet_tcp_bind_generic_node(blockchainenergy_t)
+
+gen_require(`
+    type blockchainenergy_port_t;
+')
+allow blockchainenergy_t blockchainenergy_port_t:tcp_socket name_bind;
+
+gen_require(`
+    type blockchainenergy_port_t;
+')
+allow blockchainenergy_t blockchainenergy_port_t:tcp_socket name_connect;
+
+domain_use_interactive_fds(blockchainenergy_t)
+
+files_read_etc_files(blockchainenergy_t)
+
+miscfiles_read_localization(blockchainenergy_t)
+
+sysnet_dns_name_resolve(blockchainenergy_t)
+
+allow blockchainenergy_t blockchainenergy_exec_t:file execute_no_trans;
+allow blockchainenergy_t self:process setsched;
+corecmd_exec_ls(blockchainenergy_t)
+corenet_tcp_connect_http_port(blockchainenergy_t)
+dev_read_urand(blockchainenergy_t)
+fs_getattr_xattr_fs(blockchainenergy_t)
+kernel_read_system_state(blockchainenergy_t)

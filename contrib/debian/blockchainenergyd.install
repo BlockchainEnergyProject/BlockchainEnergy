@@ -1,0 +1,3 @@
+usr/local/bin/blockchainenergyd usr/bin
+usr/local/bin/blockchainenergy-cli usr/bin
+debian/examples/blockchainenergy.conf etc/blockchainenergy
