@@ -20,8 +20,8 @@ More information at [bcecoin.com](https://www.bcecoin.com)
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Masternode Collateral</td><td>1,000 BCE</td></tr>
 <tr><td>Masternode Collateral Locked</td><td>YES</td></tr>
-<tr><td>P2P port</td><td>18555</td></tr>
-<tr><td>RPC port</td><td>18444</td></tr>
+<tr><td>P2P port</td><td>18050</td></tr>
+<tr><td>RPC port</td><td>18049</td></tr>
 <tr><td>Max Coin Supply</td><td>21023050</td></tr>
 </table>
 
@@ -40,22 +40,7 @@ More information at [bcecoin.com](https://www.bcecoin.com)
 </tr>
 </thead>
 <tbody>
-<tr><td>1 - 400</td><td>150</td><td>90%</td><td>10%</td></tr>
-<tr><td>400 - 10000</td><td>0.2</td><td>90%</td><td>10%</td></tr>
-<tr><td>10000 - 20000</td><td>0.3</td><td>90%</td><td>10%</td></tr>
-<tr><td>20000 - 30000</td><td>0.4</td><td>90%</td><td>10%</td></tr>
-<tr><td>30000 - 40000</td><td>0.45</td><td>90%</td><td>10%</td></tr>
-<tr><td>40000 - 70000</td><td>0.5</td><td>90%</td><td>10%</td></tr>
-<tr><td>70000 - 80000</td><td>0.6</td><td>90%</td><td>10%</td></tr>
-<tr><td>80000 - 90000</td><td>0.63</td><td>90%</td><td>10%</td></tr>
-<tr><td>90000 - 100000</td><td>0.65</td><td>90%</td><td>10%</td></tr>
-<tr><td>100000 - 110000</td><td>0.68</td><td>90%</td><td>10%</td></tr>
-<tr><td>110000 - 120000</td><td>0.7</td><td>90%</td><td>10%</td></tr>
-<tr><td>120000 - 130000</td><td>0.8</td><td>90%</td><td>10%</td></tr>
-<tr><td>130000 - 190000</td><td>0.9</td><td>90%</td><td>10%</td></tr>
-<tr><td>190000 - 230000</td><td>1</td><td>90%</td><td>10%</td></tr>
-<tr><td>230000 - 270000</td><td>0.95</td><td>90%</td><td>10%</td></tr>
-<tr><td>270000 - 300000</td><td>0.9</td><td>90%</td><td>10%</td></tr>
-<tr><td>300000 - 24394153</td><td>0.85</td><td>90%</td><td>10%</td></tr>
+<tr><td>1 - 1000</td><td>10</td><td>90%</td><td>10%</td></tr>
+<tr><td>1000 - 104915250</td><td>0.2</td><td>90%</td><td>10%</td></tr>
 </tbody>
 </table>
