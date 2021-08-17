@@ -80,7 +80,7 @@ namespace // Anon namespace
 //
 static QString ipcServerName()
 {
-    QString name("BlockchainenergyQt");
+    QString name("BlockchainEnergyQt");
 
     // Append a simple hash of the datadir
     // Note that GetDataDir(true) returns a different path
@@ -399,7 +399,7 @@ void PaymentServer::handleURIOrFile(const QString& s)
                     emit receivedPaymentRequest(recipient);
             } else
                 emit message(tr("URI handling"),
-                    tr("URI cannot be parsed! This can be caused by an invalid Blockchainenergy address or malformed URI parameters."),
+                    tr("URI cannot be parsed! This can be caused by an invalid BlockchainEnergy address or malformed URI parameters."),
                     CClientUIInterface::ICON_WARNING);
 
             return;

@@ -29,14 +29,14 @@ Build-Depends: debhelper,
  dh-systemd
 Standards-Version: 3.9.2
 Homepage: http://www.blockchainenergy.org
-Vcs-Git: git://github.com/Blockchainenergy-Project/Blockchainenergy.git
-Vcs-Browser: http://github.com/Blockchainenergy-Project/Blockchainenergy
+Vcs-Git: git://github.com/BlockchainEnergy-Project/BlockchainEnergy.git
+Vcs-Browser: http://github.com/BlockchainEnergy-Project/BlockchainEnergy
 
 Package: blockchainenergyd
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - daemon
- Blockchainenergy is a free open source peer-to-peer electronic cash system that
+ BlockchainEnergy is a free open source peer-to-peer electronic cash system that
  is completely decentralized, without the need for a central server or
  trusted parties.  Users hold the crypto keys to their own money and
  transact directly with each other, with the help of a P2P network to
@@ -52,7 +52,7 @@ Package: blockchainenergy-qt
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: peer-to-peer network based digital currency - Qt GUI
- Blockchainenergy is a free open source peer-to-peer electronic cash system that
+ BlockchainEnergy is a free open source peer-to-peer electronic cash system that
  is completely decentralized, without the need for a central server or
  trusted parties.  Users hold the crypto keys to their own money and
  transact directly with each other, with the help of a P2P network to
@@ -61,4 +61,4 @@ Description: peer-to-peer network based digital currency - Qt GUI
  Full transaction history is stored locally at each client.  This
  requires 10+ GB of space, slowly growing.
  .
- This package provides Blockchainenergy-Qt, a GUI for Blockchainenergy based on Qt.
+ This package provides BlockchainEnergy-Qt, a GUI for BlockchainEnergy based on Qt.

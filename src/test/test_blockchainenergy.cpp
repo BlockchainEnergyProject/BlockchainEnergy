@@ -3,7 +3,7 @@
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#define BOOST_TEST_MODULE Blockchainenergy Test Suite
+#define BOOST_TEST_MODULE BlockchainEnergy Test Suite
 
 #include "test_blockchainenergy.h"
 

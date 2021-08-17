@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_ZBCEWALLET_H
-#define Blockchainenergy_ZBCEWALLET_H
+#ifndef BlockchainEnergy_ZBCEWALLET_H
+#define BlockchainEnergy_ZBCEWALLET_H
 
 #include <map>
 #include "libzerocoin/Coin.h"
@@ -46,4 +46,4 @@ private:
     uint512 GetZerocoinSeed(uint32_t n);
 };
 
-#endif //Blockchainenergy_ZBCEWALLET_H
+#endif //BlockchainEnergy_ZBCEWALLET_H

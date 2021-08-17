@@ -10,10 +10,10 @@ coinstake input prevout is double spent in one of the other transactions in the 
 
 from time import sleep
 
-from fake_stake.base_test import Blockchainenergy_FakeStakeTest
+from fake_stake.base_test import BlockchainEnergy_FakeStakeTest
 
 
-class PoSDoubleSpend(Blockchainenergy_FakeStakeTest):
+class PoSDoubleSpend(BlockchainEnergy_FakeStakeTest):
 
     def run_test(self):
         self.description = "Covers the scenario of a valid PoS block with a valid coinstake transaction where the coinstake input prevout is double spent in one of the other transactions in the same block."

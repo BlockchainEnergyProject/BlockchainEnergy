@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_TEST_TEST_Blockchainenergy_H
-#define Blockchainenergy_TEST_TEST_Blockchainenergy_H
+#ifndef BlockchainEnergy_TEST_TEST_BlockchainEnergy_H
+#define BlockchainEnergy_TEST_TEST_BlockchainEnergy_H
 
 #include "txdb.h"
 

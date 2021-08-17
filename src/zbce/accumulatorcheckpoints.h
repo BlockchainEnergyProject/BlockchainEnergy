@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_ACCUMULATORCHECKPOINTS_H
-#define Blockchainenergy_ACCUMULATORCHECKPOINTS_H
+#ifndef BlockchainEnergy_ACCUMULATORCHECKPOINTS_H
+#define BlockchainEnergy_ACCUMULATORCHECKPOINTS_H
 
 #include <libzerocoin/bignum.h>
 #include <univalue/include/univalue.h>
@@ -18,4 +18,4 @@ namespace AccumulatorCheckpoints
     Checkpoint GetClosestCheckpoint(const int& nHeight, int& nHeightCheckpoint);
 }
 
-#endif //Blockchainenergy_ACCUMULATORCHECKPOINTS_H
+#endif //BlockchainEnergy_ACCUMULATORCHECKPOINTS_H

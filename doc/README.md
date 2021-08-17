@@ -1,13 +1,13 @@
-Blockchainenergy Core
+BlockchainEnergy Core
 =============
 
 Setup
 ---------------------
-[Blockchainenergy Core](http://blockchainenergy.org/wallet) is the original Blockchainenergy client and it builds the backbone of the network. However, it downloads and stores the entire history of Blockchainenergy transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
+[BlockchainEnergy Core](http://blockchainenergy.org/wallet) is the original BlockchainEnergy client and it builds the backbone of the network. However, it downloads and stores the entire history of BlockchainEnergy transactions; depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more. Thankfully you only have to do this once.
 
 Running
 ---------------------
-The following are some helpful notes on how to run Blockchainenergy Core on your native platform.
+The following are some helpful notes on how to run BlockchainEnergy Core on your native platform.
 
 ### Unix
 
@@ -22,18 +22,18 @@ Unpack the files into a directory, and then run blockchainenergy-qt.exe.
 
 ### macOS
 
-Drag Blockchainenergy-Qt to your applications folder, and then run Blockchainenergy-Qt.
+Drag BlockchainEnergy-Qt to your applications folder, and then run BlockchainEnergy-Qt.
 
 ### Need Help?
 
-* See the documentation at the [Blockchainenergy Wiki](https://github.com/Blockchainenergy-Project/Blockchainenergy/wiki)
+* See the documentation at the [BlockchainEnergy Wiki](https://github.com/BlockchainEnergy-Project/BlockchainEnergy/wiki)
 for help and more information.
-* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [Blockchainenergy Forum](http://forum.blockchainenergy.org/).
+* Ask for help on [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or on the [BlockchainEnergy Forum](http://forum.blockchainenergy.org/).
 * Join our Discord server [Discord Server](https://discord.blockchainenergy.org)
 
 Building
 ---------------------
-The following are developer notes on how to build Blockchainenergy Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
+The following are developer notes on how to build BlockchainEnergy Core on your native platform. They are not complete guides, but include notes on the necessary libraries, compile flags, etc.
 
 - [Dependencies](dependencies.md)
 - [macOS Build Notes](build-osx.md)
@@ -43,7 +43,7 @@ The following are developer notes on how to build Blockchainenergy Core on your 
 
 Development
 ---------------------
-The Blockchainenergy repo's [root README](/README.md) contains relevant information on the development process and automated testing.
+The BlockchainEnergy repo's [root README](/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Multiwallet Qt Development](multiwallet-qt.md)
@@ -56,8 +56,8 @@ The Blockchainenergy repo's [root README](/README.md) contains relevant informat
 - [Dnsseed Policy](dnsseed-policy.md)
 
 ### Resources
-* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or the [Blockchainenergy](http://forum.blockchainenergy.org/) forum.
-* Join the [Blockchainenergy Discord](https://discord.blockchainenergy.org).
+* Discuss on the [BitcoinTalk](https://bitcointalk.org/index.php?topic=1262920.0) or the [BlockchainEnergy](http://forum.blockchainenergy.org/) forum.
+* Join the [BlockchainEnergy Discord](https://discord.blockchainenergy.org).
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)

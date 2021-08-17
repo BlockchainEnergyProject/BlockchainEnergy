@@ -62,12 +62,12 @@
         <translation>Indirizzi di ricezione</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Questi sono gli indirizzi Blockchainenergy per l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
+        <source>These are your BlockchainEnergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Questi sono gli indirizzi BlockchainEnergy per l'invio di pagamenti. Controlla sempre l'importo e l'indirizzo di ricezione prima di inviare valuta.</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Questi sono gli indirizzi Blockchainenergy per la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
+        <source>These are your BlockchainEnergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Questi sono gli indirizzi BlockchainEnergy per la ricezione di pagamenti. Si raccomanda di utilizzare un indirizzo diverso per ogni transazione.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Conferma cifratura portafoglio</translation>
     </message>
     <message>
-        <source>Blockchainenergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
-        <translation>Blockchainenergy verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi BCE dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
+        <source>BlockchainEnergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
+        <translation>BlockchainEnergy verrà ora chiuso per completare il processo di cifratura. Ricorda che crittografare il tuo portafoglio non protegge completamente i tuoi BCE dal furto da parte di software malevoli che potrebbero infettare il tuo computer.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -254,12 +254,12 @@
         <translation>Indirizzo:</translation>
     </message>
     <message>
-        <source>Enter a Blockchainenergy Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Inserire un indirizzo Blockchainenergy da crittografare utilizzando BIP 38. Inserire una password nel campo centrale. Cliccare su "cripta" per generare la chiave privata crittografata.</translation>
+        <source>Enter a BlockchainEnergy Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Inserire un indirizzo BlockchainEnergy da crittografare utilizzando BIP 38. Inserire una password nel campo centrale. Cliccare su "cripta" per generare la chiave privata crittografata.</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to encrypt</source>
-        <translation>Indirizzo Blockchainenergy da crittografare</translation>
+        <source>The BlockchainEnergy address to encrypt</source>
+        <translation>Indirizzo BlockchainEnergy da crittografare</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Blockchainenergy address</source>
-        <translation>Crittografa la chiave privata per questo indirizzo Blockchainenergy</translation>
+        <source>Encrypt the private key for this BlockchainEnergy address</source>
+        <translation>Crittografa la chiave privata per questo indirizzo BlockchainEnergy</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -641,12 +641,12 @@
         <translation>Schede degli strumenti</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>Send coins to a Blockchainenergy address</source>
-        <translation>Invia valuta all'indirizzo Blockchainenergy</translation>
+        <source>Send coins to a BlockchainEnergy address</source>
+        <translation>Invia valuta all'indirizzo BlockchainEnergy</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and blockchainenergy: URIs)</source>
@@ -665,24 +665,24 @@
         <translation>Esplora i masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Blockchainenergy Core</source>
-        <translation>&amp;Informazioni Blockchainenergy Core</translation>
+        <source>&amp;About BlockchainEnergy Core</source>
+        <translation>&amp;Informazioni BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>Show information about Blockchainenergy Core</source>
-        <translation>Visualizza informazioni su Blockchainenergy Core</translation>
+        <source>Show information about BlockchainEnergy Core</source>
+        <translation>Visualizza informazioni su BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Blockchainenergy</source>
-        <translation>Modifica le opzioni di configurazione per Blockchainenergy</translation>
+        <source>Modify configuration options for BlockchainEnergy</source>
+        <translation>Modifica le opzioni di configurazione per BlockchainEnergy</translation>
     </message>
     <message>
-        <source>Sign messages with your Blockchainenergy addresses to prove you own them</source>
-        <translation>Firma i messaggi con i tuoi indirizzi Blockchainenergy per dimostrare di essere il proprietario </translation>
+        <source>Sign messages with your BlockchainEnergy addresses to prove you own them</source>
+        <translation>Firma i messaggi con i tuoi indirizzi BlockchainEnergy per dimostrare di essere il proprietario </translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Blockchainenergy addresses</source>
-        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi Blockchainenergy specifici</translation>
+        <source>Verify messages to ensure they were signed with specified BlockchainEnergy addresses</source>
+        <translation>Verifica i messaggi per assicurarsi che siano stati firmati con indirizzi BlockchainEnergy specifici</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -713,8 +713,8 @@
         <translation>Apri file di configurazione del Masternodo</translation>
     </message>
     <message>
-        <source>Open a Blockchainenergy: URI or payment request</source>
-        <translation>Apri un Blockchainenergy: URI o richiesta di pagamento</translation>
+        <source>Open a BlockchainEnergy: URI or payment request</source>
+        <translation>Apri un BlockchainEnergy: URI o richiesta di pagamento</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -725,12 +725,12 @@
         <translation>Finestra Block Explorer</translation>
     </message>
     <message>
-        <source>Show the Blockchainenergy Core help message to get a list with possible Blockchainenergy command-line options</source>
-        <translation>Mostra il messaggio di aiuto Blockchainenergy Core per ottenere un elenco con le possibili opzioni di riga di comando Blockchainenergy</translation>
+        <source>Show the BlockchainEnergy Core help message to get a list with possible BlockchainEnergy command-line options</source>
+        <translation>Mostra il messaggio di aiuto BlockchainEnergy Core per ottenere un elenco con le possibili opzioni di riga di comando BlockchainEnergy</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core client</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core client</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1149,8 +1149,8 @@ MultiSend: %1</translation>
         <translation>Modifica indirizzo di invio</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Blockchainenergy address.</source>
-        <translation>L'indirizzo inserito "%1" non è un indirizzo Blockchainenergy valido.</translation>
+        <source>The entered address "%1" is not a valid BlockchainEnergy address.</source>
+        <translation>L'indirizzo inserito "%1" non è un indirizzo BlockchainEnergy valido.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1206,16 +1206,16 @@ MultiSend: %1</translation>
         <translation>versione</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Blockchainenergy Core</source>
-        <translation>Informazioni su Blockchainenergy Core</translation>
+        <source>About BlockchainEnergy Core</source>
+        <translation>Informazioni su BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1261,16 +1261,16 @@ MultiSend: %1</translation>
         <translation>Benvenuto</translation>
     </message>
     <message>
-        <source>Welcome to Blockchainenergy Core.</source>
+        <source>Welcome to BlockchainEnergy Core.</source>
         <translation>Benvenuto in BCEIX Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Blockchainenergy Core will store its data.</source>
-        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove Blockchainenergy Core salverà i propri dati.</translation>
+        <source>As this is the first time the program is launched, you can choose where BlockchainEnergy Core will store its data.</source>
+        <translation>Essendo il primo avvio dell'applicazione, puoi scegliere dove BlockchainEnergy Core salverà i propri dati.</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core will download and store a copy of the Blockchainenergy block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Blockchainenergy Core scaricherà e salverà una copia della blockchain Blockchainenergy. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
+        <source>BlockchainEnergy Core will download and store a copy of the BlockchainEnergy block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>BlockchainEnergy Core scaricherà e salverà una copia della blockchain BlockchainEnergy. Verranno salvati almeno %1GB di dati in questa cartella, che cresceranno nel tempo. In questa cartella verrà salvato anche il portafoglio.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1281,8 +1281,8 @@ MultiSend: %1</translation>
         <translation>Utilizza una cartella dati personalizzata:</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1423,12 +1423,12 @@ MultiSend: %1</translation>
         <translation>Inserire indirizzo destinatario</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Blockchainenergy addresses after it matures.
-To Add: enter percentage to give and Blockchainenergy address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other BlockchainEnergy addresses after it matures.
+To Add: enter percentage to give and BlockchainEnergy address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend ti permette di inviare automaticamente ad una lista di indirizzi Blockchainenergy fino al 100% delle ricompense di stake o masternodi, dopo che queste sono mature.
-Per Aggiunger: inserisci la percentuale da inviare e l'indirizzo Blockchainenergy da aggiungere al vettore MultiSend.
+        <translation>MultiSend ti permette di inviare automaticamente ad una lista di indirizzi BlockchainEnergy fino al 100% delle ricompense di stake o masternodi, dopo che queste sono mature.
+Per Aggiunger: inserisci la percentuale da inviare e l'indirizzo BlockchainEnergy da aggiungere al vettore MultiSend.
 Per Eliminare: Inserisci l'indirizzo da eliminare e premi elimina.
 MultiSend non verrà attivato a meno che tu non prema su Attiva</translation>
     </message>
@@ -1729,8 +1729,8 @@ MultiSend non verrà attivato a meno che tu non prema su Attiva</translation>
         <translation>Saldo corrente bloccato in indirizzi sola-lettura.</translation>
     </message>
     <message>
-        <source>Your current Blockchainenergy balance, unconfirmed and immature transactions included</source>
-        <translation>Il tuo saldo Blockchainenergy corrente, incluse le transazioni non confermate e non mature</translation>
+        <source>Your current BlockchainEnergy balance, unconfirmed and immature transactions included</source>
+        <translation>Il tuo saldo BlockchainEnergy corrente, incluse le transazioni non confermate e non mature</translation>
     </message>
     <message>
         <source>zBCE Balance</source>
@@ -2148,8 +2148,8 @@ Per cambiare la percentuale (riavvio non necessario):
         <translation>Ammontare</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     </context>
 <context>
@@ -2411,8 +2411,8 @@ Per cambiare la percentuale (riavvio non necessario):
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Blockchainenergy address to sign the message with</source>
-        <translation>L'indirizzo Blockchainenergy per firmare il messaggio con</translation>
+        <source>The BlockchainEnergy address to sign the message with</source>
+        <translation>L'indirizzo BlockchainEnergy per firmare il messaggio con</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2435,16 +2435,16 @@ Per cambiare la percentuale (riavvio non necessario):
         <translation>Copiare la firma corrente negli Appunti di sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Blockchainenergy address</source>
-        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo Blockchainenergy</translation>
+        <source>Sign the message to prove you own this BlockchainEnergy address</source>
+        <translation>Firmare il messaggio per dimostrare di possedere questo indirizzo BlockchainEnergy</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address the message was signed with</source>
-        <translation>L'indirizzo Blockchainenergy con cui è stato firmato il messaggio</translation>
+        <source>The BlockchainEnergy address the message was signed with</source>
+        <translation>L'indirizzo BlockchainEnergy con cui è stato firmato il messaggio</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Blockchainenergy address</source>
-        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo Blockchainenergy specificato </translation>
+        <source>Verify the message to ensure it was signed with the specified BlockchainEnergy address</source>
+        <translation>Verificare il messaggio per assicurarsi che sia stato firmato con l'indirizzo BlockchainEnergy specificato </translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -2482,8 +2482,8 @@ Per cambiare la percentuale (riavvio non necessario):
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     </context>
 <context>

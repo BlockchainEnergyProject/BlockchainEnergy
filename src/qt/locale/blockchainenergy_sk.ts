@@ -62,12 +62,12 @@
         <translation>Prijímacia adresa</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Toto sú vaše Blockchainenergy adresy na odosielanie platieb. Pred odoslaním vždy skontrolujte výšku a adresu prijemcu.</translation>
+        <source>These are your BlockchainEnergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Toto sú vaše BlockchainEnergy adresy na odosielanie platieb. Pred odoslaním vždy skontrolujte výšku a adresu prijemcu.</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Toto sú vaše Blockchainenergy adresy na prijímanie platieb. Pre každú transakciu sa odporúča použiť novú prijímaciu adresu.</translation>
+        <source>These are your BlockchainEnergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Toto sú vaše BlockchainEnergy adresy na prijímanie platieb. Pre každú transakciu sa odporúča použiť novú prijímaciu adresu.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,8 +172,8 @@
         <translation>Potvrďte šifrovanie peňaženky</translation>
     </message>
     <message>
-        <source>Blockchainenergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
-        <translation>Blockchainenergy sa teraz ukončí, aby dokončil proces šifrovania. Nezabudnite, že šifrovanie peňaženky nemôže úplne ochrániť vaše BCE pred odcudzením škodlivým softvérom, ktorý infikuje váš počítač.</translation>
+        <source>BlockchainEnergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
+        <translation>BlockchainEnergy sa teraz ukončí, aby dokončil proces šifrovania. Nezabudnite, že šifrovanie peňaženky nemôže úplne ochrániť vaše BCE pred odcudzením škodlivým softvérom, ktorý infikuje váš počítač.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -569,12 +569,12 @@
         <translation>Panel nástrojov Záložky</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>Send coins to a Blockchainenergy address</source>
-        <translation>Odoslať mince na adresu Blockchainenergy</translation>
+        <source>Send coins to a BlockchainEnergy address</source>
+        <translation>Odoslať mince na adresu BlockchainEnergy</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and blockchainenergy: URIs)</source>
@@ -589,24 +589,24 @@
         <translation>Prezrieť masternody</translation>
     </message>
     <message>
-        <source>&amp;About Blockchainenergy Core</source>
-        <translation>O Blockchainenergy Core</translation>
+        <source>&amp;About BlockchainEnergy Core</source>
+        <translation>O BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>Show information about Blockchainenergy Core</source>
-        <translation>Zobraziť informácie o Blockchainenergy Core</translation>
+        <source>Show information about BlockchainEnergy Core</source>
+        <translation>Zobraziť informácie o BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Blockchainenergy</source>
-        <translation>Zmeňte možnosti konfigurácie pre Blockchainenergy</translation>
+        <source>Modify configuration options for BlockchainEnergy</source>
+        <translation>Zmeňte možnosti konfigurácie pre BlockchainEnergy</translation>
     </message>
     <message>
-        <source>Sign messages with your Blockchainenergy addresses to prove you own them</source>
-        <translation>Podpíšte správy pomocou adresy Blockchainenergy, aby ste preukázali, že ich vlastníte</translation>
+        <source>Sign messages with your BlockchainEnergy addresses to prove you own them</source>
+        <translation>Podpíšte správy pomocou adresy BlockchainEnergy, aby ste preukázali, že ich vlastníte</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Blockchainenergy addresses</source>
-        <translation>Overte správy, aby sa zabezpečilo, že boli podpísané zadanými Blockchainenergy adresami</translation>
+        <source>Verify messages to ensure they were signed with specified BlockchainEnergy addresses</source>
+        <translation>Overte správy, aby sa zabezpečilo, že boli podpísané zadanými BlockchainEnergy adresami</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -637,8 +637,8 @@
         <translation>Otvoriť konfiguračný súbor masternodu</translation>
     </message>
     <message>
-        <source>Open a Blockchainenergy: URI or payment request</source>
-        <translation>Otvorte Blockchainenergy: URI alebo žiadosť o platbu</translation>
+        <source>Open a BlockchainEnergy: URI or payment request</source>
+        <translation>Otvorte BlockchainEnergy: URI alebo žiadosť o platbu</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -649,12 +649,12 @@
         <translation>Okno blockchain prehliadača</translation>
     </message>
     <message>
-        <source>Show the Blockchainenergy Core help message to get a list with possible Blockchainenergy command-line options</source>
-        <translation>Zobraziť pomocnú správu programu Blockchainenergy Core a získajte zoznam možností príkazového riadka Blockchainenergy</translation>
+        <source>Show the BlockchainEnergy Core help message to get a list with possible BlockchainEnergy command-line options</source>
+        <translation>Zobraziť pomocnú správu programu BlockchainEnergy Core a získajte zoznam možností príkazového riadka BlockchainEnergy</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core client</source>
-        <translation>Blockchainenergy Core klient</translation>
+        <source>BlockchainEnergy Core client</source>
+        <translation>BlockchainEnergy Core klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -870,15 +870,15 @@ MultiSend: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -982,8 +982,8 @@ MultiSend: %1</translation>
         <translation>Suma</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     </context>
 <context>
@@ -1117,8 +1117,8 @@ MultiSend: %1</translation>
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Blockchainenergy address to sign the message with</source>
-        <translation>Adresa Blockchainenergy, ktorou chcete správu podpísať</translation>
+        <source>The BlockchainEnergy address to sign the message with</source>
+        <translation>Adresa BlockchainEnergy, ktorou chcete správu podpísať</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1141,16 +1141,16 @@ MultiSend: %1</translation>
         <translation>Skopírujte aktuálny podpis do schránky</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Blockchainenergy address</source>
-        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto Blockchainenergy adresy</translation>
+        <source>Sign the message to prove you own this BlockchainEnergy address</source>
+        <translation>Podpíšte správu, aby ste preukázali, že ste vlastníkom tejto BlockchainEnergy adresy</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address the message was signed with</source>
-        <translation>Blockchainenergy adresa, ktorou bola správa podpísaná</translation>
+        <source>The BlockchainEnergy address the message was signed with</source>
+        <translation>BlockchainEnergy adresa, ktorou bola správa podpísaná</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Blockchainenergy address</source>
-        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou Blockchainenergy adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified BlockchainEnergy address</source>
+        <translation>Skontrolujte správu, aby ste sa uistili, že bola podpísaná zadanou BlockchainEnergy adresou</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -1188,8 +1188,8 @@ MultiSend: %1</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     </context>
 <context>

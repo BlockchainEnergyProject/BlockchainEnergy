@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_INVALID_OUTPOINTS_JSON_H
-#define Blockchainenergy_INVALID_OUTPOINTS_JSON_H
+#ifndef BlockchainEnergy_INVALID_OUTPOINTS_JSON_H
+#define BlockchainEnergy_INVALID_OUTPOINTS_JSON_H
 #include <string>
 
 std::string LoadInvalidOutPoints()
@@ -6793,4 +6793,4 @@ std::string LoadInvalidOutPoints()
     return str;
 }
 
-#endif //Blockchainenergy_INVALID_OUTPOINTS_JSON_H
+#endif //BlockchainEnergy_INVALID_OUTPOINTS_JSON_H

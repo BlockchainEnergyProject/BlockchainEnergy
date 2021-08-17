@@ -337,10 +337,10 @@
 #define PACKAGE_BUGREPORT "www.blockchainenergy.org"
 
 /* Define to the full name of this package. */
-#define PACKAGE_NAME "Blockchainenergy Core"
+#define PACKAGE_NAME "BlockchainEnergy Core"
 
 /* Define to the full name and version of this package. */
-#define PACKAGE_STRING "Blockchainenergy Core 1.0.0"
+#define PACKAGE_STRING "BlockchainEnergy Core 1.0.0"
 
 /* Define to the one symbol short name of this package. */
 #define PACKAGE_TARNAME "blockchainenergy"

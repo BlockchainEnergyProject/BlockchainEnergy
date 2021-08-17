@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_MINTPOOL_H
-#define Blockchainenergy_MINTPOOL_H
+#ifndef BlockchainEnergy_MINTPOOL_H
+#define BlockchainEnergy_MINTPOOL_H
 
 #include <map>
 #include <list>
@@ -50,4 +50,4 @@ public:
 };
 
 
-#endif //Blockchainenergy_MINTPOOL_H
+#endif //BlockchainEnergy_MINTPOOL_H

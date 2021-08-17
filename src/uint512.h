@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_UINT512_H
-#define Blockchainenergy_UINT512_H
+#ifndef BlockchainEnergy_UINT512_H
+#define BlockchainEnergy_UINT512_H
 
 #include "arith_uint256.h"
 #include "uint256.h"
@@ -42,4 +42,4 @@ inline uint512 uint512S(const char* str)
     return rv;
 }
 
-#endif // Blockchainenergy_UINT512_H
+#endif // BlockchainEnergy_UINT512_H

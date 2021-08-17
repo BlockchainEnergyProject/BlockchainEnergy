@@ -62,12 +62,12 @@
         <translation>Адреса отримання</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Це ваші Blockchainenergy-адреси для надсилання платежів. Завжди перевіряйте суму та адресу одержувача перед відправленням монет.</translation>
+        <source>These are your BlockchainEnergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Це ваші BlockchainEnergy-адреси для надсилання платежів. Завжди перевіряйте суму та адресу одержувача перед відправленням монет.</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Це ваші Blockchainenergy адреси для отримання платежів. Для кожної транзакції рекомендується використовувати нову адресу одержувача.</translation>
+        <source>These are your BlockchainEnergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Це ваші BlockchainEnergy адреси для отримання платежів. Для кожної транзакції рекомендується використовувати нову адресу одержувача.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,8 +172,8 @@
         <translation>Підтвердження шифрування гаманця</translation>
     </message>
     <message>
-        <source>Blockchainenergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
-        <translation>Blockchainenergy зараз закриється, щоб завершити процес шифрування. Пам'ятайте, що шифрування гаманця не може повністю захистити ваші BCE'и від крадіжки зловмисним програмним забезпеченням, що заражає ваш комп'ютер.</translation>
+        <source>BlockchainEnergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
+        <translation>BlockchainEnergy зараз закриється, щоб завершити процес шифрування. Пам'ятайте, що шифрування гаманця не може повністю захистити ваші BCE'и від крадіжки зловмисним програмним забезпеченням, що заражає ваш комп'ютер.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>

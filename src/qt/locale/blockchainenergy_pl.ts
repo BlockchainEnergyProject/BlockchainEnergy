@@ -62,12 +62,12 @@
         <translation>Adres odbiorczy</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To są twoje adresy Blockchainenergy do wysyłania płatności. Zawsze sprawdzaj kwotę i adres odbiorcy przed wysłaniem monet.</translation>
+        <source>These are your BlockchainEnergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>To są twoje adresy BlockchainEnergy do wysyłania płatności. Zawsze sprawdzaj kwotę i adres odbiorcy przed wysłaniem monet.</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To są twoje adresy Blockchainenergy do otrzymywania płatności. Zaleca się użycie nowego adresu odbiorczego dla każdej transakcji.</translation>
+        <source>These are your BlockchainEnergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To są twoje adresy BlockchainEnergy do otrzymywania płatności. Zaleca się użycie nowego adresu odbiorczego dla każdej transakcji.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -177,8 +177,8 @@ Użyj hasła składającego się z dziesięciu lub więcej losowych znaków lub 
         <translation>Potwierdź szyfrowanie portfela</translation>
     </message>
     <message>
-        <source>Blockchainenergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
-        <translation>Blockchainenergy zamknie się teraz, aby zakończyć proces szyfrowania. Pamiętaj, że zaszyfrowanie portfela nie chroni w pełni Twoich BCE przed kradzieżą przez złośliwe oprogramowanie infekujące Twój komputer.</translation>
+        <source>BlockchainEnergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
+        <translation>BlockchainEnergy zamknie się teraz, aby zakończyć proces szyfrowania. Pamiętaj, że zaszyfrowanie portfela nie chroni w pełni Twoich BCE przed kradzieżą przez złośliwe oprogramowanie infekujące Twój komputer.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -255,12 +255,12 @@ Użyj hasła składającego się z dziesięciu lub więcej losowych znaków lub 
         <translation>Adres:</translation>
     </message>
     <message>
-        <source>Enter a Blockchainenergy Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Wprowadź adres Blockchainenergy, który chcesz zaszyfrować za pomocą BIP 38. Wprowadź hasło w środkowym polu. Naciśnij przycisk szyfrowania, aby obliczyć zaszyfrowany klucz prywatny.</translation>
+        <source>Enter a BlockchainEnergy Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Wprowadź adres BlockchainEnergy, który chcesz zaszyfrować za pomocą BIP 38. Wprowadź hasło w środkowym polu. Naciśnij przycisk szyfrowania, aby obliczyć zaszyfrowany klucz prywatny.</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to encrypt</source>
-        <translation>Adres Blockchainenergy do zaszyfrowania</translation>
+        <source>The BlockchainEnergy address to encrypt</source>
+        <translation>Adres BlockchainEnergy do zaszyfrowania</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -291,8 +291,8 @@ Użyj hasła składającego się z dziesięciu lub więcej losowych znaków lub 
         <translation>Skopiuj bieżący podpis do schowka systemowego</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Blockchainenergy address</source>
-        <translation>Zaszyfruj klucz prywatny dla tego adresu Blockchainenergy</translation>
+        <source>Encrypt the private key for this BlockchainEnergy address</source>
+        <translation>Zaszyfruj klucz prywatny dla tego adresu BlockchainEnergy</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -654,12 +654,12 @@ Użyj hasła składającego się z dziesięciu lub więcej losowych znaków lub 
         <translation>Pasek narzędzi</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>Send coins to a Blockchainenergy address</source>
-        <translation>Wyślij monety do adresu Blockchainenergy</translation>
+        <source>Send coins to a BlockchainEnergy address</source>
+        <translation>Wyślij monety do adresu BlockchainEnergy</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and blockchainenergy: URIs)</source>
@@ -678,24 +678,24 @@ Użyj hasła składającego się z dziesięciu lub więcej losowych znaków lub 
         <translation>Przeglądaj masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Blockchainenergy Core</source>
-        <translation>&amp;O Blockchainenergy Core</translation>
+        <source>&amp;About BlockchainEnergy Core</source>
+        <translation>&amp;O BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>Show information about Blockchainenergy Core</source>
-        <translation>Pokaż informacje o Blockchainenergy Core</translation>
+        <source>Show information about BlockchainEnergy Core</source>
+        <translation>Pokaż informacje o BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Blockchainenergy</source>
-        <translation>Modyfikuj opcje konfiguracji Blockchainenergy</translation>
+        <source>Modify configuration options for BlockchainEnergy</source>
+        <translation>Modyfikuj opcje konfiguracji BlockchainEnergy</translation>
     </message>
     <message>
-        <source>Sign messages with your Blockchainenergy addresses to prove you own them</source>
-        <translation>Zatwierdź wiadomość z twoimi adresami Blockchainenergy, by udowodnić, że jesteś w ich posiadaniu</translation>
+        <source>Sign messages with your BlockchainEnergy addresses to prove you own them</source>
+        <translation>Zatwierdź wiadomość z twoimi adresami BlockchainEnergy, by udowodnić, że jesteś w ich posiadaniu</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Blockchainenergy addresses</source>
-        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu Blockchainenergy</translation>
+        <source>Verify messages to ensure they were signed with specified BlockchainEnergy addresses</source>
+        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu BlockchainEnergy</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -726,8 +726,8 @@ Użyj hasła składającego się z dziesięciu lub więcej losowych znaków lub 
         <translation>Otwórz plik konfiguracyjny Masternode</translation>
     </message>
     <message>
-        <source>Open a Blockchainenergy: URI or payment request</source>
-        <translation>Otwórz Blockchainenergy: URI i żądanie zapłaty</translation>
+        <source>Open a BlockchainEnergy: URI or payment request</source>
+        <translation>Otwórz BlockchainEnergy: URI i żądanie zapłaty</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -738,12 +738,12 @@ Użyj hasła składającego się z dziesięciu lub więcej losowych znaków lub 
         <translation>Okno eksplorera bloków</translation>
     </message>
     <message>
-        <source>Show the Blockchainenergy Core help message to get a list with possible Blockchainenergy command-line options</source>
-        <translation>Pokaż wiadomość pomocy rdzenia Blockchainenergy, aby dostać listę możliwych opcji Blockchainenergy command-line</translation>
+        <source>Show the BlockchainEnergy Core help message to get a list with possible BlockchainEnergy command-line options</source>
+        <translation>Pokaż wiadomość pomocy rdzenia BlockchainEnergy, aby dostać listę możliwych opcji BlockchainEnergy command-line</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core client</source>
-        <translation>Blockchainenergy Core klient</translation>
+        <source>BlockchainEnergy Core client</source>
+        <translation>BlockchainEnergy Core klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -854,8 +854,8 @@ MultiWysyłlka: %1</translation>
         <translation>Portfel jest &lt;b&gt;zaszyfrowany&lt;/b&gt; i obecnie &lt;b&gt;zablokowany&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Blockchainenergy can no longer continue safely and will quit.</source>
-        <translation>Wystąpił błąd krytyczny. Blockchainenergy nie może już działać bezpiecznie i zakończy działanie.</translation>
+        <source>A fatal error occurred. BlockchainEnergy can no longer continue safely and will quit.</source>
+        <translation>Wystąpił błąd krytyczny. BlockchainEnergy nie może już działać bezpiecznie i zakończy działanie.</translation>
     </message>
 </context>
 <context>
@@ -1178,8 +1178,8 @@ MultiWysyłlka: %1</translation>
         <translation>Edytuj adres wysyłania</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Blockchainenergy address.</source>
-        <translation>Wprowadzony adres "%1" nie jest prawidłowym adresem Blockchainenergy.</translation>
+        <source>The entered address "%1" is not a valid BlockchainEnergy address.</source>
+        <translation>Wprowadzony adres "%1" nie jest prawidłowym adresem BlockchainEnergy.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1267,16 +1267,16 @@ MultiWysyłlka: %1</translation>
         <translation>Wersja</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Blockchainenergy Core</source>
-        <translation>O Blockchainenergy Core</translation>
+        <source>About BlockchainEnergy Core</source>
+        <translation>O BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1322,16 +1322,16 @@ MultiWysyłlka: %1</translation>
         <translation>Zapraszamy</translation>
     </message>
     <message>
-        <source>Welcome to Blockchainenergy Core.</source>
-        <translation>Zapraszamy do Blockchainenergy Core</translation>
+        <source>Welcome to BlockchainEnergy Core.</source>
+        <translation>Zapraszamy do BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Blockchainenergy Core will store its data.</source>
-        <translation>Ponieważ program jest uruchamiany po raz pierwszy, możesz wybrać miejsce, w którym Blockchainenergy Core będzie przechowywać swoje dane.</translation>
+        <source>As this is the first time the program is launched, you can choose where BlockchainEnergy Core will store its data.</source>
+        <translation>Ponieważ program jest uruchamiany po raz pierwszy, możesz wybrać miejsce, w którym BlockchainEnergy Core będzie przechowywać swoje dane.</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core will download and store a copy of the Blockchainenergy block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Blockchainenergy Core pobierze i zapisze kopię łańcucha bloków Blockchainenergy. Przynajmniej %1 GB danych zostanie zapisanych w tym katalogu, a jego liczba będzie rosnąć z czasem. Portfel zostanie również zapisany w tym katalogu.</translation>
+        <source>BlockchainEnergy Core will download and store a copy of the BlockchainEnergy block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>BlockchainEnergy Core pobierze i zapisze kopię łańcucha bloków BlockchainEnergy. Przynajmniej %1 GB danych zostanie zapisanych w tym katalogu, a jego liczba będzie rosnąć z czasem. Portfel zostanie również zapisany w tym katalogu.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1342,8 +1342,8 @@ MultiWysyłlka: %1</translation>
         <translation>Użyj niestandardowej ścieżki danych</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1484,11 +1484,11 @@ MultiWysyłlka: %1</translation>
         <translation>Wprowadź adres do wysłania</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Blockchainenergy addresses after it matures.
-To Add: enter percentage to give and Blockchainenergy address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other BlockchainEnergy addresses after it matures.
+To Add: enter percentage to give and BlockchainEnergy address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend pozwala na automatyczne przesłanie do 100% swojej nagrody za staking lub masternoda na listę innych adresów Blockchainenergy po osiągnięciu dojrzałości. Aby dodać: wpisz procent  i adres Blockchainenergy, żeby dodać do wektora MultiSend. Aby usunąć: Enter adres do usunięcia i naciśnij Usuń. MultiSend nie zostanie aktywowany, dopóki nie klikniesz Aktywuj</translation>
+        <translation>MultiSend pozwala na automatyczne przesłanie do 100% swojej nagrody za staking lub masternoda na listę innych adresów BlockchainEnergy po osiągnięciu dojrzałości. Aby dodać: wpisz procent  i adres BlockchainEnergy, żeby dodać do wektora MultiSend. Aby usunąć: Enter adres do usunięcia i naciśnij Usuń. MultiSend nie zostanie aktywowany, dopóki nie klikniesz Aktywuj</translation>
     </message>
     <message>
         <source>Add to MultiSend Vector</source>
@@ -1876,8 +1876,8 @@ Please be patient after clicking import.</source>
         <translation>Jeśli wyłączysz wydawanie niepotwierdzonych reszt, reszta z transakcji nie może być użyta, dopóki transakcja nie uzyska co najmniej jednego potwierdzenia. Ma to również wpływ na sposób obliczania salda.</translation>
     </message>
     <message>
-        <source>Automatically open the Blockchainenergy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatycznie otwórz port klienta Blockchainenergy na routerze. Działa to tylko wtedy, gdy twój router obsługuje UPnP i jest włączony.</translation>
+        <source>Automatically open the BlockchainEnergy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatycznie otwórz port klienta BlockchainEnergy na routerze. Działa to tylko wtedy, gdy twój router obsługuje UPnP i jest włączony.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1896,12 +1896,12 @@ Please be patient after clicking import.</source>
         <translation>Ekspert</translation>
     </message>
     <message>
-        <source>Automatically start Blockchainenergy after logging in to the system.</source>
-        <translation>Automatycznie uruchom Blockchainenergy po zalogowaniu do systemu</translation>
+        <source>Automatically start BlockchainEnergy after logging in to the system.</source>
+        <translation>Automatycznie uruchom BlockchainEnergy po zalogowaniu do systemu</translation>
     </message>
     <message>
-        <source>&amp;Start Blockchainenergy on system login</source>
-        <translation>&amp;Uruchom Blockchainenergy podczas logowania do systemu</translation>
+        <source>&amp;Start BlockchainEnergy on system login</source>
+        <translation>&amp;Uruchom BlockchainEnergy podczas logowania do systemu</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1928,8 +1928,8 @@ Please be patient after clicking import.</source>
         <translation>&amp;Sieć</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Blockchainenergy.</source>
-        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie Blockchainenergy</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BlockchainEnergy.</source>
+        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie BlockchainEnergy</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1978,8 +1978,8 @@ https://www.transifex.com/blockchainenergy-project/blockchainenergy-project-tran
         <translation>Próg podziału stawki 'stake' :</translation>
     </message>
     <message>
-        <source>Connect to the Blockchainenergy network through a SOCKS5 proxy.</source>
-        <translation>Połącz z siecią Blockchainenergy poprzez SOCKS5 proxy.</translation>
+        <source>Connect to the BlockchainEnergy network through a SOCKS5 proxy.</source>
+        <translation>Połącz z siecią BlockchainEnergy poprzez SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2161,8 +2161,8 @@ https://www.transifex.com/blockchainenergy-project/blockchainenergy-project-tran
         <translation>Aktualne zablokowane saldo na testowych adresach</translation>
     </message>
     <message>
-        <source>Your current Blockchainenergy balance, unconfirmed and immature transactions included</source>
-        <translation>Twoje bieżące saldo Blockchainenergy, niepotwierdzone transakcje zostały uwzględnione</translation>
+        <source>Your current BlockchainEnergy balance, unconfirmed and immature transactions included</source>
+        <translation>Twoje bieżące saldo BlockchainEnergy, niepotwierdzone transakcje zostały uwzględnione</translation>
     </message>
     <message>
         <source>zBCE Balance</source>
@@ -2181,8 +2181,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Niedojrzały: potwierdzony, ale mniej niż 1 mint o tym samym nominale po wybiciu</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Blockchainenergy network after a connection is established, but this process has not completed yet.</source>
-        <translation>Wyświetlane informacje mogą być nieaktualne. Twój portfel automatycznie synchronizuje się z siecią Blockchainenergy po nawiązaniu połączenia, ale ten proces jeszcze się nie zakończył.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BlockchainEnergy network after a connection is established, but this process has not completed yet.</source>
+        <translation>Wyświetlane informacje mogą być nieaktualne. Twój portfel automatycznie synchronizuje się z siecią BlockchainEnergy po nawiązaniu połączenia, ale ten proces jeszcze się nie zakończył.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2298,8 +2298,8 @@ Aby włączyć AutoMint zmień "enablezeromint = 0" na "enablezeromint = 1" w pl
         <translation>Nie można uruchomić blockchainenergy: click-to-pay handler</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Blockchainenergy address or malformed URI parameters.</source>
-        <translation>Nie można przeanalizować identyfikatora URI! Może to być spowodowane nieprawidłowym adresem Blockchainenergy lub nieprawidłowymi parametrami URI.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid BlockchainEnergy address or malformed URI parameters.</source>
+        <translation>Nie można przeanalizować identyfikatora URI! Może to być spowodowane nieprawidłowym adresem BlockchainEnergy lub nieprawidłowymi parametrami URI.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2384,8 +2384,8 @@ Aby włączyć AutoMint zmień "enablezeromint = 0" na "enablezeromint = 1" w pl
         <translation>Działania Zerocoin:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Blockchainenergy network after a connection is established, but this process has not completed yet.</source>
-        <translation>Wyświetlane informacje mogą być nieaktualne. Twój portfel automatycznie synchronizuje się z siecią Blockchainenergy po nawiązaniu połączenia, ale ten proces jeszcze się nie zakończył.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BlockchainEnergy network after a connection is established, but this process has not completed yet.</source>
+        <translation>Wyświetlane informacje mogą być nieaktualne. Twój portfel automatycznie synchronizuje się z siecią BlockchainEnergy po nawiązaniu połączenia, ale ten proces jeszcze się nie zakończył.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2468,8 +2468,8 @@ zBCE są dojrzałe, gdy mają więcej niż 20 potwierdzeń I więcej niż 2 mint
         <translation>&amp;Zapłać</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Adres Blockchainenergy do wysłania płatności do. Tworzy lokalną płatność dla siebie, gdy jest pusta.</translation>
+        <source>The BlockchainEnergy address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>Adres BlockchainEnergy do wysłania płatności do. Tworzy lokalną płatność dla siebie, gdy jest pusta.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2860,8 +2860,8 @@ Proszę być cierpliwym...</translation>
         <translation>Nie podano adresu "Zapłać do", tworząc płatność lokalną</translation>
     </message>
     <message>
-        <source>Invalid Blockchainenergy Address</source>
-        <translation>Nieprawidłowy adres Blockchainenergy</translation>
+        <source>Invalid BlockchainEnergy Address</source>
+        <translation>Nieprawidłowy adres BlockchainEnergy</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -3012,8 +3012,8 @@ Proszę być cierpliwym...</translation>
         <translation>Ilość</translation>
     </message>
     <message>
-        <source>Enter a Blockchainenergy address (e.g. %1)</source>
-        <translation>Wprowadź adres Blockchainenergy (np. %1)</translation>
+        <source>Enter a BlockchainEnergy address (e.g. %1)</source>
+        <translation>Wprowadź adres BlockchainEnergy (np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -3060,8 +3060,8 @@ Proszę być cierpliwym...</translation>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -3080,8 +3080,8 @@ Proszę być cierpliwym...</translation>
         <translation>Błąd odczytu pliku konfiguracyjnego masternode: %1</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core didn't yet exit safely...</source>
-        <translation>Blockchainenergy Core nie zamkną się jeszcze bezpiecznie ...</translation>
+        <source>BlockchainEnergy Core didn't yet exit safely...</source>
+        <translation>BlockchainEnergy Core nie zamkną się jeszcze bezpiecznie ...</translation>
     </message>
 </context>
 <context>
@@ -3178,8 +3178,8 @@ Proszę być cierpliwym...</translation>
         <translation>Łańcuch bloków</translation>
     </message>
     <message>
-        <source>Open the Blockchainenergy debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otwórz plik dziennika debugowania Blockchainenergy z bieżącego katalogu danych. Może to potrwać kilka sekund w przypadku dużych plików dziennika.</translation>
+        <source>Open the BlockchainEnergy debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otwórz plik dziennika debugowania BlockchainEnergy z bieżącego katalogu danych. Może to potrwać kilka sekund w przypadku dużych plików dziennika.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3394,8 +3394,8 @@ Proszę być cierpliwym...</translation>
         <translation>Z</translation>
     </message>
     <message>
-        <source>Welcome to the Blockchainenergy RPC console.</source>
-        <translation>Witamy w konsoli Blockchainenergy RPC.</translation>
+        <source>Welcome to the BlockchainEnergy RPC console.</source>
+        <translation>Witamy w konsoli BlockchainEnergy RPC.</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
@@ -3537,16 +3537,16 @@ Proszę być cierpliwym...</translation>
         <translation>&amp;Ilość:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Blockchainenergy network.</source>
-        <translation>Opcjonalna wiadomość dołączana do żądania zapłaty, która zostanie wyświetlona przy otwarciu żądania. Uwaga: Wiadomość nie będzie wysłana przez sieć Blockchainenergy.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BlockchainEnergy network.</source>
+        <translation>Opcjonalna wiadomość dołączana do żądania zapłaty, która zostanie wyświetlona przy otwarciu żądania. Uwaga: Wiadomość nie będzie wysłana przez sieć BlockchainEnergy.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>OTRZYMAJ</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Blockchainenergy network.</source>
-        <translation>Opcjonalna wiadomość dołączana do żądania zapłaty, która zostanie wyświetlona po otwarciu żądania.&lt;br&gt;Uwaga: Wiadomość nie będzie wysłana przez sieć Blockchainenergy.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the BlockchainEnergy network.</source>
+        <translation>Opcjonalna wiadomość dołączana do żądania zapłaty, która zostanie wyświetlona po otwarciu żądania.&lt;br&gt;Uwaga: Wiadomość nie będzie wysłana przez sieć BlockchainEnergy.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3850,7 +3850,7 @@ Proszę być cierpliwym...</translation>
         <translation>Jeśli opłata trasakcyjna jest ustawiona na 1000 uBCE i transakcja ma tylko 250 bajtów, to płaci się tylko 250 uBCE, &lt;br /&gt; W przypadku transakcji większych niż kilobajt płacisz za kilobajta.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Blockchainenergy transactions than the network can process.</source>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BlockchainEnergy transactions than the network can process.</source>
         <translation>Płacenie tylko minimalnej opłaty jest w porządku, o ile w blokach jest mniejsza ilość transakcji niż miejsca&lt;br /&gt;Ale pamiętaj, że może to skończyć się niepotwierdzoną transakcją, gdy pojawi się większe ruch niż sieć może przetworzyć.</translation>
     </message>
     <message>
@@ -3946,8 +3946,8 @@ Proszę być cierpliwym...</translation>
         <translation>Narzędzie podzielonego bloku nie działa z wieloma adresami. Spróbuj ponownie.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Blockchainenergy address</source>
-        <translation>Ostrzeżenie: Nieprawidłowy adres Blockchainenergy</translation>
+        <source>Warning: Invalid BlockchainEnergy address</source>
+        <translation>Ostrzeżenie: Nieprawidłowy adres BlockchainEnergy</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -4049,8 +4049,8 @@ Proszę być cierpliwym...</translation>
         <translation>&amp;Zapłać</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to send the payment to</source>
-        <translation>Adres Blockchainenergy do wysłania płatności do</translation>
+        <source>The BlockchainEnergy address to send the payment to</source>
+        <translation>Adres BlockchainEnergy do wysłania płatności do</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4089,8 +4089,8 @@ Proszę być cierpliwym...</translation>
         <translation>Wiadomość:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Blockchainenergy: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Blockchainenergy network.</source>
-        <translation>Komunikat dołączony do identyfikatora Blockchainenergy: URI, który będzie przechowywany wraz z transakcją w celach informacyjnych. Uwaga: ten komunikat nie zostanie wysłany przez sieć Blockchainenergy.</translation>
+        <source>A message that was attached to the BlockchainEnergy: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the BlockchainEnergy network.</source>
+        <translation>Komunikat dołączony do identyfikatora BlockchainEnergy: URI, który będzie przechowywany wraz z transakcją w celach informacyjnych. Uwaga: ten komunikat nie zostanie wysłany przez sieć BlockchainEnergy.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -4116,8 +4116,8 @@ Proszę być cierpliwym...</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Blockchainenergy Core is shutting down...</source>
-        <translation>Blockchainenergy Core się wyłącza ...</translation>
+        <source>BlockchainEnergy Core is shutting down...</source>
+        <translation>BlockchainEnergy Core się wyłącza ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -4139,8 +4139,8 @@ Proszę być cierpliwym...</translation>
         <translation>Możesz podpisywać wiadomości ze swoimi adresami, aby udowodnić, że je posiadasz. Uważaj, aby nie podpisać niczego niejasnego, ponieważ ataki phishingowe mogą skłonić Cię do podpisania Twojej tożsamości. Podawaj tylko w pełni szczegółowe oświadczenia, na które wyrażasz zgodę.</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to sign the message with</source>
-        <translation>Adres Blockchainenergy do podpisania wiadomości za pomocą</translation>
+        <source>The BlockchainEnergy address to sign the message with</source>
+        <translation>Adres BlockchainEnergy do podpisania wiadomości za pomocą</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -4171,16 +4171,16 @@ Proszę być cierpliwym...</translation>
         <translation>Skopiuj bieżący podpis do schowka systemowego</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Blockchainenergy address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres Blockchainenergy jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this BlockchainEnergy address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres BlockchainEnergy jest w twoim posiadaniu</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address the message was signed with</source>
-        <translation>Adres Blockchainenergy, z którym została podpisana wiadomość</translation>
+        <source>The BlockchainEnergy address the message was signed with</source>
+        <translation>Adres BlockchainEnergy, z którym została podpisana wiadomość</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Blockchainenergy address</source>
-        <translation>Sprawdź komunikat, aby upewnić się, że został podpisany podanym adresem Blockchainenergy</translation>
+        <source>Verify the message to ensure it was signed with the specified BlockchainEnergy address</source>
+        <translation>Sprawdź komunikat, aby upewnić się, że został podpisany podanym adresem BlockchainEnergy</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -4266,8 +4266,8 @@ Proszę być cierpliwym...</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4282,8 +4282,8 @@ Proszę być cierpliwym...</translation>
         <translation>Twórcy Dash Core</translation>
     </message>
     <message>
-        <source>The Blockchainenergy Core developers</source>
-        <translation>Twórcy Blockchainenergy Core</translation>
+        <source>The BlockchainEnergy Core developers</source>
+        <translation>Twórcy BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4935,8 +4935,8 @@ Proszę być cierpliwym...</translation>
         <translation>Obliczony punkt kontrolny akumulatora nie jest tym, co jest rejestrowane przez indeks bloku</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Blockchainenergy Core is probably already running.</source>
-        <translation>Nie można uzyskać dostępu do katalogu danych %s. Blockchainenergy Core prawdopodobnie już działa.</translation>
+        <source>Cannot obtain a lock on data directory %s. BlockchainEnergy Core is probably already running.</source>
+        <translation>Nie można uzyskać dostępu do katalogu danych %s. BlockchainEnergy Core prawdopodobnie już działa.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -5123,8 +5123,8 @@ Proszę być cierpliwym...</translation>
         <translation>Całkowita długość string wersji sieciowej (%i) przekracza maksymalną długość (%i). Zmniejsz liczbę lub rozmiar uacomments.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Blockchainenergy Core is probably already running.</source>
-        <translation>Nie można podłączyć %s na tym komputerze. Blockchainenergy Core prawdopodobnie już działa.</translation>
+        <source>Unable to bind to %s on this computer. BlockchainEnergy Core is probably already running.</source>
+        <translation>Nie można podłączyć %s na tym komputerze. BlockchainEnergy Core prawdopodobnie już działa.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -5151,8 +5151,8 @@ Proszę być cierpliwym...</translation>
         <translation>Ostrzeżenie: -paytxfee jest ustawione bardzo wysoko! Jest to opłata transakcyjna, którą zapłacisz, jeśli wyślesz transakcję.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Blockchainenergy Core will not work properly.</source>
-        <translation>Ostrzeżenie: sprawdź, czy data i godzina komputera są poprawne! Jeśli zegar jest nieprawidłowy, Blockchainenergy Core nie będzie działać poprawnie.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong BlockchainEnergy Core will not work properly.</source>
+        <translation>Ostrzeżenie: sprawdź, czy data i godzina komputera są poprawne! Jeśli zegar jest nieprawidłowy, BlockchainEnergy Core nie będzie działać poprawnie.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -5379,8 +5379,8 @@ Proszę być cierpliwym...</translation>
         <translation>Wystąpił błąd podczas ładowania pliku wallet.dat: Portfel uszkodzony</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Blockchainenergy Core</source>
-        <translation>Błąd ładowania pliku wallet.dat: Portfel wymaga nowszej wersji Blockchainenergy Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BlockchainEnergy Core</source>
+        <translation>Błąd ładowania pliku wallet.dat: Portfel wymaga nowszej wersji BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5475,8 +5475,8 @@ Proszę być cierpliwym...</translation>
         <translation>Informacje</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Blockchainenergy Core is shutting down.</source>
-        <translation>Sprawdzenie poprawności inicjalizacji nie powiodło się. Blockchainenergy Core zamyka się.</translation>
+        <source>Initialization sanity check failed. BlockchainEnergy Core is shutting down.</source>
+        <translation>Sprawdzenie poprawności inicjalizacji nie powiodło się. BlockchainEnergy Core zamyka się.</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -5595,8 +5595,8 @@ Proszę być cierpliwym...</translation>
 </translation>
     </message>
     <message>
-        <source>Disable all Blockchainenergy specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Wyłącz wszystkie funkcje specyficzne dla Blockchainenergy (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, domyślnie: %u)</translation>
+        <source>Disable all BlockchainEnergy specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Wyłącz wszystkie funkcje specyficzne dla BlockchainEnergy (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, domyślnie: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -6035,8 +6035,8 @@ Proszę być cierpliwym...</translation>
         <translation>Weryfikuję portfel ...</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Blockchainenergy Core to complete</source>
-        <translation>Portfel musiał zostać przepisany: zrestartuj Blockchainenergy Core, aby zakończyć</translation>
+        <source>Wallet needed to be rewritten: restart BlockchainEnergy Core to complete</source>
+        <translation>Portfel musiał zostać przepisany: zrestartuj BlockchainEnergy Core, aby zakończyć</translation>
     </message>
     <message>
         <source>Wallet options:</source>

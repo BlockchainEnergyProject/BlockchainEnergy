@@ -29,16 +29,16 @@
   <string>????</string>
 
   <key>CFBundleExecutable</key>
-  <string>Blockchainenergy-Qt</string>
+  <string>BlockchainEnergy-Qt</string>
   
   <key>CFBundleName</key>
-  <string>Blockchainenergy-Qt</string>
+  <string>BlockchainEnergy-Qt</string>
 
   <key>LSHasLocalizedDisplayName</key>
   <true/>
 
   <key>CFBundleIdentifier</key>
-  <string>io.blockchainenergy.Blockchainenergy-Qt</string>
+  <string>io.blockchainenergy.BlockchainEnergy-Qt</string>
 
   <key>CFBundleURLTypes</key>
   <array>
@@ -46,7 +46,7 @@
       <key>CFBundleTypeRole</key>
       <string>Editor</string>
       <key>CFBundleURLName</key>
-      <string>io.blockchainenergy.BlockchainenergyPayment</string>
+      <string>io.blockchainenergy.BlockchainEnergyPayment</string>
       <key>CFBundleURLSchemes</key>
       <array>
         <string>blockchainenergy</string>
@@ -60,7 +60,7 @@
       <key>UTTypeIdentifier</key>
       <string>io.blockchainenergy.paymentrequest</string>
       <key>UTTypeDescription</key>
-      <string>Blockchainenergy payment request</string>
+      <string>BlockchainEnergy payment request</string>
       <key>UTTypeConformsTo</key>
       <array>
         <string>public.data</string>

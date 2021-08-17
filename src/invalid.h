@@ -2,10 +2,10 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_INVALID_H
-#define Blockchainenergy_INVALID_H
+#ifndef BlockchainEnergy_INVALID_H
+#define BlockchainEnergy_INVALID_H
 
-#endif //Blockchainenergy_INVALID_H
+#endif //BlockchainEnergy_INVALID_H
 
 #include <libzerocoin/bignum.h>
 #include <univalue/include/univalue.h>

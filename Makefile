@@ -283,14 +283,14 @@ distuninstallcheck_listfiles = find . -type f -print
 am__distuninstallcheck_listfiles = $(distuninstallcheck_listfiles) \
   | sed 's|^\./|$(prefix)/|' | grep -v '$(infodir)/dir$$'
 distcleancheck_listfiles = find . -type f -print
-ACLOCAL = ${SHELL} /tmp/upgrade-wallet/blockchainenergy/build-aux/missing aclocal-1.15
+ACLOCAL = ${SHELL} /tmp/BlockchainEnergy/build-aux/missing aclocal-1.15
 AMTAR = $${TAR-tar}
 AM_DEFAULT_VERBOSITY = 0
 AR = ar
 ARFLAGS = cr
-AUTOCONF = ${SHELL} /tmp/upgrade-wallet/blockchainenergy/build-aux/missing autoconf
-AUTOHEADER = ${SHELL} /tmp/upgrade-wallet/blockchainenergy/build-aux/missing autoheader
-AUTOMAKE = ${SHELL} /tmp/upgrade-wallet/blockchainenergy/build-aux/missing automake-1.15
+AUTOCONF = ${SHELL} /tmp/BlockchainEnergy/build-aux/missing autoconf
+AUTOHEADER = ${SHELL} /tmp/BlockchainEnergy/build-aux/missing autoheader
+AUTOMAKE = ${SHELL} /tmp/BlockchainEnergy/build-aux/missing automake-1.15
 AVX2_CXXFLAGS = -mavx -mavx2
 AWK = gawk
 BDB_CFLAGS = 
@@ -389,7 +389,7 @@ LTLIBOBJS =
 LT_SYS_LIBRARY_PATH = 
 LUPDATE = /home/administrator/walletbuilders/build_environment/pivx/3.3.0/depends/x86_64-w64-linux/share/../native/bin/lupdate
 MAINT = 
-MAKEINFO = ${SHELL} /tmp/upgrade-wallet/blockchainenergy/build-aux/missing makeinfo
+MAKEINFO = ${SHELL} /tmp/BlockchainEnergy/build-aux/missing makeinfo
 MAKENSIS = 
 MANIFEST_TOOL = :
 MINIUPNPC_CPPFLAGS = 
@@ -410,8 +410,8 @@ OTOOL =
 OTOOL64 = 
 PACKAGE = blockchainenergy
 PACKAGE_BUGREPORT = www.blockchainenergy.org
-PACKAGE_NAME = Blockchainenergy Core
-PACKAGE_STRING = Blockchainenergy Core 1.0.0
+PACKAGE_NAME = BlockchainEnergy Core
+PACKAGE_STRING = BlockchainEnergy Core 1.0.0
 PACKAGE_TARNAME = blockchainenergy
 PACKAGE_URL = 
 PACKAGE_VERSION = 1.0.0
@@ -502,10 +502,10 @@ X11XCB_LIBS = -L/home/administrator/walletbuilders/build_environment/pivx/3.3.0/
 XGETTEXT = 
 ZMQ_CFLAGS = -I/home/administrator/walletbuilders/build_environment/pivx/3.3.0/depends/x86_64-w64-linux/include
 ZMQ_LIBS = -L/home/administrator/walletbuilders/build_environment/pivx/3.3.0/depends/x86_64-w64-linux/lib -lzmq -lpthread -lrt
-abs_builddir = /tmp/upgrade-wallet/blockchainenergy
-abs_srcdir = /tmp/upgrade-wallet/blockchainenergy
-abs_top_builddir = /tmp/upgrade-wallet/blockchainenergy
-abs_top_srcdir = /tmp/upgrade-wallet/blockchainenergy
+abs_builddir = /tmp/BlockchainEnergy
+abs_srcdir = /tmp/BlockchainEnergy
+abs_top_builddir = /tmp/BlockchainEnergy
+abs_top_srcdir = /tmp/BlockchainEnergy
 ac_ct_AR = 
 ac_ct_CC = 
 ac_ct_CXX = 
@@ -537,7 +537,7 @@ host_vendor = w64
 htmldir = ${docdir}
 includedir = ${prefix}/include
 infodir = ${datarootdir}/info
-install_sh = ${SHELL} /tmp/upgrade-wallet/blockchainenergy/build-aux/install-sh
+install_sh = ${SHELL} /tmp/BlockchainEnergy/build-aux/install-sh
 libdir = ${exec_prefix}/lib
 libexecdir = ${exec_prefix}/libexec
 localedir = ${datarootdir}/locale
@@ -569,7 +569,7 @@ BITCOIN_CLI_BIN = $(top_builddir)/src/$(BITCOIN_CLI_NAME)$(EXEEXT)
 BITCOIN_WIN_INSTALLER = $(PACKAGE)-$(PACKAGE_VERSION)-win$(WINDOWS_BITS)-setup$(EXEEXT)
 empty := 
 space := $(empty) $(empty)
-OSX_APP = Blockchainenergy-Qt.app
+OSX_APP = BlockchainEnergy-Qt.app
 OSX_VOLNAME = $(subst $(space),-,$(PACKAGE_NAME))
 OSX_DMG = $(OSX_VOLNAME).dmg
 OSX_BACKGROUND_SVG = background.svg
@@ -617,7 +617,7 @@ COVERAGE_INFO = baseline.info \
 
 OSX_APP_BUILT = $(OSX_APP)/Contents/PkgInfo $(OSX_APP)/Contents/Resources/empty.lproj \
   $(OSX_APP)/Contents/Resources/bitcoin.icns $(OSX_APP)/Contents/Info.plist \
-  $(OSX_APP)/Contents/MacOS/Blockchainenergy-Qt $(OSX_APP)/Contents/Resources/Base.lproj/InfoPlist.strings
+  $(OSX_APP)/Contents/MacOS/BlockchainEnergy-Qt $(OSX_APP)/Contents/Resources/Base.lproj/InfoPlist.strings
 
 APP_DIST_DIR = $(top_builddir)/dist
 APP_DIST_EXTRAS = $(APP_DIST_DIR)/.background/$(OSX_BACKGROUND_IMAGE) $(APP_DIST_DIR)/.DS_Store $(APP_DIST_DIR)/Applications
@@ -1198,7 +1198,7 @@ $(OSX_APP)/Contents/Resources/bitcoin.icns: $(OSX_INSTALLER_ICONS)
 	$(MKDIR_P) $(@D)
 	$(INSTALL_DATA) $< $@
 
-$(OSX_APP)/Contents/MacOS/Blockchainenergy-Qt: all-recursive
+$(OSX_APP)/Contents/MacOS/BlockchainEnergy-Qt: all-recursive
 	$(MKDIR_P) $(@D)
 	STRIPPROG="$(STRIP)" $(INSTALL_STRIP_PROGRAM)  $(BITCOIN_QT_BIN) $@
 
@@ -1225,7 +1225,7 @@ $(APP_DIST_DIR)/Applications:
 	@rm -f $@
 	@cd $(@D); $(LN_S) /Applications $(@F)
 
-$(APP_DIST_EXTRAS): $(APP_DIST_DIR)/$(OSX_APP)/Contents/MacOS/Blockchainenergy-Qt
+$(APP_DIST_EXTRAS): $(APP_DIST_DIR)/$(OSX_APP)/Contents/MacOS/BlockchainEnergy-Qt
 
 $(OSX_DMG): $(APP_DIST_EXTRAS)
 	$(GENISOIMAGE) -no-cache-inodes -D -l -probe -V "$(OSX_VOLNAME)" -no-pad -r -dir-mode 0755 -apple -o $@ dist
@@ -1239,7 +1239,7 @@ $(APP_DIST_DIR)/.background/$(OSX_BACKGROUND_IMAGE): $(OSX_BACKGROUND_IMAGE_DPIF
 $(APP_DIST_DIR)/.DS_Store: $(OSX_DSSTORE_GEN)
 	$(PYTHON) $< "$@" "$(OSX_VOLNAME)"
 
-$(APP_DIST_DIR)/$(OSX_APP)/Contents/MacOS/Blockchainenergy-Qt: $(OSX_APP_BUILT) $(OSX_PACKAGING)
+$(APP_DIST_DIR)/$(OSX_APP)/Contents/MacOS/BlockchainEnergy-Qt: $(OSX_APP_BUILT) $(OSX_PACKAGING)
 	INSTALLNAMETOOL=$(INSTALLNAMETOOL)  OTOOL=$(OTOOL) STRIP=$(STRIP) $(PYTHON) $(OSX_DEPLOY_SCRIPT) $(OSX_APP) -translations-dir=$(QT_TRANSLATION_DIR) -add-qt-tr $(OSX_QT_TRANSLATIONS) -verbose 2
 
 deploydir: $(APP_DIST_EXTRAS)

@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_QT_PROPOSALFRAME_H
-#define Blockchainenergy_QT_PROPOSALFRAME_H
+#ifndef BlockchainEnergy_QT_PROPOSALFRAME_H
+#define BlockchainEnergy_QT_PROPOSALFRAME_H
 
 #include <QFrame>
 #include <QLabel>
@@ -51,4 +51,4 @@ private Q_SLOTS:
     void proposalLink_clicked(const QString &link);
 };
 
-#endif //Blockchainenergy_QT_PROPOSALFRAME_H
+#endif //BlockchainEnergy_QT_PROPOSALFRAME_H

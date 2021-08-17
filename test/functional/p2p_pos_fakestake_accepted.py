@@ -10,9 +10,9 @@ but not on the fork branch. These blocks must be accepted.
 
 from time import sleep
 
-from fake_stake.base_test import Blockchainenergy_FakeStakeTest
+from fake_stake.base_test import BlockchainEnergy_FakeStakeTest
 
-class PoSFakeStakeAccepted(Blockchainenergy_FakeStakeTest):
+class PoSFakeStakeAccepted(BlockchainEnergy_FakeStakeTest):
 
     def run_test(self):
         self.description = "Covers the scenario of a valid PoS block where the coinstake input prevout is spent on main chain, but not on the fork branch. These blocks must be accepted."

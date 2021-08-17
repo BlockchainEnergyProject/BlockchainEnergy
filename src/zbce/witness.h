@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_WITNESS_H
-#define Blockchainenergy_WITNESS_H
+#ifndef BlockchainEnergy_WITNESS_H
+#define BlockchainEnergy_WITNESS_H
 
 
 #include <libzerocoin/Accumulator.h>
@@ -79,4 +79,4 @@ public:
         READWRITE(accumulatorDenom);
     };
 };
-#endif //Blockchainenergy_WITNESS_H
+#endif //BlockchainEnergy_WITNESS_H

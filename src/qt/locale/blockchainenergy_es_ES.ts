@@ -62,12 +62,12 @@
         <translation>Direcciones de recepción</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones de Blockchainenergy para enviar pagos. Compruebe siempre la cantidad así como la dirección de destino antes de enviar moneda.</translation>
+        <source>These are your BlockchainEnergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones de BlockchainEnergy para enviar pagos. Compruebe siempre la cantidad así como la dirección de destino antes de enviar moneda.</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son sus direcciones de Blockchainenergy para recibir pagos. Es recomendable que use una dirección nueva para cada transacción.</translation>
+        <source>These are your BlockchainEnergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son sus direcciones de BlockchainEnergy para recibir pagos. Es recomendable que use una dirección nueva para cada transacción.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Confirmar encriptación del monedero</translation>
     </message>
     <message>
-        <source>Blockchainenergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
-        <translation>Blockchainenergy se cerrará ahora para completar el proceso de encriptación. Recuerde que la encriptación no le protege completamente del robo de sus BCEs frente a malware que infecte su ordenador.</translation>
+        <source>BlockchainEnergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
+        <translation>BlockchainEnergy se cerrará ahora para completar el proceso de encriptación. Recuerde que la encriptación no le protege completamente del robo de sus BCEs frente a malware que infecte su ordenador.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -254,12 +254,12 @@
         <translation>Dirección:</translation>
     </message>
     <message>
-        <source>Enter a Blockchainenergy Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Ingrese una dirección Blockchainenergy que le gustaría encriptar usando BIP 38. Ingrese una contraseña en el cuadro del medio. Presione encriptar para calcular la clave privada encriptada.</translation>
+        <source>Enter a BlockchainEnergy Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Ingrese una dirección BlockchainEnergy que le gustaría encriptar usando BIP 38. Ingrese una contraseña en el cuadro del medio. Presione encriptar para calcular la clave privada encriptada.</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to encrypt</source>
-        <translation>La dirección Blockchainenergy a encriptar</translation>
+        <source>The BlockchainEnergy address to encrypt</source>
+        <translation>La dirección BlockchainEnergy a encriptar</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Blockchainenergy address</source>
-        <translation>Cifrar la llave privada para esta dirección Blockchainenergy</translation>
+        <source>Encrypt the private key for this BlockchainEnergy address</source>
+        <translation>Cifrar la llave privada para esta dirección BlockchainEnergy</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -537,8 +537,8 @@
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Blockchainenergy address to sign the message with</source>
-        <translation>Dirección Blockchainenergy con la que firmar el mensaje</translation>
+        <source>The BlockchainEnergy address to sign the message with</source>
+        <translation>Dirección BlockchainEnergy con la que firmar el mensaje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -561,8 +561,8 @@
         <translation>Copiar la firma actual al portapapeles del sistema</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Blockchainenergy address</source>
-        <translation>Firme el mensaje para probar que Ud. es el propietario de esta dirección Blockchainenergy</translation>
+        <source>Sign the message to prove you own this BlockchainEnergy address</source>
+        <translation>Firme el mensaje para probar que Ud. es el propietario de esta dirección BlockchainEnergy</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>

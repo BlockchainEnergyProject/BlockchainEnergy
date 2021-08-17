@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_ACCUMULATORMAP_H
-#define Blockchainenergy_ACCUMULATORMAP_H
+#ifndef BlockchainEnergy_ACCUMULATORMAP_H
+#define BlockchainEnergy_ACCUMULATORMAP_H
 
 #include "libzerocoin/Accumulator.h"
 #include "libzerocoin/Coin.h"
@@ -26,4 +26,4 @@ public:
     void Reset();
     void Reset(libzerocoin::ZerocoinParams* params2);
 };
-#endif //Blockchainenergy_ACCUMULATORMAP_H
+#endif //BlockchainEnergy_ACCUMULATORMAP_H

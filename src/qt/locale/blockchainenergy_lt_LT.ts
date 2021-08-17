@@ -62,12 +62,12 @@
         <translation>Gavimo adresai</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Tai jūsų Blockchainenergy adresai mokėjimų išsiuntimams. Visada patikrinkite sumą ir gavėjo adresą prieš siųsdami monetas.</translation>
+        <source>These are your BlockchainEnergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Tai jūsų BlockchainEnergy adresai mokėjimų išsiuntimams. Visada patikrinkite sumą ir gavėjo adresą prieš siųsdami monetas.</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Tai jūsų Blockchainenergy adresai mokėjimų gavimams. Rekomenduojama naudoti naują adresą kiekvienam pavedimui.</translation>
+        <source>These are your BlockchainEnergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Tai jūsų BlockchainEnergy adresai mokėjimų gavimams. Rekomenduojama naudoti naują adresą kiekvienam pavedimui.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Patvirtinkite piniginės užšifravimą.</translation>
     </message>
     <message>
-        <source>Blockchainenergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
-        <translation>Dabar Blockchainenergy išsijungs, kad būtų užbaigtas šifravimo procesas. Atminkite, kad jūsų piniginės užšifravimas negali visiškai apsaugoti jūsų BCE nuo kenkėjiškų programų, užkrėsto jūsų kompiuterio.</translation>
+        <source>BlockchainEnergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
+        <translation>Dabar BlockchainEnergy išsijungs, kad būtų užbaigtas šifravimo procesas. Atminkite, kad jūsų piniginės užšifravimas negali visiškai apsaugoti jūsų BCE nuo kenkėjiškų programų, užkrėsto jūsų kompiuterio.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -254,12 +254,12 @@
         <translation>Adresas:</translation>
     </message>
     <message>
-        <source>Enter a Blockchainenergy Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Įveskite Blockchainenergy adresą, kurį norėtumėte užšifruoti naudojant BIP 38. Vidiniame laukelyje įrašykite slaptą frazę. Paspauskite užšifruoti, jei norite gauti užšifruotą privatųjį raktą.</translation>
+        <source>Enter a BlockchainEnergy Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Įveskite BlockchainEnergy adresą, kurį norėtumėte užšifruoti naudojant BIP 38. Vidiniame laukelyje įrašykite slaptą frazę. Paspauskite užšifruoti, jei norite gauti užšifruotą privatųjį raktą.</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to encrypt</source>
-        <translation>Blockchainenergy adresas, kurį norite užšifruoti</translation>
+        <source>The BlockchainEnergy address to encrypt</source>
+        <translation>BlockchainEnergy adresas, kurį norite užšifruoti</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopijuoti dabartinį parašą</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Blockchainenergy address</source>
-        <translation>Užšifruoti šio Blockchainenergy adreso privatų raktą</translation>
+        <source>Encrypt the private key for this BlockchainEnergy address</source>
+        <translation>Užšifruoti šio BlockchainEnergy adreso privatų raktą</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -641,12 +641,12 @@
         <translation>Skirtukų įrankių juosta</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>Send coins to a Blockchainenergy address</source>
-        <translation>Siųsti monetas į Blockchainenergy adresą</translation>
+        <source>Send coins to a BlockchainEnergy address</source>
+        <translation>Siųsti monetas į BlockchainEnergy adresą</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and blockchainenergy: URIs)</source>
@@ -665,24 +665,24 @@
         <translation>Naršyti masternod'us</translation>
     </message>
     <message>
-        <source>&amp;About Blockchainenergy Core</source>
-        <translation>&amp;Apie Blockchainenergy Core</translation>
+        <source>&amp;About BlockchainEnergy Core</source>
+        <translation>&amp;Apie BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>Show information about Blockchainenergy Core</source>
-        <translation>Rodyti informaciją apie Blockchainenergy Core</translation>
+        <source>Show information about BlockchainEnergy Core</source>
+        <translation>Rodyti informaciją apie BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Blockchainenergy</source>
-        <translation>Keisti Blockchainenergy konfigūravimo parinktis</translation>
+        <source>Modify configuration options for BlockchainEnergy</source>
+        <translation>Keisti BlockchainEnergy konfigūravimo parinktis</translation>
     </message>
     <message>
-        <source>Sign messages with your Blockchainenergy addresses to prove you own them</source>
-        <translation>Pasirašykite pranešimus naudodami savo Blockchainenergy adresus, kad įrodytumėte, kad juos turite</translation>
+        <source>Sign messages with your BlockchainEnergy addresses to prove you own them</source>
+        <translation>Pasirašykite pranešimus naudodami savo BlockchainEnergy adresus, kad įrodytumėte, kad juos turite</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Blockchainenergy addresses</source>
-        <translation>Patvirtinkite pranešimus, kad jie būtų pasirašyti su nurodytais Blockchainenergy adresais</translation>
+        <source>Verify messages to ensure they were signed with specified BlockchainEnergy addresses</source>
+        <translation>Patvirtinkite pranešimus, kad jie būtų pasirašyti su nurodytais BlockchainEnergy adresais</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -713,8 +713,8 @@
         <translation>Atidaryti Masternod'o konfigūracijos failą</translation>
     </message>
     <message>
-        <source>Open a Blockchainenergy: URI or payment request</source>
-        <translation>Atidaryti Blockchainenergy: URI arba mokėjimo prašymą</translation>
+        <source>Open a BlockchainEnergy: URI or payment request</source>
+        <translation>Atidaryti BlockchainEnergy: URI arba mokėjimo prašymą</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -725,12 +725,12 @@
         <translation>Blokų naršyklės langas</translation>
     </message>
     <message>
-        <source>Show the Blockchainenergy Core help message to get a list with possible Blockchainenergy command-line options</source>
-        <translation>Rodyti Blockchainenergy Core žinyną, kad gautumėte sąrašą su galimomis Blockchainenergy komandinės eilutės parinktimis</translation>
+        <source>Show the BlockchainEnergy Core help message to get a list with possible BlockchainEnergy command-line options</source>
+        <translation>Rodyti BlockchainEnergy Core žinyną, kad gautumėte sąrašą su galimomis BlockchainEnergy komandinės eilutės parinktimis</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core client</source>
-        <translation>Blockchainenergy Core piniginė</translation>
+        <source>BlockchainEnergy Core client</source>
+        <translation>BlockchainEnergy Core piniginė</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1153,8 +1153,8 @@ MultiSend: %1</translation>
         <translation>Keisti siuntimo adresą</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Blockchainenergy address.</source>
-        <translation>Įvestas adresas "%1" nėra galiojantis Blockchainenergy adresas.</translation>
+        <source>The entered address "%1" is not a valid BlockchainEnergy address.</source>
+        <translation>Įvestas adresas "%1" nėra galiojantis BlockchainEnergy adresas.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1210,16 +1210,16 @@ MultiSend: %1</translation>
         <translation>versija</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bitai)</translation>
     </message>
     <message>
-        <source>About Blockchainenergy Core</source>
-        <translation>Apie Blockchainenergy Core</translation>
+        <source>About BlockchainEnergy Core</source>
+        <translation>Apie BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1265,16 +1265,16 @@ MultiSend: %1</translation>
         <translation>Sveiki</translation>
     </message>
     <message>
-        <source>Welcome to Blockchainenergy Core.</source>
-        <translation>Sveiki atvykę į Blockchainenergy Core</translation>
+        <source>Welcome to BlockchainEnergy Core.</source>
+        <translation>Sveiki atvykę į BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Blockchainenergy Core will store its data.</source>
-        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur Blockchainenergy Core saugos savo duomenis.</translation>
+        <source>As this is the first time the program is launched, you can choose where BlockchainEnergy Core will store its data.</source>
+        <translation>Kadangi programa paleista pirmą kartą, galite pasirinkti kur BlockchainEnergy Core saugos savo duomenis.</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core will download and store a copy of the Blockchainenergy block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Blockchainenergy Core atsisiųs ir saugos Blockchainenergy blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
+        <source>BlockchainEnergy Core will download and store a copy of the BlockchainEnergy block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>BlockchainEnergy Core atsisiųs ir saugos BlockchainEnergy blockchain'o kopiją. Šiame kataloge bus saugomas ne mažesnis kaip %1GB duomenų kiekis, kuris laikui bėgant augs. Piniginė taip pat bus saugoma šiame kataloge.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1285,8 +1285,8 @@ MultiSend: %1</translation>
         <translation>Naudoti pasirinktą duomenų katalogą:</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1427,12 +1427,12 @@ MultiSend: %1</translation>
         <translation>Įveskite adresą kuriam norite siųsti</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Blockchainenergy addresses after it matures.
-To Add: enter percentage to give and Blockchainenergy address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other BlockchainEnergy addresses after it matures.
+To Add: enter percentage to give and BlockchainEnergy address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend leidžia automatiškai išsiųsti iki 100% jūsų stake'inimo ar masternod'ų atlygio į kitus Blockchainenergy adresus.
-Norėdami pridėti: įveskite pateiktą procentą ir Blockchainenergy adresą, kurį norite pridėti prie MultiSend sąrašo.
+        <translation>MultiSend leidžia automatiškai išsiųsti iki 100% jūsų stake'inimo ar masternod'ų atlygio į kitus BlockchainEnergy adresus.
+Norėdami pridėti: įveskite pateiktą procentą ir BlockchainEnergy adresą, kurį norite pridėti prie MultiSend sąrašo.
 Norėdami ištrinti: įveskite adresą, kurį norite ištrinti, ir paspauskite ištrinti
 MultiSend nebus aktyvuotas, nebent paspausite "Įjungti"</translation>
     </message>
@@ -1730,12 +1730,12 @@ MultiSend nebus aktyvuotas, nebent paspausite "Įjungti"</translation>
         <translation>Ekspertas</translation>
     </message>
     <message>
-        <source>Automatically start Blockchainenergy after logging in to the system.</source>
-        <translation>Automatiškai paleisti Blockchainenergy prisijungus prie sistemos.</translation>
+        <source>Automatically start BlockchainEnergy after logging in to the system.</source>
+        <translation>Automatiškai paleisti BlockchainEnergy prisijungus prie sistemos.</translation>
     </message>
     <message>
-        <source>&amp;Start Blockchainenergy on system login</source>
-        <translation>&amp;Paleisti Blockchainenergy sistemai įsijungiant</translation>
+        <source>&amp;Start BlockchainEnergy on system login</source>
+        <translation>&amp;Paleisti BlockchainEnergy sistemai įsijungiant</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1762,8 +1762,8 @@ MultiSend nebus aktyvuotas, nebent paspausite "Įjungti"</translation>
         <translation>&amp;Tinklas</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Blockchainenergy.</source>
-        <translation>Čia galite nustatyti vartotojo sąsajos kalbą. Šis nustatymas įsigalios iš naujo paleidus "Blockchainenergy".</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BlockchainEnergy.</source>
+        <translation>Čia galite nustatyti vartotojo sąsajos kalbą. Šis nustatymas įsigalios iš naujo paleidus "BlockchainEnergy".</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1796,8 +1796,8 @@ https://www.transifex.com/blockchainenergy-project/blockchainenergy-project-tran
         <translation>Pageidautinas zBCE Automatinio Nukaldinimo Nominalas</translation>
     </message>
     <message>
-        <source>Connect to the Blockchainenergy network through a SOCKS5 proxy.</source>
-        <translation>Jungtis prie Blockchainenergy tinklo naudojant SOCKS5 tarpinį serverį.</translation>
+        <source>Connect to the BlockchainEnergy network through a SOCKS5 proxy.</source>
+        <translation>Jungtis prie BlockchainEnergy tinklo naudojant SOCKS5 tarpinį serverį.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1939,8 +1939,8 @@ https://www.transifex.com/blockchainenergy-project/blockchainenergy-project-tran
         <translation>Dabartinis bendras užrakintas balansas tik žiūrėjimo adresuose</translation>
     </message>
     <message>
-        <source>Your current Blockchainenergy balance, unconfirmed and immature transactions included</source>
-        <translation>Jūsų dabartinis Blockchainenergy balansas, įskaitant nepatvirtintus ir nesubrendusius sandorius</translation>
+        <source>Your current BlockchainEnergy balance, unconfirmed and immature transactions included</source>
+        <translation>Jūsų dabartinis BlockchainEnergy balansas, įskaitant nepatvirtintus ir nesubrendusius sandorius</translation>
     </message>
     <message>
         <source>zBCE Balance</source>
@@ -1959,8 +1959,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo po to, kai buvo konvertuotas.</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Blockchainenergy network after a connection is established, but this process has not completed yet.</source>
-        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su Blockchainenergy tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BlockchainEnergy network after a connection is established, but this process has not completed yet.</source>
+        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su BlockchainEnergy tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2096,8 +2096,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Zerocoin Veiksmai:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Blockchainenergy network after a connection is established, but this process has not completed yet.</source>
-        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su Blockchainenergy tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BlockchainEnergy network after a connection is established, but this process has not completed yet.</source>
+        <translation>Rodoma informacija gali būti pasenusi. Jūsų piniginė automatiškai sinchronizuojasi su BlockchainEnergy tinklu po ryšio aktyvavimo, tačiau šis procesas dar nebaigtas.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2446,8 +2446,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Nomin. &lt;b&gt;5000&lt;/b&gt;:</translation>
     </message>
     <message>
-        <source>Invalid Blockchainenergy Address</source>
-        <translation>Netinkamas Blockchainenergy Adresas</translation>
+        <source>Invalid BlockchainEnergy Address</source>
+        <translation>Netinkamas BlockchainEnergy Adresas</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2488,8 +2488,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Suma</translation>
     </message>
     <message>
-        <source>Enter a Blockchainenergy address (e.g. %1)</source>
-        <translation>Įveskite Blockchainenergy adresą (pvz. %1)</translation>
+        <source>Enter a BlockchainEnergy address (e.g. %1)</source>
+        <translation>Įveskite BlockchainEnergy adresą (pvz. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2524,8 +2524,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>N/A</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     </context>
 <context>
@@ -2670,8 +2670,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Iš:</translation>
     </message>
     <message>
-        <source>Welcome to the Blockchainenergy RPC console.</source>
-        <translation>Sveiki atvykę į Blockchainenergy RPC konsolę.</translation>
+        <source>Welcome to the BlockchainEnergy RPC console.</source>
+        <translation>Sveiki atvykę į BlockchainEnergy RPC konsolę.</translation>
     </message>
     <message>
         <source>never</source>
@@ -3007,8 +3007,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
 <context>
     <name>SignVerifyMessageDialog</name>
     <message>
-        <source>The Blockchainenergy address to sign the message with</source>
-        <translation>Blockchainenergy adresas, kuriuo pasirašyti žinute</translation>
+        <source>The BlockchainEnergy address to sign the message with</source>
+        <translation>BlockchainEnergy adresas, kuriuo pasirašyti žinute</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3031,16 +3031,16 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Kopijuoti dabartinį parašą</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Blockchainenergy address</source>
-        <translation>Pažymėkite žinutę, kad įrodytumėte, jog jūs šio Blockchainenergy adreso savininkas</translation>
+        <source>Sign the message to prove you own this BlockchainEnergy address</source>
+        <translation>Pažymėkite žinutę, kad įrodytumėte, jog jūs šio BlockchainEnergy adreso savininkas</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address the message was signed with</source>
-        <translation>Blockchainenergy adresas, kurio buvo pasirašyta žinutė</translation>
+        <source>The BlockchainEnergy address the message was signed with</source>
+        <translation>BlockchainEnergy adresas, kurio buvo pasirašyta žinutė</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Blockchainenergy address</source>
-        <translation>Patikrinkite pranešimą, kad jis būtų pasirašytas su nurodytu Blockchainenergy adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified BlockchainEnergy address</source>
+        <translation>Patikrinkite pranešimą, kad jis būtų pasirašytas su nurodytu BlockchainEnergy adresu</translation>
     </message>
     <message>
         <source>Reset all sign message fields</source>
@@ -3078,8 +3078,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     </context>
 <context>
@@ -3335,8 +3335,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Klaida kraunant wallet.dat: Piniginė yra sugadinta</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Blockchainenergy Core</source>
-        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės Blockchainenergy Core versijos</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BlockchainEnergy Core</source>
+        <translation>Klaida kraunant wallet.dat: Piniginė reikalauja naujesnės BlockchainEnergy Core versijos</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -3511,8 +3511,8 @@ Nesubrendusios: patvirtintos, bet mažiau nei 1 konvertacijos to pačio nominalo
         <translation>Piniginė %s yra ne duomenų kataloge %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Blockchainenergy Core to complete</source>
-        <translation>Piniginę reikia perrašyti: paleiskite Blockchainenergy Core iš naujo</translation>
+        <source>Wallet needed to be rewritten: restart BlockchainEnergy Core to complete</source>
+        <translation>Piniginę reikia perrašyti: paleiskite BlockchainEnergy Core iš naujo</translation>
     </message>
     <message>
         <source>Wallet options:</source>

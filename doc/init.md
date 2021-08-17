@@ -84,9 +84,9 @@ OpenRC).
 ### macOS
 
 Binary:              `/usr/local/bin/blockchainenergyd`
-Configuration file:  `~/Library/Application Support/Blockchainenergy/blockchainenergy.conf`
-Data directory:      `~/Library/Application Support/Blockchainenergy`
-Lock file:           `~/Library/Application Support/Blockchainenergy/.lock`
+Configuration file:  `~/Library/Application Support/BlockchainEnergy/blockchainenergy.conf`
+Data directory:      `~/Library/Application Support/BlockchainEnergy`
+Lock file:           `~/Library/Application Support/BlockchainEnergy/.lock`
 
 Installing Service Configuration
 -----------------------------------
@@ -124,7 +124,7 @@ use old versions of Upstart and do not supply the start-stop-daemon utility.
 Copy blockchainenergyd.init to /etc/init.d/blockchainenergyd. Test by running `service blockchainenergyd start`.
 
 Using this script, you can adjust the path and flags to the blockchainenergyd program by
-setting the BlockchainenergyD and FLAGS environment variables in the file
+setting the BlockchainEnergyD and FLAGS environment variables in the file
 /etc/sysconfig/blockchainenergyd. You can also use the DAEMONOPTS environment variable here.
 
 ### macOS

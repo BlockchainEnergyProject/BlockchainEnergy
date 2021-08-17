@@ -16,8 +16,8 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Blockchainenergy"
-            VALUE "FileDescription",    "blockchainenergyd (OSS daemon/client for Blockchainenergy)"
+            VALUE "CompanyName",        "BlockchainEnergy"
+            VALUE "FileDescription",    "blockchainenergyd (OSS daemon/client for BlockchainEnergy)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "blockchainenergyd"
             VALUE "LegalCopyright",     COPYRIGHT_STR

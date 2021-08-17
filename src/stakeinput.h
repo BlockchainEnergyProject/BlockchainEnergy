@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_STAKEINPUT_H
-#define Blockchainenergy_STAKEINPUT_H
+#ifndef BlockchainEnergy_STAKEINPUT_H
+#define BlockchainEnergy_STAKEINPUT_H
 
 #include "chain.h"
 #include "streams.h"
@@ -94,4 +94,4 @@ public:
 };
 
 
-#endif //Blockchainenergy_STAKEINPUT_H
+#endif //BlockchainEnergy_STAKEINPUT_H

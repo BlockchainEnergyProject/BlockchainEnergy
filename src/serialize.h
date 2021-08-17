@@ -4,8 +4,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_SERIALIZE_H
-#define Blockchainenergy_SERIALIZE_H
+#ifndef BlockchainEnergy_SERIALIZE_H
+#define BlockchainEnergy_SERIALIZE_H
 
 #include <algorithm>
 #include <assert.h>
@@ -936,4 +936,4 @@ public:
     }
 };
 
-#endif // Blockchainenergy_SERIALIZE_H
+#endif // BlockchainEnergy_SERIALIZE_H

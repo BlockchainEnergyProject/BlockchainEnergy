@@ -32,7 +32,7 @@ QT_TRANSLATE_NOOP("blockchainenergy-core", ""
 QT_TRANSLATE_NOOP("blockchainenergy-core", ""
 "Calculated accumulator checkpoint is not what is recorded by block index"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", ""
-"Cannot obtain a lock on data directory %s. Blockchainenergy Core is probably already "
+"Cannot obtain a lock on data directory %s. BlockchainEnergy Core is probably already "
 "running."),
 QT_TRANSLATE_NOOP("blockchainenergy-core", ""
 "Change automatic finalized budget voting behavior. mode=auto: Vote for only "
@@ -50,7 +50,7 @@ QT_TRANSLATE_NOOP("blockchainenergy-core", ""
 "Delete all zerocoin spends and mints that have been recorded to the "
 "blockchain database and reindex them (0-1, default: %u)"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", ""
-"Disable all Blockchainenergy specific functionality (Masternodes, Zerocoin, SwiftX, "
+"Disable all BlockchainEnergy specific functionality (Masternodes, Zerocoin, SwiftX, "
 "Budgeting) (0-1, default: %u)"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", ""
 "Distributed under the MIT software license, see the accompanying file "
@@ -207,7 +207,7 @@ QT_TRANSLATE_NOOP("blockchainenergy-core", ""
 "Total length of network version string (%i) exceeds maximum length (%i). "
 "Reduce the number or size of uacomments."),
 QT_TRANSLATE_NOOP("blockchainenergy-core", ""
-"Unable to bind to %s on this computer. Blockchainenergy Core is probably already running."),
+"Unable to bind to %s on this computer. BlockchainEnergy Core is probably already running."),
 QT_TRANSLATE_NOOP("blockchainenergy-core", ""
 "Unable to locate enough Obfuscation denominated funds for this transaction."),
 QT_TRANSLATE_NOOP("blockchainenergy-core", ""
@@ -227,7 +227,7 @@ QT_TRANSLATE_NOOP("blockchainenergy-core", ""
 "pay if you send a transaction."),
 QT_TRANSLATE_NOOP("blockchainenergy-core", ""
 "Warning: Please check that your computer's date and time are correct! If "
-"your clock is wrong Blockchainenergy Core will not work properly."),
+"your clock is wrong BlockchainEnergy Core will not work properly."),
 QT_TRANSLATE_NOOP("blockchainenergy-core", ""
 "Warning: The network does not appear to fully agree! Some miners appear to "
 "be experiencing issues."),
@@ -250,10 +250,10 @@ QT_TRANSLATE_NOOP("blockchainenergy-core", ""
 QT_TRANSLATE_NOOP("blockchainenergy-core", ""
 "You must specify a masternodeprivkey in the configuration. Please see "
 "documentation for help."),
-QT_TRANSLATE_NOOP("blockchainenergy-core", "(18555 could be used only on mainnet)"),
+QT_TRANSLATE_NOOP("blockchainenergy-core", "(18050 could be used only on mainnet)"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "(default: %s)"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "(default: 1)"),
-QT_TRANSLATE_NOOP("blockchainenergy-core", "(must be 18555 for mainnet)"),
+QT_TRANSLATE_NOOP("blockchainenergy-core", "(must be 18050 for mainnet)"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "<category> can be:"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Accept command line and JSON-RPC commands"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Accept connections from outside (default: 1 if no -proxy or -connect)"),
@@ -311,7 +311,7 @@ QT_TRANSLATE_NOOP("blockchainenergy-core", "Error initializing wallet database e
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Error loading block database"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Error loading wallet.dat"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Error loading wallet.dat: Wallet corrupted"),
-QT_TRANSLATE_NOOP("blockchainenergy-core", "Error loading wallet.dat: Wallet requires newer version of Blockchainenergy Core"),
+QT_TRANSLATE_NOOP("blockchainenergy-core", "Error loading wallet.dat: Wallet requires newer version of BlockchainEnergy Core"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Error opening block database"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Error reading from database, shutting down."),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Error recovering public key."),
@@ -343,7 +343,7 @@ QT_TRANSLATE_NOOP("blockchainenergy-core", "Imports blocks from external blk000?
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Include IP addresses in debug output (default: %u)"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Incorrect or no genesis block found. Wrong datadir for network?"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Information"),
-QT_TRANSLATE_NOOP("blockchainenergy-core", "Initialization sanity check failed. Blockchainenergy Core is shutting down."),
+QT_TRANSLATE_NOOP("blockchainenergy-core", "Initialization sanity check failed. BlockchainEnergy Core is shutting down."),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Insufficient funds"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Insufficient funds."),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Invalid -onion address or hostname: '%s'"),
@@ -486,7 +486,7 @@ QT_TRANSLATE_NOOP("blockchainenergy-core", "Value is below the smallest availabl
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Verifying blocks..."),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Verifying wallet..."),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Wallet %s resides outside data directory %s"),
-QT_TRANSLATE_NOOP("blockchainenergy-core", "Wallet needed to be rewritten: restart Blockchainenergy Core to complete"),
+QT_TRANSLATE_NOOP("blockchainenergy-core", "Wallet needed to be rewritten: restart BlockchainEnergy Core to complete"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Wallet options:"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Wallet window title"),
 QT_TRANSLATE_NOOP("blockchainenergy-core", "Warning"),

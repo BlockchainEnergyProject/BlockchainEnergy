@@ -1,4 +1,4 @@
-Name "Blockchainenergy Core (-bit)"
+Name "BlockchainEnergy Core (-bit)"
 
 RequestExecutionLevel highest
 SetCompressor /SOLID lzma
@@ -6,23 +6,23 @@ SetCompressor /SOLID lzma
 # General Symbol Definitions
 !define REGKEY "SOFTWARE\$(^Name)"
 !define VERSION 1.0.0
-!define COMPANY "Blockchainenergy Core project"
+!define COMPANY "BlockchainEnergy Core project"
 !define URL https://www.blockchainenergy.org
 
 # MUI Symbol Definitions
-!define MUI_ICON "/tmp/upgrade-wallet/blockchainenergy/share/pixmaps/blockchainenergy.ico"
-!define MUI_WELCOMEFINISHPAGE_BITMAP "/tmp/upgrade-wallet/blockchainenergy/share/pixmaps/nsis-wizard.bmp"
+!define MUI_ICON "/tmp/BlockchainEnergy/share/pixmaps/blockchainenergy.ico"
+!define MUI_WELCOMEFINISHPAGE_BITMAP "/tmp/BlockchainEnergy/share/pixmaps/nsis-wizard.bmp"
 !define MUI_HEADERIMAGE
 !define MUI_HEADERIMAGE_RIGHT
-!define MUI_HEADERIMAGE_BITMAP "/tmp/upgrade-wallet/blockchainenergy/share/pixmaps/nsis-header.bmp"
+!define MUI_HEADERIMAGE_BITMAP "/tmp/BlockchainEnergy/share/pixmaps/nsis-header.bmp"
 !define MUI_FINISHPAGE_NOAUTOCLOSE
 !define MUI_STARTMENUPAGE_REGISTRY_ROOT HKLM
 !define MUI_STARTMENUPAGE_REGISTRY_KEY ${REGKEY}
 !define MUI_STARTMENUPAGE_REGISTRY_VALUENAME StartMenuGroup
-!define MUI_STARTMENUPAGE_DEFAULTFOLDER "Blockchainenergy Core"
+!define MUI_STARTMENUPAGE_DEFAULTFOLDER "BlockchainEnergy Core"
 !define MUI_FINISHPAGE_RUN $INSTDIR\blockchainenergy-qt
 !define MUI_UNICON "${NSISDIR}\Contrib\Graphics\Icons\modern-uninstall.ico"
-!define MUI_UNWELCOMEFINISHPAGE_BITMAP "/tmp/upgrade-wallet/blockchainenergy/share/pixmaps/nsis-wizard.bmp"
+!define MUI_UNWELCOMEFINISHPAGE_BITMAP "/tmp/BlockchainEnergy/share/pixmaps/nsis-wizard.bmp"
 !define MUI_UNFINISHPAGE_NOAUTOCLOSE
 
 # Included files
@@ -48,18 +48,18 @@ Var StartMenuGroup
 !insertmacro MUI_LANGUAGE English
 
 # Installer attributes
-OutFile /tmp/upgrade-wallet/blockchainenergy/blockchainenergy-${VERSION}-win-setup.exe
+OutFile /tmp/BlockchainEnergy/blockchainenergy-${VERSION}-win-setup.exe
 !if "" == "64"
-InstallDir $PROGRAMFILES64\Blockchainenergy
+InstallDir $PROGRAMFILES64\BlockchainEnergy
 !else
-InstallDir $PROGRAMFILES\Blockchainenergy
+InstallDir $PROGRAMFILES\BlockchainEnergy
 !endif
 CRCCheck on
 XPStyle on
 BrandingText " "
 ShowInstDetails show
 VIProductVersion ${VERSION}.0
-VIAddVersionKey ProductName "Blockchainenergy Core"
+VIAddVersionKey ProductName "BlockchainEnergy Core"
 VIAddVersionKey ProductVersion "${VERSION}"
 VIAddVersionKey CompanyName "${COMPANY}"
 VIAddVersionKey CompanyWebsite "${URL}"
@@ -73,14 +73,14 @@ ShowUninstDetails show
 Section -Main SEC0000
     SetOutPath $INSTDIR
     SetOverwrite on
-    File /tmp/upgrade-wallet/blockchainenergy/release/blockchainenergy-qt
-    File /oname=COPYING.txt /tmp/upgrade-wallet/blockchainenergy/COPYING
-    File /oname=readme.txt /tmp/upgrade-wallet/blockchainenergy/doc/README_windows.txt
+    File /tmp/BlockchainEnergy/release/blockchainenergy-qt
+    File /oname=COPYING.txt /tmp/BlockchainEnergy/COPYING
+    File /oname=readme.txt /tmp/BlockchainEnergy/doc/README_windows.txt
     SetOutPath $INSTDIR\daemon
-    File /tmp/upgrade-wallet/blockchainenergy/release/blockchainenergyd
-    File /tmp/upgrade-wallet/blockchainenergy/release/blockchainenergy-cli
+    File /tmp/BlockchainEnergy/release/blockchainenergyd
+    File /tmp/BlockchainEnergy/release/blockchainenergy-cli
     SetOutPath $INSTDIR\doc
-    File /r /tmp/upgrade-wallet/blockchainenergy/doc\*.*
+    File /r /tmp/BlockchainEnergy/doc\*.*
     SetOutPath $INSTDIR
     WriteRegStr HKCU "${REGKEY}\Components" Main 1
 SectionEnd
@@ -92,7 +92,7 @@ Section -post SEC0001
     !insertmacro MUI_STARTMENU_WRITE_BEGIN Application
     CreateDirectory $SMPROGRAMS\$StartMenuGroup
     CreateShortcut "$SMPROGRAMS\$StartMenuGroup\$(^Name).lnk" $INSTDIR\blockchainenergy-qt
-    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Blockchainenergy Core (testnet, -bit).lnk" "$INSTDIR\blockchainenergy-qt" "-testnet" "$INSTDIR\blockchainenergy-qt" 1
+    CreateShortcut "$SMPROGRAMS\$StartMenuGroup\BlockchainEnergy Core (testnet, -bit).lnk" "$INSTDIR\blockchainenergy-qt" "-testnet" "$INSTDIR\blockchainenergy-qt" 1
     CreateShortcut "$SMPROGRAMS\$StartMenuGroup\Uninstall $(^Name).lnk" $INSTDIR\uninstall.exe
     !insertmacro MUI_STARTMENU_WRITE_END
     WriteRegStr HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" DisplayName "$(^Name)"
@@ -104,7 +104,7 @@ Section -post SEC0001
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoModify 1
     WriteRegDWORD HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)" NoRepair 1
     WriteRegStr HKCR "blockchainenergy" "URL Protocol" ""
-    WriteRegStr HKCR "blockchainenergy" "" "URL:Blockchainenergy"
+    WriteRegStr HKCR "blockchainenergy" "" "URL:BlockchainEnergy"
     WriteRegStr HKCR "blockchainenergy\DefaultIcon" "" $INSTDIR\blockchainenergy-qt
     WriteRegStr HKCR "blockchainenergy\shell\open\command" "" '"$INSTDIR\blockchainenergy-qt" "%1"'
 SectionEnd
@@ -136,8 +136,8 @@ Section -un.post UNSEC0001
     DeleteRegKey HKCU "SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\$(^Name)"
     Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Uninstall $(^Name).lnk"
     Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\$(^Name).lnk"
-    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\Blockchainenergy Core (testnet, -bit).lnk"
-    Delete /REBOOTOK "$SMSTARTUP\Blockchainenergy.lnk"
+    Delete /REBOOTOK "$SMPROGRAMS\$StartMenuGroup\BlockchainEnergy Core (testnet, -bit).lnk"
+    Delete /REBOOTOK "$SMSTARTUP\BlockchainEnergy.lnk"
     Delete /REBOOTOK $INSTDIR\uninstall.exe
     Delete /REBOOTOK $INSTDIR\debug.log
     Delete /REBOOTOK $INSTDIR\db.log

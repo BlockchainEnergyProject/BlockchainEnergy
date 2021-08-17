@@ -1,4 +1,4 @@
-# Valgrind suppressions file for Blockchainenergy.
+# Valgrind suppressions file for BlockchainEnergy.
 #
 # Includes known Valgrind warnings in our dependencies that cannot be fixed
 # in-tree.

@@ -89,7 +89,7 @@
 
 using namespace std;
 
-// Blockchainenergy only features
+// BlockchainEnergy only features
 // Masternode
 bool fMasterNode = false;
 string strMasterNodePrivKey = "";
@@ -220,7 +220,7 @@ bool LogAcceptCategory(const char* category)
             const vector<string>& categories = mapMultiArgs["-debug"];
             ptrCategory.reset(new set<string>(categories.begin(), categories.end()));
             // thread_specific_ptr automatically deletes the set when the thread ends.
-            // "blockchainenergy" is a composite category enabling all Blockchainenergy-related debug output
+            // "blockchainenergy" is a composite category enabling all BlockchainEnergy-related debug output
             if (ptrCategory->count(string("blockchainenergy"))) {
                 ptrCategory->insert(string("obfuscation"));
                 ptrCategory->insert(string("swiftx"));
@@ -409,13 +409,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-// Windows < Vista: C:\Documents and Settings\Username\Application Data\Blockchainenergy
-// Windows >= Vista: C:\Users\Username\AppData\Roaming\Blockchainenergy
-// Mac: ~/Library/Application Support/Blockchainenergy
+// Windows < Vista: C:\Documents and Settings\Username\Application Data\BlockchainEnergy
+// Windows >= Vista: C:\Users\Username\AppData\Roaming\BlockchainEnergy
+// Mac: ~/Library/Application Support/BlockchainEnergy
 // Unix: ~/.blockchainenergy
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "Blockchainenergy";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "BlockchainEnergy";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -427,7 +427,7 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     TryCreateDirectory(pathRet);
-    return pathRet / "Blockchainenergy";
+    return pathRet / "BlockchainEnergy";
 #else
     // Unix
     return pathRet / ".blockchainenergy";

@@ -4,8 +4,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_PUBKEY_H
-#define Blockchainenergy_PUBKEY_H
+#ifndef BlockchainEnergy_PUBKEY_H
+#define BlockchainEnergy_PUBKEY_H
 
 #include "hash.h"
 #include "serialize.h"
@@ -263,4 +263,4 @@ public:
     ~ECCVerifyHandle();
 };
 
-#endif // Blockchainenergy_PUBKEY_H
+#endif // BlockchainEnergy_PUBKEY_H

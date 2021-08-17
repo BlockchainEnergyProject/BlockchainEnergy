@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_ZBCETRACKER_H
-#define Blockchainenergy_ZBCETRACKER_H
+#ifndef BlockchainEnergy_ZBCETRACKER_H
+#define BlockchainEnergy_ZBCETRACKER_H
 
 #include "zerocoin.h"
 #include "witness.h"
@@ -55,4 +55,4 @@ public:
     void Clear();
 };
 
-#endif //Blockchainenergy_ZBCETRACKER_H
+#endif //BlockchainEnergy_ZBCETRACKER_H

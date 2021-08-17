@@ -3,8 +3,8 @@
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 //
 
-#ifndef Blockchainenergy_LIGHTZBCETHREAD_H
-#define Blockchainenergy_LIGHTZBCETHREAD_H
+#ifndef BlockchainEnergy_LIGHTZBCETHREAD_H
+#define BlockchainEnergy_LIGHTZBCETHREAD_H
 
 #include <atomic>
 #include "genwit.h"
@@ -67,4 +67,4 @@ private:
 
 };
 
-#endif //Blockchainenergy_LIGHTZBCETHREAD_H
+#endif //BlockchainEnergy_LIGHTZBCETHREAD_H

@@ -1,13 +1,13 @@
 [Desktop Entry]
 Version=1.0
-Name=Blockchainenergy Core
-Comment=Blockchainenergy P2P Cryptocurrency
-Comment[fr]=Blockchainenergy, monnaie virtuelle cryptographique pair à pair
-Comment[tr]=Blockchainenergy, eşten eşe kriptografik sanal para birimi
+Name=BlockchainEnergy Core
+Comment=BlockchainEnergy P2P Cryptocurrency
+Comment[fr]=BlockchainEnergy, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BlockchainEnergy, eşten eşe kriptografik sanal para birimi
 Exec=blockchainenergy-qt %u
 Terminal=false
 Type=Application
 Icon=blockchainenergy128
 MimeType=x-scheme-handler/blockchainenergy;
 Categories=Office;Finance;
-StartupWMClass=Blockchainenergy-qt
+StartupWMClass=BlockchainEnergy-qt

@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-#  blockchainenergyd The Blockchainenergy core server.
+#  blockchainenergyd The BlockchainEnergy core server.
 #
 #
 # chkconfig: 345 80 20

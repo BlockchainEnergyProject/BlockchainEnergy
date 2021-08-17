@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_ACCUMULATORCHECKPOINTS_JSON_H
-#define Blockchainenergy_ACCUMULATORCHECKPOINTS_JSON_H
+#ifndef BlockchainEnergy_ACCUMULATORCHECKPOINTS_JSON_H
+#define BlockchainEnergy_ACCUMULATORCHECKPOINTS_JSON_H
 
 #include <string>
 std::string GetMainCheckpoints() {
@@ -57,4 +57,4 @@ std::string GetRegTestCheckpoints() {
     return strRegTestCheckpoints;
 }
 
-#endif //Blockchainenergy_ACCUMULATORCHECKPOINTS_JSON_H
+#endif //BlockchainEnergy_ACCUMULATORCHECKPOINTS_JSON_H

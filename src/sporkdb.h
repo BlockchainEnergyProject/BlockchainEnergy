@@ -2,8 +2,8 @@
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_CSPORKDB_H
-#define Blockchainenergy_CSPORKDB_H
+#ifndef BlockchainEnergy_CSPORKDB_H
+#define BlockchainEnergy_CSPORKDB_H
 
 #include <boost/filesystem/path.hpp>
 #include "leveldbwrapper.h"
@@ -25,4 +25,4 @@ public:
 };
 
 
-#endif //Blockchainenergy_CSPORKDB_H
+#endif //BlockchainEnergy_CSPORKDB_H

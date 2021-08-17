@@ -164,7 +164,7 @@
                         <item>
                          <widget class="QLabel" name="labelzBCESyncStatus">
                           <property name="toolTip">
-                           <string>The displayed information may be out of date. Your wallet automatically synchronizes with the Blockchainenergy network after a connection is established, but this process has not completed yet.</string>
+                           <string>The displayed information may be out of date. Your wallet automatically synchronizes with the BlockchainEnergy network after a connection is established, but this process has not completed yet.</string>
                           </property>
                           <property name="styleSheet">
                            <string notr="true">QLabel { color: red; }</string>
@@ -694,7 +694,7 @@ zBCE are mature when they have more than 20 confirmations AND more than 2 mints 
                              </size>
                             </property>
                             <property name="toolTip">
-                             <string>The Blockchainenergy address to send the payment to. Creates local payment to yourself when empty.</string>
+                             <string>The BlockchainEnergy address to send the payment to. Creates local payment to yourself when empty.</string>
                             </property>
                            </widget>
                           </item>

@@ -62,12 +62,12 @@
         <translation>Adreces de recepció</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Aquestes són les teves adreces Blockchainenergy per fer enviar pagaments. Sempre comprova l'import i l'adreça de recepció abans d'enviar les monedes.</translation>
+        <source>These are your BlockchainEnergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Aquestes són les teves adreces BlockchainEnergy per fer enviar pagaments. Sempre comprova l'import i l'adreça de recepció abans d'enviar les monedes.</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Aquestes són les teves adreces Blockchainenergy per rebre pagaments. Es recomana utilitzar noves adreces de recepció per cada transacció.</translation>
+        <source>These are your BlockchainEnergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Aquestes són les teves adreces BlockchainEnergy per rebre pagaments. Es recomana utilitzar noves adreces de recepció per cada transacció.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -168,8 +168,8 @@
         <translation>Confirma l'encriptació del moneder</translation>
     </message>
     <message>
-        <source>Blockchainenergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
-        <translation>Blockchainenergy es tancarà per finalitzar el procés d'encriptació. Recorda que encriptant el teu moneder no protegeix els teus BCE de ser robats si el teu ordinador està infectat amb programari maliciós.</translation>
+        <source>BlockchainEnergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
+        <translation>BlockchainEnergy es tancarà per finalitzar el procés d'encriptació. Recorda que encriptant el teu moneder no protegeix els teus BCE de ser robats si el teu ordinador està infectat amb programari maliciós.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -421,12 +421,12 @@
         <translation>A&amp;juda</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>Send coins to a Blockchainenergy address</source>
-        <translation>Envia monedes a una adreça Blockchainenergy</translation>
+        <source>Send coins to a BlockchainEnergy address</source>
+        <translation>Envia monedes a una adreça BlockchainEnergy</translation>
     </message>
     <message>
         <source>&amp;Community</source>
@@ -437,8 +437,8 @@
         <translation>&amp;Masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Blockchainenergy Core</source>
-        <translation>&amp;Sobre Blockchainenergy Core</translation>
+        <source>&amp;About BlockchainEnergy Core</source>
+        <translation>&amp;Sobre BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -461,8 +461,8 @@
         <translation>Obre el fitxer de configuració del Masternode</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core client</source>
-        <translation>Client Blockchainenergy core</translation>
+        <source>BlockchainEnergy Core client</source>
+        <translation>Client BlockchainEnergy core</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -805,8 +805,8 @@
         <translation>Edita l'adreça d'enviament</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Blockchainenergy address.</source>
-        <translation>L'adreça introduïda "%1" no és una adreça Blockchainenergy vàlida.</translation>
+        <source>The entered address "%1" is not a valid BlockchainEnergy address.</source>
+        <translation>L'adreça introduïda "%1" no és una adreça BlockchainEnergy vàlida.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -862,16 +862,16 @@
         <translation>versió</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Blockchainenergy Core</source>
-        <translation>Sobre Blockchainenergy Core</translation>
+        <source>About BlockchainEnergy Core</source>
+        <translation>Sobre BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -917,12 +917,12 @@
         <translation>Benvingut</translation>
     </message>
     <message>
-        <source>Welcome to Blockchainenergy Core.</source>
-        <translation>Benvingut a Blockchainenergy Core.</translation>
+        <source>Welcome to BlockchainEnergy Core.</source>
+        <translation>Benvingut a BlockchainEnergy Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Blockchainenergy Core will store its data.</source>
-        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del Blockchainenergy Core.</translation>
+        <source>As this is the first time the program is launched, you can choose where BlockchainEnergy Core will store its data.</source>
+        <translation>Al ser el primer cop que s'inicia el programa, pots escollir on es desaran les dades del BlockchainEnergy Core.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -933,8 +933,8 @@
         <translation>Usar una carpeta de dades personalitzada:</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1152,8 +1152,8 @@
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start Blockchainenergy after logging in to the system.</source>
-        <translation>Inicia Blockchainenergy automàticament després d'identificar-te en el sistema.</translation>
+        <source>Automatically start BlockchainEnergy after logging in to the system.</source>
+        <translation>Inicia BlockchainEnergy automàticament després d'identificar-te en el sistema.</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1326,8 +1326,8 @@
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     </context>
 <context>
@@ -1650,8 +1650,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Blockchainenergy Core is shutting down...</source>
-        <translation>Blockchainenergy Core s'està tancant...</translation>
+        <source>BlockchainEnergy Core is shutting down...</source>
+        <translation>BlockchainEnergy Core s'està tancant...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1716,8 +1716,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Version %1</source>

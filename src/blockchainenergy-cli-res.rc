@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Blockchainenergy"
-            VALUE "FileDescription",    "Blockchainenergy-cli (OSS RPC client for Blockchainenergy)"
+            VALUE "CompanyName",        "BlockchainEnergy"
+            VALUE "FileDescription",    "BlockchainEnergy-cli (OSS RPC client for BlockchainEnergy)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "blockchainenergy-cli"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
             VALUE "OriginalFilename",   "blockchainenergy-cli.exe"
-            VALUE "ProductName",        "Blockchainenergy-cli"
+            VALUE "ProductName",        "BlockchainEnergy-cli"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

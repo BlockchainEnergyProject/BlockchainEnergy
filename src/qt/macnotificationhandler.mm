@@ -14,7 +14,7 @@
 - (NSString *)__bundleIdentifier
 {
     if (self == [NSBundle mainBundle]) {
-        return @"io.blockchainenergy.Blockchainenergy-Qt";
+        return @"io.blockchainenergy.BlockchainEnergy-Qt";
     } else {
         return [self __bundleIdentifier];
     }

@@ -62,12 +62,12 @@
         <translation>Vastaanottavat osoitteet</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Nämä ovat sinun Blockchainenergy osoitteesi maksujen lähetystä varten. Tarkista aina määrä ja vastaanottava osoite ennen kolikoiden lähettämistä.</translation>
+        <source>These are your BlockchainEnergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Nämä ovat sinun BlockchainEnergy osoitteesi maksujen lähetystä varten. Tarkista aina määrä ja vastaanottava osoite ennen kolikoiden lähettämistä.</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Nämä ovat sinun Blockchainenergy osoitteesi maksujen vastaanottamista varten. On suositeltavaa käyttää uutta vastaanottavaa osoitetta jokaiselle uudelle rahansiirrolle.</translation>
+        <source>These are your BlockchainEnergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Nämä ovat sinun BlockchainEnergy osoitteesi maksujen vastaanottamista varten. On suositeltavaa käyttää uutta vastaanottavaa osoitetta jokaiselle uudelle rahansiirrolle.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,8 +172,8 @@
         <translation>Vahvista lompakon salaus</translation>
     </message>
     <message>
-        <source>Blockchainenergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
-        <translation>Blockchainenergy sulkeutuu salausprosessin ajaksi. Muista, että lompakon salaus ei voi täysin suojella BCEien varkaudelta, jos tietokoneesi sisältää haittaohjelmia.</translation>
+        <source>BlockchainEnergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
+        <translation>BlockchainEnergy sulkeutuu salausprosessin ajaksi. Muista, että lompakon salaus ei voi täysin suojella BCEien varkaudelta, jos tietokoneesi sisältää haittaohjelmia.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -565,12 +565,12 @@
         <translation>&amp;Apua</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Ydin</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Ydin</translation>
     </message>
     <message>
-        <source>Send coins to a Blockchainenergy address</source>
-        <translation>Lähetä kolikkoja Blockchainenergy osoitteeseen</translation>
+        <source>Send coins to a BlockchainEnergy address</source>
+        <translation>Lähetä kolikkoja BlockchainEnergy osoitteeseen</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and blockchainenergy: URIs)</source>
@@ -585,24 +585,24 @@
         <translation>Selaa masternodeja</translation>
     </message>
     <message>
-        <source>&amp;About Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core &amp;ytimestä</translation>
+        <source>&amp;About BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core &amp;ytimestä</translation>
     </message>
     <message>
-        <source>Show information about Blockchainenergy Core</source>
-        <translation>Näytä tietoja Blockchainenergy Ytimestä</translation>
+        <source>Show information about BlockchainEnergy Core</source>
+        <translation>Näytä tietoja BlockchainEnergy Ytimestä</translation>
     </message>
     <message>
-        <source>Modify configuration options for Blockchainenergy</source>
-        <translation>Muokkaa konfiguraatio vaihtoehtoja Blockchainenergy:lle</translation>
+        <source>Modify configuration options for BlockchainEnergy</source>
+        <translation>Muokkaa konfiguraatio vaihtoehtoja BlockchainEnergy:lle</translation>
     </message>
     <message>
-        <source>Sign messages with your Blockchainenergy addresses to prove you own them</source>
+        <source>Sign messages with your BlockchainEnergy addresses to prove you own them</source>
         <translation>Allekirjoita viestejä todistaaksesi, että omistat ne.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Blockchainenergy addresses</source>
-        <translation>Vahvista viestit varmistaaksesi, että ne allekirjoitettiin tietyllä Blockchainenergy osoiteella.</translation>
+        <source>Verify messages to ensure they were signed with specified BlockchainEnergy addresses</source>
+        <translation>Vahvista viestit varmistaaksesi, että ne allekirjoitettiin tietyllä BlockchainEnergy osoiteella.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -633,8 +633,8 @@
         <translation>Avaa Masternode konfiguraatiotiedosto</translation>
     </message>
     <message>
-        <source>Open a Blockchainenergy: URI or payment request</source>
-        <translation>Avaa Blockchainenergy: URI tai pyydä maksua</translation>
+        <source>Open a BlockchainEnergy: URI or payment request</source>
+        <translation>Avaa BlockchainEnergy: URI tai pyydä maksua</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -645,12 +645,12 @@
         <translation>Lohkon tutkija näkymä</translation>
     </message>
     <message>
-        <source>Show the Blockchainenergy Core help message to get a list with possible Blockchainenergy command-line options</source>
-        <translation>Näytä Blockchainenergy Ydin apuviesti saadaksesi lista mahdollisista Blockchainenergy komentolinja komennoista.</translation>
+        <source>Show the BlockchainEnergy Core help message to get a list with possible BlockchainEnergy command-line options</source>
+        <translation>Näytä BlockchainEnergy Ydin apuviesti saadaksesi lista mahdollisista BlockchainEnergy komentolinja komennoista.</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core client</source>
-        <translation>Blockchainenergy Ydin asiakasohjelma</translation>
+        <source>BlockchainEnergy Core client</source>
+        <translation>BlockchainEnergy Ydin asiakasohjelma</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -919,8 +919,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Ydin</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Ydin</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -938,12 +938,12 @@
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to Blockchainenergy Core.</source>
-        <translation>Tervetuloa Blockchainenergy Ytimeen.</translation>
+        <source>Welcome to BlockchainEnergy Core.</source>
+        <translation>Tervetuloa BlockchainEnergy Ytimeen.</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Ydin</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Ydin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1129,12 +1129,12 @@
         <translation>Ekspertti</translation>
     </message>
     <message>
-        <source>Automatically start Blockchainenergy after logging in to the system.</source>
-        <translation>Automaattisesti käynnistä Blockchainenergy kun kirjaudut sisään.</translation>
+        <source>Automatically start BlockchainEnergy after logging in to the system.</source>
+        <translation>Automaattisesti käynnistä BlockchainEnergy kun kirjaudut sisään.</translation>
     </message>
     <message>
-        <source>&amp;Start Blockchainenergy on system login</source>
-        <translation>&amp;Aloita Blockchainenergy järjestelmän kirjautumisessa</translation>
+        <source>&amp;Start BlockchainEnergy on system login</source>
+        <translation>&amp;Aloita BlockchainEnergy järjestelmän kirjautumisessa</translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
@@ -1153,12 +1153,12 @@
         <translation>&amp;Verkko</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Blockchainenergy.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting BlockchainEnergy.</source>
         <translation>Käyttöliittymän kielen voi säätää täällä. Tämä asetus tulee voimaan uudelleenkäynnistettyäsi lompakon.</translation>
     </message>
     <message>
-        <source>Connect to the Blockchainenergy network through a SOCKS5 proxy.</source>
-        <translation>Yhdistä Blockchainenergy verkkoon SOCKS5 proxyn kautta</translation>
+        <source>Connect to the BlockchainEnergy network through a SOCKS5 proxy.</source>
+        <translation>Yhdistä BlockchainEnergy verkkoon SOCKS5 proxyn kautta</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1391,8 +1391,8 @@
         <translation>Määrä</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Ydin</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Ydin</translation>
     </message>
     </context>
 <context>
@@ -1449,8 +1449,8 @@
         <translation>Lohko ketju</translation>
     </message>
     <message>
-        <source>Open the Blockchainenergy debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa Blockchainenergy debug loki nykyisestä sijainnista. Tämä voi kestää muutaman sekunnin suurille lokeille</translation>
+        <source>Open the BlockchainEnergy debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa BlockchainEnergy debug loki nykyisestä sijainnista. Tämä voi kestää muutaman sekunnin suurille lokeille</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -1561,8 +1561,8 @@
         <translation>Ulos:</translation>
     </message>
     <message>
-        <source>Welcome to the Blockchainenergy RPC console.</source>
-        <translation>Tervetuloa Blockchainenergy RPC konsoliin.</translation>
+        <source>Welcome to the BlockchainEnergy RPC console.</source>
+        <translation>Tervetuloa BlockchainEnergy RPC konsoliin.</translation>
     </message>
     <message>
         <source>never</source>
@@ -1604,12 +1604,12 @@
         <translation>M&amp;äärä:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Blockchainenergy network.</source>
-        <translation>Vaihtoehtoinen viesti joka liitetään maksupyyntöön, joka näytetään kun pyyntö avataan. Huomio: Viestiä ei lähetetä maksun mukana Blockchainenergy verkolle.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BlockchainEnergy network.</source>
+        <translation>Vaihtoehtoinen viesti joka liitetään maksupyyntöön, joka näytetään kun pyyntö avataan. Huomio: Viestiä ei lähetetä maksun mukana BlockchainEnergy verkolle.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Blockchainenergy network.</source>
-        <translation>Vaihtoehtoinen viesti, joka liitetään maksupyyntöö, joka näytetään kun pyyntö avataan. &lt;br&gt; Huomio: Tätä viestiä ei lähetetä maksun mukana Blockchainenergy  verkolle.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the BlockchainEnergy network.</source>
+        <translation>Vaihtoehtoinen viesti, joka liitetään maksupyyntöö, joka näytetään kun pyyntö avataan. &lt;br&gt; Huomio: Tätä viestiä ei lähetetä maksun mukana BlockchainEnergy  verkolle.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -1885,8 +1885,8 @@
         <translation>Kopioi taksa</translation>
     </message>
     <message>
-        <source>Warning: Invalid Blockchainenergy address</source>
-        <translation>Varoitus: Virheellinen Blockchainenergy osoite</translation>
+        <source>Warning: Invalid BlockchainEnergy address</source>
+        <translation>Varoitus: Virheellinen BlockchainEnergy osoite</translation>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
@@ -1936,8 +1936,8 @@
         <translation>Tämä on normaali maksu.</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to send the payment to</source>
-        <translation>Blockchainenergy osoite johon maksu lähetetään</translation>
+        <source>The BlockchainEnergy address to send the payment to</source>
+        <translation>BlockchainEnergy osoite johon maksu lähetetään</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1979,8 +1979,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Blockchainenergy Core is shutting down...</source>
-        <translation>Blockchainenergy core sammuu...</translation>
+        <source>BlockchainEnergy Core is shutting down...</source>
+        <translation>BlockchainEnergy core sammuu...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1998,8 +1998,8 @@
         <translation>Voit allekirjoittaa viestejä osoitteillasi todistaaksesi, että omistat ne. Ole varovainen ettet allekirjoita mitään kummallista, sillä kalasteluyritykset saattavat yrittää huijata sinut luovuttamaan tietoja. Allekirjoita vain täysin yksityiskohtaisia sanomia, jotka hyväksyt.</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to sign the message with</source>
-        <translation>Blockchainenergy osoite, jolla viesti allekirjoitetaan</translation>
+        <source>The BlockchainEnergy address to sign the message with</source>
+        <translation>BlockchainEnergy osoite, jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2030,16 +2030,16 @@
         <translation>Kopioi nykyinen allekirjoitus järjestelmän leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Blockchainenergy address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Blockchainenergy osoitteen</translation>
+        <source>Sign the message to prove you own this BlockchainEnergy address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän BlockchainEnergy osoitteen</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address the message was signed with</source>
-        <translation>Blockchainenergy osoite, jolla viesti allekirjoitettiin</translation>
+        <source>The BlockchainEnergy address the message was signed with</source>
+        <translation>BlockchainEnergy osoite, jolla viesti allekirjoitettiin</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Blockchainenergy address</source>
-        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla Blockchainenergy osoitteella.</translation>
+        <source>Verify the message to ensure it was signed with the specified BlockchainEnergy address</source>
+        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla BlockchainEnergy osoitteella.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2121,8 +2121,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Ydin</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Ydin</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2137,8 +2137,8 @@
         <translation>Dash Core kehittäjät</translation>
     </message>
     <message>
-        <source>The Blockchainenergy Core developers</source>
-        <translation>Blockchainenergy core kehittäjät</translation>
+        <source>The BlockchainEnergy Core developers</source>
+        <translation>BlockchainEnergy core kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2486,8 +2486,8 @@
         <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko korruptoitunut</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Blockchainenergy Core</source>
-        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version Blockchainenergy Coresta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BlockchainEnergy Core</source>
+        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version BlockchainEnergy Coresta</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>

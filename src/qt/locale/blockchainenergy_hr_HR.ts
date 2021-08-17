@@ -62,12 +62,12 @@
         <translation>Adresa primatelja</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To su vaše Blockchainenergy adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
+        <source>These are your BlockchainEnergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>To su vaše BlockchainEnergy adrese za slanje plaćanja. Uvijek provjerite iznos i adresu primatelja prije slanja novca.</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To su vaše Blockchainenergy adrese za primanje uplata. Preporuča se upotreba nove adrese primatelja za svaku transakciju.</translation>
+        <source>These are your BlockchainEnergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To su vaše BlockchainEnergy adrese za primanje uplata. Preporuča se upotreba nove adrese primatelja za svaku transakciju.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Potvrdi šifriranje novčanika</translation>
     </message>
     <message>
-        <source>Blockchainenergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
-        <translation>Blockchainenergy se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše BCE od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
+        <source>BlockchainEnergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
+        <translation>BlockchainEnergy se sada zatvara kako bi dovršio proces šifriranja. Ne zaboravite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše BCE od krađe zlonamjernog softvera koji zarazi vaše računalo.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -254,12 +254,12 @@
         <translation>Adresa: </translation>
     </message>
     <message>
-        <source>Enter a Blockchainenergy Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Unesite Blockchainenergy adresu koju želite šifrirati pomoću BIP 38. Unesite zaporku u srednjem okviru. Pritisnite šifriranje za izračunavanje šifriranog privatnog ključa.</translation>
+        <source>Enter a BlockchainEnergy Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Unesite BlockchainEnergy adresu koju želite šifrirati pomoću BIP 38. Unesite zaporku u srednjem okviru. Pritisnite šifriranje za izračunavanje šifriranog privatnog ključa.</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to encrypt</source>
-        <translation>Blockchainenergy adresa za šifriranje</translation>
+        <source>The BlockchainEnergy address to encrypt</source>
+        <translation>BlockchainEnergy adresa za šifriranje</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -290,8 +290,8 @@
         <translation>Kopirajte trenutačni potpis u međuspremnik sustava</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Blockchainenergy address</source>
-        <translation>Šifriranje privatnog ključa za ovu Blockchainenergy adresu</translation>
+        <source>Encrypt the private key for this BlockchainEnergy address</source>
+        <translation>Šifriranje privatnog ključa za ovu BlockchainEnergy adresu</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -641,12 +641,12 @@
         <translation>Alatna traka kartica</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>Send coins to a Blockchainenergy address</source>
-        <translation>Pošaljite kovanice na Blockchainenergy adresu</translation>
+        <source>Send coins to a BlockchainEnergy address</source>
+        <translation>Pošaljite kovanice na BlockchainEnergy adresu</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and blockchainenergy: URIs)</source>
@@ -665,24 +665,24 @@
         <translation>Pretraži masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Blockchainenergy Core</source>
-        <translation>O Blockchainenergy Core</translation>
+        <source>&amp;About BlockchainEnergy Core</source>
+        <translation>O BlockchainEnergy Core</translation>
     </message>
     <message>
-        <source>Show information about Blockchainenergy Core</source>
-        <translation>Prikaz informacija o Blockchainenergy Core-u</translation>
+        <source>Show information about BlockchainEnergy Core</source>
+        <translation>Prikaz informacija o BlockchainEnergy Core-u</translation>
     </message>
     <message>
-        <source>Modify configuration options for Blockchainenergy</source>
-        <translation>Izmijenite konfiguracijske opcije za Blockchainenergy</translation>
+        <source>Modify configuration options for BlockchainEnergy</source>
+        <translation>Izmijenite konfiguracijske opcije za BlockchainEnergy</translation>
     </message>
     <message>
-        <source>Sign messages with your Blockchainenergy addresses to prove you own them</source>
-        <translation>Potpišite poruke s vašim Blockchainenergy adresama kako biste dokazali da ih posjedujete</translation>
+        <source>Sign messages with your BlockchainEnergy addresses to prove you own them</source>
+        <translation>Potpišite poruke s vašim BlockchainEnergy adresama kako biste dokazali da ih posjedujete</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Blockchainenergy addresses</source>
-        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim Blockchainenergy adresama</translation>
+        <source>Verify messages to ensure they were signed with specified BlockchainEnergy addresses</source>
+        <translation>Potvrdite poruke kako biste bili sigurni da su potpisani s određenim BlockchainEnergy adresama</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -713,8 +713,8 @@
         <translation>Otvori Masternode konfiguracijsku datoteku</translation>
     </message>
     <message>
-        <source>Open a Blockchainenergy: URI or payment request</source>
-        <translation>Otvori Blockchainenergy: URI zahtjev za plačanje</translation>
+        <source>Open a BlockchainEnergy: URI or payment request</source>
+        <translation>Otvori BlockchainEnergy: URI zahtjev za plačanje</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -725,11 +725,11 @@
         <translation>Prozor Block preglednika</translation>
     </message>
     <message>
-        <source>Show the Blockchainenergy Core help message to get a list with possible Blockchainenergy command-line options</source>
-        <translation>Pokažite poruku Blockchainenergy Core pomoći da biste dobili popis s mogućim Blockchainenergy opcijama naredbenog retka</translation>
+        <source>Show the BlockchainEnergy Core help message to get a list with possible BlockchainEnergy command-line options</source>
+        <translation>Pokažite poruku BlockchainEnergy Core pomoći da biste dobili popis s mogućim BlockchainEnergy opcijama naredbenog retka</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core client</source>
+        <source>BlockchainEnergy Core client</source>
         <translation>BCEIX Core Klijent</translation>
     </message>
     <message>
@@ -1161,8 +1161,8 @@ Višestruko slanje: %1</translation>
         <translation>Uređivanje adrese slanja</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Blockchainenergy address.</source>
-        <translation>Unesena adresa "%1" nije važeća Blockchainenergy adresa.</translation>
+        <source>The entered address "%1" is not a valid BlockchainEnergy address.</source>
+        <translation>Unesena adresa "%1" nije važeća BlockchainEnergy adresa.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1218,16 +1218,16 @@ Višestruko slanje: %1</translation>
         <translation>verzija</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Blockchainenergy Core</source>
-        <translation>O Blockchainenergy Core</translation>
+        <source>About BlockchainEnergy Core</source>
+        <translation>O BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1273,16 +1273,16 @@ Višestruko slanje: %1</translation>
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to Blockchainenergy Core.</source>
-        <translation>Dobrodošli u Blockchainenergy Core.</translation>
+        <source>Welcome to BlockchainEnergy Core.</source>
+        <translation>Dobrodošli u BlockchainEnergy Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Blockchainenergy Core will store its data.</source>
-        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će Blockchainenergy Core pohraniti svoje podatke.</translation>
+        <source>As this is the first time the program is launched, you can choose where BlockchainEnergy Core will store its data.</source>
+        <translation>Budući da je prvi put pokrenut program, možete odabrati gdje će BlockchainEnergy Core pohraniti svoje podatke.</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core will download and store a copy of the Blockchainenergy block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Blockchainenergy Core preuzima i pohranjuje kopiju Blockchainenergy blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
+        <source>BlockchainEnergy Core will download and store a copy of the BlockchainEnergy block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>BlockchainEnergy Core preuzima i pohranjuje kopiju BlockchainEnergy blok-lanca. Barem će %1GB podataka biti pohranjeno u ovom direktoriju i to će s vremenom rasti. Novčanik će također biti pohranjena u ovom direktoriju.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1293,8 +1293,8 @@ Višestruko slanje: %1</translation>
         <translation>Koristite prilagođeni direktorij podataka:</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1435,12 +1435,12 @@ Višestruko slanje: %1</translation>
         <translation>Unesite adresu za slanje</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Blockchainenergy addresses after it matures.
-To Add: enter percentage to give and Blockchainenergy address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other BlockchainEnergy addresses after it matures.
+To Add: enter percentage to give and BlockchainEnergy address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend vam omogućuje da automatski pošaljete do 100% svoje nagrade za ulog ili masternode  nagrade na popis drugih Blockchainenergy adresa nakon što sazrijete.
-Za Dodaj: unesite postotak za davanje i Blockchainenergy adresu za dodavanje MultiSend vektoru.
+        <translation>MultiSend vam omogućuje da automatski pošaljete do 100% svoje nagrade za ulog ili masternode  nagrade na popis drugih BlockchainEnergy adresa nakon što sazrijete.
+Za Dodaj: unesite postotak za davanje i BlockchainEnergy adresu za dodavanje MultiSend vektoru.
 Za brisanje: Unesite adresu za brisanje i pritisnite Delete.
 MultiSend neće biti aktiviran dok ne kliknete Aktiviraj</translation>
     </message>
@@ -1764,8 +1764,8 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Ako onemogućite potrošnju nepotvrđenih promjena, promjena s transakcijskog kanala bit će upotrijebljena sve dok ta transakcija nema barem jednu potvrdu. To također utječe na izračun salda.</translation>
     </message>
     <message>
-        <source>Automatically open the Blockchainenergy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvorite Blockchainenergy klijentski priključak na rooteru. To funkcionira samo kada vaš rooter podržava UPnP i omogućen je.</translation>
+        <source>Automatically open the BlockchainEnergy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatski otvorite BlockchainEnergy klijentski priključak na rooteru. To funkcionira samo kada vaš rooter podržava UPnP i omogućen je.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1784,12 +1784,12 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Stručnjak</translation>
     </message>
     <message>
-        <source>Automatically start Blockchainenergy after logging in to the system.</source>
-        <translation>Automatski pokrenite Blockchainenergy nakon prijave u sustav.</translation>
+        <source>Automatically start BlockchainEnergy after logging in to the system.</source>
+        <translation>Automatski pokrenite BlockchainEnergy nakon prijave u sustav.</translation>
     </message>
     <message>
-        <source>&amp;Start Blockchainenergy on system login</source>
-        <translation>Pokrenite Blockchainenergy na prijavi u sustav</translation>
+        <source>&amp;Start BlockchainEnergy on system login</source>
+        <translation>Pokrenite BlockchainEnergy na prijavi u sustav</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1816,8 +1816,8 @@ Budite strpljivi nakon što kliknete uvoz.</translation>
         <translation>Mreža</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Blockchainenergy.</source>
-        <translation>Ovdje se može postaviti jezik korisničkog sučelja. Ova postavka će stupiti na snagu nakon ponovnog pokretanja Blockchainenergy-a.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BlockchainEnergy.</source>
+        <translation>Ovdje se može postaviti jezik korisničkog sučelja. Ova postavka će stupiti na snagu nakon ponovnog pokretanja BlockchainEnergy-a.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1859,8 +1859,8 @@ https://www.transifex.com/blockchainenergy-project/blockchainenergy-project-tran
         <translation>Prag razdvajanja Stake-a:</translation>
     </message>
     <message>
-        <source>Connect to the Blockchainenergy network through a SOCKS5 proxy.</source>
-        <translation>Povežite se s Blockchainenergy mrežom putem SOCKS5 proxy poslužitelja.</translation>
+        <source>Connect to the BlockchainEnergy network through a SOCKS5 proxy.</source>
+        <translation>Povežite se s BlockchainEnergy mrežom putem SOCKS5 proxy poslužitelja.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -2034,8 +2034,8 @@ https://www.transifex.com/blockchainenergy-project/blockchainenergy-project-tran
         <translation>Trenutačno zaključana ravnoteža u adresama samo za gledanje</translation>
     </message>
     <message>
-        <source>Your current Blockchainenergy balance, unconfirmed and immature transactions included</source>
-        <translation>Uključena je vaša trenutna bilanca Blockchainenergy, nepotvrđene i nezrele transakcije</translation>
+        <source>Your current BlockchainEnergy balance, unconfirmed and immature transactions included</source>
+        <translation>Uključena je vaša trenutna bilanca BlockchainEnergy, nepotvrđene i nezrele transakcije</translation>
     </message>
     <message>
         <source>zBCE Balance</source>
@@ -2054,8 +2054,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nezreli: potvrđeno, ali manje od 1 minta iste denominacije nakon mintanja</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Blockchainenergy network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s Blockchainenergy mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BlockchainEnergy network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s BlockchainEnergy mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -2171,8 +2171,8 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>Ne može se pokrenuti blockchainenergy: clik-to-pay handler</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Blockchainenergy address or malformed URI parameters.</source>
-        <translation>URI se ne može analizirati! To može biti uzrokovana nevažećom Blockchainenergy adresom ili nepravilnim URI parametrima.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid BlockchainEnergy address or malformed URI parameters.</source>
+        <translation>URI se ne može analizirati! To može biti uzrokovana nevažećom BlockchainEnergy adresom ili nepravilnim URI parametrima.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2257,8 +2257,8 @@ Da biste omogućili, promjenite postavke AutoMint 'enablezeromint=0' na 'enablez
         <translation>Zerocoin radnje:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Blockchainenergy network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s Blockchainenergy mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BlockchainEnergy network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazane informacije mogu biti zastarjele. Vaš se novčanik automatski sinkronizira s BlockchainEnergy mrežom nakon uspostavljanja veze, ali taj postupak još nije dovršen.</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2341,8 +2341,8 @@ zBCE su zreli kada imaju više od 20 potvrda I više od 2 mint od iste denominac
         <translation>Platiti:</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Blockchainenergy adresa za slanje uplate. Stvara lokalno plaćanje za sebe kada je prazno.</translation>
+        <source>The BlockchainEnergy address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>BlockchainEnergy adresa za slanje uplate. Stvara lokalno plaćanje za sebe kada je prazno.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2718,8 +2718,8 @@ Please be patient...</source>
         <translation>Nije dodijeljena adresa "Plati", stvarajući lokalnu uplatu</translation>
     </message>
     <message>
-        <source>Invalid Blockchainenergy Address</source>
-        <translation>Nevažeća Blockchainenergy Adresa</translation>
+        <source>Invalid BlockchainEnergy Address</source>
+        <translation>Nevažeća BlockchainEnergy Adresa</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2796,8 +2796,8 @@ Please be patient...</source>
         <translation>Iznos</translation>
     </message>
     <message>
-        <source>Enter a Blockchainenergy address (e.g. %1)</source>
-        <translation>Unesite Blockchainenergy adresu (npr., %1)</translation>
+        <source>Enter a BlockchainEnergy address (e.g. %1)</source>
+        <translation>Unesite BlockchainEnergy adresu (npr., %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2840,8 +2840,8 @@ Please be patient...</source>
         <translation>%1 ms</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     </context>
 <context>
@@ -2939,8 +2939,8 @@ Please be patient...</source>
         <translation>Block chain</translation>
     </message>
     <message>
-        <source>Open the Blockchainenergy debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorite Blockchainenergy debug log datoteku iz aktualnog direktorija podataka. To može potrajati nekoliko sekundi za velike datoteke zapisnika.</translation>
+        <source>Open the BlockchainEnergy debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorite BlockchainEnergy debug log datoteku iz aktualnog direktorija podataka. To može potrajati nekoliko sekundi za velike datoteke zapisnika.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -3155,8 +3155,8 @@ Please be patient...</source>
         <translation>Iz:</translation>
     </message>
     <message>
-        <source>Welcome to the Blockchainenergy RPC console.</source>
-        <translation>Dobrodošli na Blockchainenergy RPC konzolu.</translation>
+        <source>Welcome to the BlockchainEnergy RPC console.</source>
+        <translation>Dobrodošli na BlockchainEnergy RPC konzolu.</translation>
     </message>
     <message>
         <source>&amp;Disconnect Node</source>
@@ -3282,16 +3282,16 @@ Please be patient...</source>
         <translation>Količina:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Blockchainenergy network.</source>
-        <translation>Dodatna poruka priložena zahtjevu za plaćanje, koji će se prikazati kada se zahtjev otvori. Napomena: poruka neće biti poslana s plaćanjem putem Blockchainenergy mreže.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the BlockchainEnergy network.</source>
+        <translation>Dodatna poruka priložena zahtjevu za plaćanje, koji će se prikazati kada se zahtjev otvori. Napomena: poruka neće biti poslana s plaćanjem putem BlockchainEnergy mreže.</translation>
     </message>
     <message>
         <source>RECEIVE</source>
         <translation>PRIMI</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Blockchainenergy network.</source>
-        <translation>Dodatna poruka za pridruživanje zahtjevu za plaćanje koja će se prikazati kada se zahtjev otvori.Napomena: poruka neće biti poslana s plaćanjem putem Blockchainenergy mreže.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the BlockchainEnergy network.</source>
+        <translation>Dodatna poruka za pridruživanje zahtjevu za plaćanje koja će se prikazati kada se zahtjev otvori.Napomena: poruka neće biti poslana s plaćanjem putem BlockchainEnergy mreže.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3590,8 +3590,8 @@ Please be patient...</source>
         <translation>Ako je prilagođena naknada postavljena na 1000 uBCE, a transakcija je samo 250 bajta, tada "po kilobajtu" plaća se samo 250 uBCE-ova, a "ukupno barem" plaća 1000 uBCE-ova. Za transakcije veće od kilobajta, oboje plaćaju po kilobajtu.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Blockchainenergy transactions than the network can process.</source>
-        <translation>Plaćanje samo minimalne naknade je sasvim u redu sve dok j obujma transakcija manji od prostora u blokovima. No, budite svjesni da to može dovesti do transakcije koja nikada se ne potvrđuje kada se pojavi više zahtjeva za Blockchainenergy transakcijama nego što mreža može obraditi.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for BlockchainEnergy transactions than the network can process.</source>
+        <translation>Plaćanje samo minimalne naknade je sasvim u redu sve dok j obujma transakcija manji od prostora u blokovima. No, budite svjesni da to može dovesti do transakcije koja nikada se ne potvrđuje kada se pojavi više zahtjeva za BlockchainEnergy transakcijama nego što mreža može obraditi.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3686,8 +3686,8 @@ Please be patient...</source>
         <translation>Alat za podjelu blocka ne funkcionira s više adresa. Pokušajte ponovo.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Blockchainenergy address</source>
-        <translation>Upozorenje: Nevažeća Blockchainenergy adresa</translation>
+        <source>Warning: Invalid BlockchainEnergy address</source>
+        <translation>Upozorenje: Nevažeća BlockchainEnergy adresa</translation>
     </message>
     <message>
         <source>%1 to %2</source>
@@ -3785,8 +3785,8 @@ Please be patient...</source>
         <translation>Platiti:</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to send the payment to</source>
-        <translation>Blockchainenergy adresa za slanje uplate</translation>
+        <source>The BlockchainEnergy address to send the payment to</source>
+        <translation>BlockchainEnergy adresa za slanje uplate</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3825,8 +3825,8 @@ Please be patient...</source>
         <translation>Poruka:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Blockchainenergy: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Blockchainenergy network.</source>
-        <translation>Poruka koja je bila povezana s Blockchainenergy: URI koji će biti pohranjen s transakcijom za vašu referencu. Napomena: ova poruka neće biti poslana preko Blockchainenergy mreže.</translation>
+        <source>A message that was attached to the BlockchainEnergy: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the BlockchainEnergy network.</source>
+        <translation>Poruka koja je bila povezana s BlockchainEnergy: URI koji će biti pohranjen s transakcijom za vašu referencu. Napomena: ova poruka neće biti poslana preko BlockchainEnergy mreže.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3852,8 +3852,8 @@ Please be patient...</source>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Blockchainenergy Core is shutting down...</source>
-        <translation>Blockchainenergy Core se zatvara ...</translation>
+        <source>BlockchainEnergy Core is shutting down...</source>
+        <translation>BlockchainEnergy Core se zatvara ...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3875,8 +3875,8 @@ Please be patient...</source>
         <translation>Možete potpisati poruke s vašim adresama kako biste dokazali da ih posjedujete. Pazite da ne potpišete ništa nejasno, jer napadi za krađu identiteta mogu Vas pokušati uvjeriti da vam potpišu identitet. Potpišite samo detalje oko kojih se slažete.</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to sign the message with</source>
-        <translation>Blockchainenergy adresa za potpisivanje poruke</translation>
+        <source>The BlockchainEnergy address to sign the message with</source>
+        <translation>BlockchainEnergy adresa za potpisivanje poruke</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3907,16 +3907,16 @@ Please be patient...</source>
         <translation>Kopirajte trenutačni potpis u međuspremnik sustava</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Blockchainenergy address</source>
-        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove Blockchainenergy adrese</translation>
+        <source>Sign the message to prove you own this BlockchainEnergy address</source>
+        <translation>Potpišite poruku da biste dokazali da ste vlasnik ove BlockchainEnergy adrese</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address the message was signed with</source>
-        <translation>Blockchainenergy adresa s kojom je potpisana poruka</translation>
+        <source>The BlockchainEnergy address the message was signed with</source>
+        <translation>BlockchainEnergy adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Blockchainenergy address</source>
-        <translation>Potvrdite poruku kako biste bili sigurni da je potpisana s navedenom Blockchainenergy adresom</translation>
+        <source>Verify the message to ensure it was signed with the specified BlockchainEnergy address</source>
+        <translation>Potvrdite poruku kako biste bili sigurni da je potpisana s navedenom BlockchainEnergy adresom</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -4002,8 +4002,8 @@ Please be patient...</source>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy Core</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -4018,8 +4018,8 @@ Please be patient...</source>
         <translation>Dash Core programeri</translation>
     </message>
     <message>
-        <source>The Blockchainenergy Core developers</source>
-        <translation>Blockchainenergy Core programeri</translation>
+        <source>The BlockchainEnergy Core developers</source>
+        <translation>BlockchainEnergy Core programeri</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4664,8 +4664,8 @@ Please be patient...</source>
         <translation>Izračunata kontrolna točka akumulatora nije ono što se bilježi indeksom blokova</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Blockchainenergy Core is probably already running.</source>
-        <translation>Nije moguće dobiti zaključavanje na direktoriju podataka %s. Blockchainenergy Core vjerojatno već radi.</translation>
+        <source>Cannot obtain a lock on data directory %s. BlockchainEnergy Core is probably already running.</source>
+        <translation>Nije moguće dobiti zaključavanje na direktoriju podataka %s. BlockchainEnergy Core vjerojatno već radi.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4836,8 +4836,8 @@ Please be patient...</source>
         <translation>Ovaj proizvod uključuje softver razvijen od strane OpenSSL projekta za uporabu u OpenSSL Toolkitu i kriptografskom softveru kojeg je napisao Eric Young i UPnP softver koji je napisao Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Blockchainenergy Core is probably already running.</source>
-        <translation>Nije moguće vezati se na %s na ovom računalu. Blockchainenergy Core vjerojatno već radi.</translation>
+        <source>Unable to bind to %s on this computer. BlockchainEnergy Core is probably already running.</source>
+        <translation>Nije moguće vezati se na %s na ovom računalu. BlockchainEnergy Core vjerojatno već radi.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -4864,8 +4864,8 @@ Please be patient...</source>
         <translation>Upozorenje: -paytxfee je vrlo visoka! To je transakcijska naknada koju ćete platiti ako šaljete transakciju.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Blockchainenergy Core will not work properly.</source>
-        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, Blockchainenergy Core neće raditi ispravno.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong BlockchainEnergy Core will not work properly.</source>
+        <translation>Upozorenje: Provjerite jesu li datum i vrijeme vašeg računala točni! Ako je vaš sat pogrešan, BlockchainEnergy Core neće raditi ispravno.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -4997,7 +4997,7 @@ Please be patient...</source>
     </message>
     <message>
         <source>Copyright (C) 2015-%i The PIVX Core Developers</source>
-        <translation>Autorska prava (C) 2015-%i The Blockchainenergy Core Developers</translation>
+        <translation>Autorska prava (C) 2015-%i The BlockchainEnergy Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -5077,8 +5077,8 @@ Please be patient...</source>
         <translation>Pogreška pri učitavanju wallet.dat: novčanik oštećen</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Blockchainenergy Core</source>
-        <translation>Pogreška prilikom učitavanja wallet.dat: Novčanik zahtijeva noviju verziju Blockchainenergy jezgre</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of BlockchainEnergy Core</source>
+        <translation>Pogreška prilikom učitavanja wallet.dat: Novčanik zahtijeva noviju verziju BlockchainEnergy jezgre</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -5169,8 +5169,8 @@ Please be patient...</source>
         <translation>Informacije</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Blockchainenergy Core is shutting down.</source>
-        <translation>Provjera ispravnosti inicijalizacije nije uspjela. Blockchainenergy Core se zatvara.</translation>
+        <source>Initialization sanity check failed. BlockchainEnergy Core is shutting down.</source>
+        <translation>Provjera ispravnosti inicijalizacije nije uspjela. BlockchainEnergy Core se zatvara.</translation>
     </message>
     <message>
         <source>Insufficient funds</source>
@@ -5272,8 +5272,8 @@ Please be patient...</source>
         <translation>uklonjene nepotvrđene transakcije</translation>
     </message>
     <message>
-        <source>Disable all Blockchainenergy specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
-        <translation>Onemogući sve specifične funkcije Blockchainenergy (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, zadano: %u)</translation>
+        <source>Disable all BlockchainEnergy specific functionality (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, default: %u)</source>
+        <translation>Onemogući sve specifične funkcije BlockchainEnergy (Masternodes, Zerocoin, SwiftX, Budgeting) (0-1, zadano: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -5844,8 +5844,8 @@ Please be patient...</source>
         <translation>Novčanik %s nalazi se izvan direktorija podataka %s</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Blockchainenergy Core to complete</source>
-        <translation>Potrebno je prepisati novčanik: ponovo pokrenite Blockchainenergy Core</translation>
+        <source>Wallet needed to be rewritten: restart BlockchainEnergy Core to complete</source>
+        <translation>Potrebno je prepisati novčanik: ponovo pokrenite BlockchainEnergy Core</translation>
     </message>
     <message>
         <source>Wallet options:</source>

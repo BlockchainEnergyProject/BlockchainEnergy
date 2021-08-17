@@ -30,7 +30,7 @@
 #include <boost/thread/exceptions.hpp>
 #include <boost/thread/condition_variable.hpp> // for boost::thread_interrupted
 
-//Blockchainenergy only features
+//BlockchainEnergy only features
 
 extern bool fMasterNode;
 extern bool fLiteMode;

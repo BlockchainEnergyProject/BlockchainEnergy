@@ -62,11 +62,11 @@
         <translation>Ricevanta adresojn</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ĉi tiuj estas viaj Blockchainenergy adreso por sendi pagojn. Ĉiam kontroku la kvanto kaj la ricevanta antaŭ ol sendi monerojn.</translation>
+        <source>These are your BlockchainEnergy addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ĉi tiuj estas viaj BlockchainEnergy adreso por sendi pagojn. Ĉiam kontroku la kvanto kaj la ricevanta antaŭ ol sendi monerojn.</translation>
     </message>
     <message>
-        <source>These are your Blockchainenergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your BlockchainEnergy addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Ĉi tiuj estas vian adreson por ricevi pagojn. Ĝi rekomendas uzi novajn ricenvantan adreson por ĉiu nova transakcio.</translation>
     </message>
     <message>
@@ -176,8 +176,8 @@
         <translation>Konfirmi monerĉifrado</translation>
     </message>
     <message>
-        <source>Blockchainenergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
-        <translation>Blockchainenergy fermos nun por fini ĉifran procezon. Memoru ke ĉifri vian monujon ne povas plene protekti viajn BCEs de esti ŝtelita per malware infektanta vian komputilon.</translation>
+        <source>BlockchainEnergy will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your BCEs from being stolen by malware infecting your computer.</source>
+        <translation>BlockchainEnergy fermos nun por fini ĉifran procezon. Memoru ke ĉifri vian monujon ne povas plene protekti viajn BCEs de esti ŝtelita per malware infektanta vian komputilon.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -254,11 +254,11 @@
         <translation>Adreso:</translation>
     </message>
     <message>
-        <source>Enter a Blockchainenergy Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Eniri unu Blockchainenergy adreso ke vi volus ĉifri per BIP 38. Eniri unu pasfrazon meze skatolo. Klaku ĉifri por komputi la ĉifrita privata ŝlosilo.</translation>
+        <source>Enter a BlockchainEnergy Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Eniri unu BlockchainEnergy adreso ke vi volus ĉifri per BIP 38. Eniri unu pasfrazon meze skatolo. Klaku ĉifri por komputi la ĉifrita privata ŝlosilo.</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to encrypt</source>
+        <source>The BlockchainEnergy address to encrypt</source>
         <translation>Adreson por ĉifri</translation>
     </message>
     <message>
@@ -290,8 +290,8 @@
         <translation>Kopiu la aktualan subskribo al la sistemo-poŝo</translation>
     </message>
     <message>
-        <source>Encrypt the private key for this Blockchainenergy address</source>
-        <translation>Ĉifri la privata ŝlosilo por ĉi tiu Blockchainenergy adreso</translation>
+        <source>Encrypt the private key for this BlockchainEnergy address</source>
+        <translation>Ĉifri la privata ŝlosilo por ĉi tiu BlockchainEnergy adreso</translation>
     </message>
     <message>
         <source>Reset all fields</source>
@@ -641,12 +641,12 @@
         <translation>Iloj langeto</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy kerno</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy kerno</translation>
     </message>
     <message>
-        <source>Send coins to a Blockchainenergy address</source>
-        <translation>Sendu mono al Blockchainenergy addreso</translation>
+        <source>Send coins to a BlockchainEnergy address</source>
+        <translation>Sendu mono al BlockchainEnergy addreso</translation>
     </message>
     <message>
         <source>Request payments (generates QR codes and blockchainenergy: URIs)</source>
@@ -665,24 +665,24 @@
         <translation>Foliumi mastro-nodo</translation>
     </message>
     <message>
-        <source>&amp;About Blockchainenergy Core</source>
-        <translation>&amp;Pri Blockchainenergy Kerno</translation>
+        <source>&amp;About BlockchainEnergy Core</source>
+        <translation>&amp;Pri BlockchainEnergy Kerno</translation>
     </message>
     <message>
-        <source>Show information about Blockchainenergy Core</source>
-        <translation>Montri informon pri Blockchainenergy Kerno</translation>
+        <source>Show information about BlockchainEnergy Core</source>
+        <translation>Montri informon pri BlockchainEnergy Kerno</translation>
     </message>
     <message>
-        <source>Modify configuration options for Blockchainenergy</source>
-        <translation>Modifi agordajn opciojn por Blockchainenergy</translation>
+        <source>Modify configuration options for BlockchainEnergy</source>
+        <translation>Modifi agordajn opciojn por BlockchainEnergy</translation>
     </message>
     <message>
-        <source>Sign messages with your Blockchainenergy addresses to prove you own them</source>
-        <translation>Subskribu mesaĝo per via Blockchainenergy adreso por pruvi vi posedas ĝin</translation>
+        <source>Sign messages with your BlockchainEnergy addresses to prove you own them</source>
+        <translation>Subskribu mesaĝo per via BlockchainEnergy adreso por pruvi vi posedas ĝin</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Blockchainenergy addresses</source>
-        <translation>Kontrolu mesaĝojn por certigi ke ili estas subskribita kun specifita Blockchainenergy adreso</translation>
+        <source>Verify messages to ensure they were signed with specified BlockchainEnergy addresses</source>
+        <translation>Kontrolu mesaĝojn por certigi ke ili estas subskribita kun specifita BlockchainEnergy adreso</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -713,8 +713,8 @@
         <translation>Malfermi mastro-nodo agord-dosieron</translation>
     </message>
     <message>
-        <source>Open a Blockchainenergy: URI or payment request</source>
-        <translation>Malfermi unu Blockchainenergy: URI aŭ pago peto</translation>
+        <source>Open a BlockchainEnergy: URI or payment request</source>
+        <translation>Malfermi unu BlockchainEnergy: URI aŭ pago peto</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -725,12 +725,12 @@
         <translation>Bloko esplorilo fenestro</translation>
     </message>
     <message>
-        <source>Show the Blockchainenergy Core help message to get a list with possible Blockchainenergy command-line options</source>
-        <translation>Montri la Blockchainenergy Kore help-mesaĝo por havi liston de havebla Blockchainenergy komandlinion opciojn</translation>
+        <source>Show the BlockchainEnergy Core help message to get a list with possible BlockchainEnergy command-line options</source>
+        <translation>Montri la BlockchainEnergy Kore help-mesaĝo por havi liston de havebla BlockchainEnergy komandlinion opciojn</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core client</source>
-        <translation>Blockchainenergy Kerno kliento</translation>
+        <source>BlockchainEnergy Core client</source>
+        <translation>BlockchainEnergy Kerno kliento</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1153,8 +1153,8 @@ Muktisendi: %1</translation>
         <translation>Redaktu sendantan adreson</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Blockchainenergy address.</source>
-        <translation>La enirita "%1" adreso ne estas validan Blockchainenergy adreson.</translation>
+        <source>The entered address "%1" is not a valid BlockchainEnergy address.</source>
+        <translation>La enirita "%1" adreso ne estas validan BlockchainEnergy adreson.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1210,16 +1210,16 @@ Muktisendi: %1</translation>
         <translation>versio</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy kerno</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy kerno</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bajto)</translation>
     </message>
     <message>
-        <source>About Blockchainenergy Core</source>
-        <translation>Pri Blockchainenergy Kerno</translation>
+        <source>About BlockchainEnergy Core</source>
+        <translation>Pri BlockchainEnergy Kerno</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1261,16 +1261,16 @@ Muktisendi: %1</translation>
         <translation>Bonvenon</translation>
     </message>
     <message>
-        <source>Welcome to Blockchainenergy Core.</source>
-        <translation>Bonvenon al la Blockchainenergy Kerno.</translation>
+        <source>Welcome to BlockchainEnergy Core.</source>
+        <translation>Bonvenon al la BlockchainEnergy Kerno.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Blockchainenergy Core will store its data.</source>
-        <translation>Ĉar estas la unuan fojon ke la programo estas lanĉita, vi povas elekti kie Blockchainenergy kernk storigis sian datumojn. </translation>
+        <source>As this is the first time the program is launched, you can choose where BlockchainEnergy Core will store its data.</source>
+        <translation>Ĉar estas la unuan fojon ke la programo estas lanĉita, vi povas elekti kie BlockchainEnergy kernk storigis sian datumojn. </translation>
     </message>
     <message>
-        <source>Blockchainenergy Core will download and store a copy of the Blockchainenergy block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Blockchainenergy kerno elŝutos kaj konservi kopion de la Blockchainenergy blokĉeno. Almenaŭ %1GB datumoj stokitos en ĉi tiun dosierujo, kaj ĝi kresko kun la tempo. Monujo stokitos en ĉi tiun dosierujo.</translation>
+        <source>BlockchainEnergy Core will download and store a copy of the BlockchainEnergy block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>BlockchainEnergy kerno elŝutos kaj konservi kopion de la BlockchainEnergy blokĉeno. Almenaŭ %1GB datumoj stokitos en ĉi tiun dosierujo, kaj ĝi kresko kun la tempo. Monujo stokitos en ĉi tiun dosierujo.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1281,8 +1281,8 @@ Muktisendi: %1</translation>
         <translation>Uzi kutimon datumojn dosierujo:</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy kerno</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy kerno</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1604,8 +1604,8 @@ Muktisendi: %1</translation>
         <translation>&amp;Monujo</translation>
     </message>
     <message>
-        <source>Automatically open the Blockchainenergy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Aŭtomate malfermi Blockchainenergy klienton havenon en la enkursigilo. Tio nur laboras kiam via enkursigilo subtenas UPnP kaj estas ebligita.</translation>
+        <source>Automatically open the BlockchainEnergy client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Aŭtomate malfermi BlockchainEnergy klienton havenon en la enkursigilo. Tio nur laboras kiam via enkursigilo subtenas UPnP kaj estas ebligita.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1616,8 +1616,8 @@ Muktisendi: %1</translation>
         <translation>Sperta</translation>
     </message>
     <message>
-        <source>&amp;Start Blockchainenergy on system login</source>
-        <translation>&amp;Komencu Blockchainenergy en sistem-ensaluto</translation>
+        <source>&amp;Start BlockchainEnergy on system login</source>
+        <translation>&amp;Komencu BlockchainEnergy en sistem-ensaluto</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
@@ -1628,8 +1628,8 @@ Muktisendi: %1</translation>
         <translation>&amp;Reto</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Blockchainenergy.</source>
-        <translation>La uzanta interfaco lingvo povas esti agordi ĉi tie. Tio agordo efektivigos post rekomenci Blockchainenergy.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting BlockchainEnergy.</source>
+        <translation>La uzanta interfaco lingvo povas esti agordi ĉi tie. Tio agordo efektivigos post rekomenci BlockchainEnergy.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
@@ -1638,8 +1638,8 @@ https://www.transifex.com/blockchainenergy-project/blockchainenergy-project-tran
 https://www.transifex.com/blockchainenergy-project/blockchainenergy-project-translations</translation>
     </message>
     <message>
-        <source>Connect to the Blockchainenergy network through a SOCKS5 proxy.</source>
-        <translation>Konekti al la Blockchainenergy reto per SOCKS5 prokurilo.</translation>
+        <source>Connect to the BlockchainEnergy network through a SOCKS5 proxy.</source>
+        <translation>Konekti al la BlockchainEnergy reto per SOCKS5 prokurilo.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1713,8 +1713,8 @@ https://www.transifex.com/blockchainenergy-project/blockchainenergy-project-tran
         <translation>Nematura:</translation>
     </message>
     <message>
-        <source>Your current Blockchainenergy balance, unconfirmed and immature transactions included</source>
-        <translation>Via aktuala Blockchainenergy totalo, nekonformita kaj nematurita transakcioj inkluzivita</translation>
+        <source>Your current BlockchainEnergy balance, unconfirmed and immature transactions included</source>
+        <translation>Via aktuala BlockchainEnergy totalo, nekonformita kaj nematurita transakcioj inkluzivita</translation>
     </message>
     <message>
         <source>zBCE Balance</source>
@@ -1727,8 +1727,8 @@ Immature: confirmed, but less than 1 mint of the same denomination after it was 
 Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mintita</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Blockchainenergy network after a connection is established, but this process has not completed yet.</source>
-        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la Blockchainenergy reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BlockchainEnergy network after a connection is established, but this process has not completed yet.</source>
+        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la BlockchainEnergy reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
     </message>
     <message>
         <source>OVERVIEW</source>
@@ -1780,8 +1780,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Blockchainenergy network after a connection is established, but this process has not completed yet.</source>
-        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la Blockchainenergy reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the BlockchainEnergy network after a connection is established, but this process has not completed yet.</source>
+        <translation>Montrata informon povas esti malmoderna. Via monujo automate sinkronigis kun la BlockchainEnergy reto post konekcio establas, sed ĉi tio procezo ankoraŭ ne kompletigis.</translation>
     </message>
     <message>
         <source>0</source>
@@ -1824,8 +1824,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Pagu &amp;Al:</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Blockchainenergy adreso por alsendi la pago. Kreas lokala pago al vi mem kiam malplenija.</translation>
+        <source>The BlockchainEnergy address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>BlockchainEnergy adreso por alsendi la pago. Kreas lokala pago al vi mem kiam malplenija.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1894,8 +1894,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>&lt;b&gt;malebligita&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>Invalid Blockchainenergy Address</source>
-        <translation>Nevalida Blockchainenergy adreso</translation>
+        <source>Invalid BlockchainEnergy Address</source>
+        <translation>Nevalida BlockchainEnergy adreso</translation>
     </message>
     <message>
         <source>Confirm send coins</source>
@@ -1928,8 +1928,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>NEKONATA</translation>
     </message>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy kerno</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy kerno</translation>
     </message>
     </context>
 <context>
@@ -1994,8 +1994,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Rekonstrui indekson</translation>
     </message>
     <message>
-        <source>Welcome to the Blockchainenergy RPC console.</source>
-        <translation>Bonvenon al la Blockchainenergy RPC konzolo.</translation>
+        <source>Welcome to the BlockchainEnergy RPC console.</source>
+        <translation>Bonvenon al la BlockchainEnergy RPC konzolo.</translation>
     </message>
     <message>
         <source>1 &amp;hour</source>
@@ -2242,8 +2242,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Kopi ŝanĝo</translation>
     </message>
     <message>
-        <source>Warning: Invalid Blockchainenergy address</source>
-        <translation>Averto: nevalida Blockchainenergy adreson</translation>
+        <source>Warning: Invalid BlockchainEnergy address</source>
+        <translation>Averto: nevalida BlockchainEnergy adreson</translation>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
@@ -2269,7 +2269,7 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>Pagu &amp;Al:</translation>
     </message>
     <message>
-        <source>The Blockchainenergy address to send the payment to</source>
+        <source>The BlockchainEnergy address to send the payment to</source>
         <translation>BCEC adreso por sendi la pago al</translation>
     </message>
     <message>
@@ -2304,8 +2304,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Blockchainenergy Core is shutting down...</source>
-        <translation>Blockchainenergy kerno fermanta...</translation>
+        <source>BlockchainEnergy Core is shutting down...</source>
+        <translation>BlockchainEnergy kerno fermanta...</translation>
     </message>
     </context>
 <context>
@@ -2358,8 +2358,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Blockchainenergy Core</source>
-        <translation>Blockchainenergy kerno</translation>
+        <source>BlockchainEnergy Core</source>
+        <translation>BlockchainEnergy kerno</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
@@ -2370,8 +2370,8 @@ Nematura: konfirmita, sed malpli ol 1 minto el la samo nomado post ĝin estis mi
         <translation>La Dash kerno programistoj</translation>
     </message>
     <message>
-        <source>The Blockchainenergy Core developers</source>
-        <translation>La Blockchainenergy kerno programistoj</translation>
+        <source>The BlockchainEnergy Core developers</source>
+        <translation>La BlockchainEnergy kerno programistoj</translation>
     </message>
     </context>
 <context>

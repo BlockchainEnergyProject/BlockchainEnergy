@@ -5,8 +5,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_HASH_H
-#define Blockchainenergy_HASH_H
+#ifndef BlockchainEnergy_HASH_H
+#define BlockchainEnergy_HASH_H
 
 #include "crypto/ripemd160.h"
 #include "crypto/sha256.h"
@@ -406,4 +406,4 @@ inline uint256 HashQuark(const T1 pbegin, const T1 pend)
 
 void scrypt_hash(const char* pass, unsigned int pLen, const char* salt, unsigned int sLen, char* output, unsigned int N, unsigned int r, unsigned int p, unsigned int dkLen);
 
-#endif // Blockchainenergy_HASH_H
+#endif // BlockchainEnergy_HASH_H

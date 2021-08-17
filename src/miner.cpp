@@ -37,7 +37,7 @@ using namespace std;
 
 //////////////////////////////////////////////////////////////////////////////
 //
-// BlockchainenergyMiner
+// BlockchainEnergyMiner
 //
 
 //
@@ -596,7 +596,7 @@ bool ProcessBlockFound(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
     {
         LOCK(cs_main);
         if (pblock->hashPrevBlock != chainActive.Tip()->GetBlockHash())
-            return error("BlockchainenergyMiner : generated block is stale");
+            return error("BlockchainEnergyMiner : generated block is stale");
     }
 
     // Remove key from key pool
@@ -618,7 +618,7 @@ bool ProcessBlockFound(CBlock* pblock, CWallet& wallet, CReserveKey& reservekey)
             pwalletMain->zbceTracker->RemovePending(pblock->vtx[1].GetHash());
             pwalletMain->zbceTracker->ListMints(true, true, true); //update the state
         }
-        return error("BlockchainenergyMiner : ProcessNewBlock, block not accepted");
+        return error("BlockchainEnergyMiner : ProcessNewBlock, block not accepted");
     }
 
     for (CNode* node : vNodes) {
@@ -636,7 +636,7 @@ int nMintableLastCheck = 0;
 
 void BitcoinMiner(CWallet* pwallet, bool fProofOfStake)
 {
-    LogPrintf("BlockchainenergyMiner started\n");
+    LogPrintf("BlockchainEnergyMiner started\n");
     SetThreadPriority(THREAD_PRIORITY_LOWEST);
     RenameThread("blockchainenergy-miner");
 
@@ -732,7 +732,7 @@ void BitcoinMiner(CWallet* pwallet, bool fProofOfStake)
             continue;
         }
 
-        LogPrintf("Running BlockchainenergyMiner with %u transactions in block (%u bytes)\n", pblock->vtx.size(),
+        LogPrintf("Running BlockchainEnergyMiner with %u transactions in block (%u bytes)\n", pblock->vtx.size(),
             ::GetSerializeSize(*pblock, SER_NETWORK, PROTOCOL_VERSION));
 
         //

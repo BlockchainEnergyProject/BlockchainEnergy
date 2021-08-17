@@ -171,8 +171,8 @@ void OptionsModel::Init()
         SoftSetArg("-zeromintpercentage", settings.value("nZeromintPercentage").toString().toStdString());
     if (settings.contains("nPreferredDenom"))
         SoftSetArg("-preferredDenom", settings.value("nPreferredDenom").toString().toStdString());
-    if (settings.contains("nAnonymizeBlockchainenergyAmount"))
-        SoftSetArg("-anonymizeblockchainenergyamount", settings.value("nAnonymizeBlockchainenergyAmount").toString().toStdString());
+    if (settings.contains("nAnonymizeBlockchainEnergyAmount"))
+        SoftSetArg("-anonymizeblockchainenergyamount", settings.value("nAnonymizeBlockchainEnergyAmount").toString().toStdString());
 
     language = settings.value("language").toString();
 }

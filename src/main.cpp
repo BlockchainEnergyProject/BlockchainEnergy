@@ -53,7 +53,7 @@ using namespace std;
 using namespace libzerocoin;
 
 #if defined(NDEBUG)
-#error "Blockchainenergy cannot be compiled without assertions."
+#error "BlockchainEnergy cannot be compiled without assertions."
 #endif
 
 /**
@@ -1990,62 +1990,17 @@ int64_t GetBlockValue(int nHeight)
 {
     int64_t nSubsidy = 0;
     
-    if (nHeight <= Params().LAST_POW_BLOCK()) {
-     nSubsidy = 150 * COIN;
-    } 
-    else if (nHeight <= 10000 && nHeight > Params().LAST_POW_BLOCK())  {
+    if (nHeight == 0) {
+     nSubsidy = 30000 * COIN;
+    }
+    else if (nHeight <= Params().LAST_POW_BLOCK()) {
+     nSubsidy = 10 * COIN;
+    }
+    else if (nHeight <= 104915250 && nHeight >= 1000)  {
         nSubsidy = 0.2 * COIN;
     } 
-    else if (nHeight <= 20000 && nHeight > 10000 )  {
-        nSubsidy = 0.3 * COIN;
-    } 
-    else if (nHeight <= 30000 && nHeight > 20000 )  {
-        nSubsidy = 0.4 * COIN;
-    } 
-    else if (nHeight <= 40000 && nHeight > 30000 )  {
-        nSubsidy = 0.45 * COIN;
-    } 
-    else if (nHeight <= 70000 && nHeight > 40000 )  {
-        nSubsidy = 0.5 * COIN;
-    } 
-    else if (nHeight <= 80000 && nHeight > 70000 )  {
-        nSubsidy = 0.6 * COIN;
-    } 
-    else if (nHeight <= 90000 && nHeight > 80000 )  {
-        nSubsidy = 0.63 * COIN;
-    } 
-    else if (nHeight <= 100000 && nHeight > 90000 )  {
-        nSubsidy = 0.65 * COIN;
-    } 
-    else if (nHeight <= 110000 && nHeight > 100000 )  {
-        nSubsidy = 0.68 * COIN;
-    } 
-    else if (nHeight <= 120000 && nHeight > 110000 )  {
-        nSubsidy = 0.7 * COIN;
-    } 
-    else if (nHeight <= 130000 && nHeight > 120000 )  {
-        nSubsidy = 0.8 * COIN;
-    } 
-    else if (nHeight <= 190000 && nHeight > 130000 )  {
-        nSubsidy = 0.9 * COIN;
-    } 
-    else if (nHeight <= 230000 && nHeight > 190000 )  {
-        nSubsidy = 0.1 * COIN;
-    } 
-    else if (nHeight <= 270000 && nHeight > 230000 )  {
-        nSubsidy = 0.95 * COIN;
-    } 
-    else if (nHeight <= 300000 && nHeight > 270000 )  {
-        nSubsidy = 0.9 * COIN;
-    } 
-    else if (nHeight <= 24394152 && nHeight > 300000 )  {
-        nSubsidy = 0.85 * COIN;
-    } 
-    else if (nHeight == 24394153 )  {
-        nSubsidy = 0.8 * COIN;
-    } 
     else {
-        nSubsidy = 0;
+        nSubsidy = 0 * COIN;
     }
 
     return nSubsidy;
@@ -2084,12 +2039,7 @@ int64_t GetMasternodePayment(int nHeight, int64_t blockValue, int nMasternodeCou
             return 0;
     }
 
-	if (nHeight > Params().LAST_POW_BLOCK() && nHeight <= 24394153) {
-		ret = blockValue * 0.9;
-	}
-	else {
-		ret = 0 * COIN;
-	}
+    ret = blockValue * 0.9;
     
     return ret;
 }
@@ -2474,7 +2424,7 @@ bool DisconnectBlock(CBlock& block, CValidationState& state, CBlockIndex* pindex
         const CTransaction& tx = block.vtx[i];
 
         /** UNDO ZEROCOIN DATABASING
-         * note we only undo zerocoin databasing in the following statement, value to and from Blockchainenergy
+         * note we only undo zerocoin databasing in the following statement, value to and from BlockchainEnergy
          * addresses should still be handled by the typical bitcoin based undo code
          * */
         if (tx.ContainsZerocoins()) {
@@ -2820,7 +2770,7 @@ bool RecalculateBCESupply(int nHeightStart)
 
 bool ReindexAccumulators(list<uint256>& listMissingCheckpoints, string& strError)
 {
-    // Blockchainenergy: recalculate Accumulator Checkpoints that failed to database properly
+    // BlockchainEnergy: recalculate Accumulator Checkpoints that failed to database properly
     if (!listMissingCheckpoints.empty()) {
         uiInterface.ShowProgress(_("Calculating missing accumulators..."), 0);
         LogPrintf("%s : finding missing checkpoints\n", __func__);
@@ -4222,7 +4172,7 @@ bool CheckBlock(const CBlock& block, CValidationState& state, bool fCheckPOW, bo
                 nHeight = (*mi).second->nHeight + 1;
         }
 
-        // Blockchainenergy
+        // BlockchainEnergy
         // It is entierly possible that we don't have enough data and this could fail
         // (i.e. the block could indeed be valid). Store the block for later consideration
         // but issue an initial reject message.
@@ -5985,7 +5935,7 @@ bool static ProcessMessage(CNode* pfrom, string strCommand, CDataStream& vRecv, 
             return false;
         }
 
-        // Blockchainenergy: We use certain sporks during IBD, so check to see if they are
+        // BlockchainEnergy: We use certain sporks during IBD, so check to see if they are
         // available. If not, ask the first peer connected for them.
         bool fMissingSporks = !pSporkDB->SporkExists(SPORK_14_NEW_PROTOCOL_ENFORCEMENT) &&
                 !pSporkDB->SporkExists(SPORK_15_NEW_PROTOCOL_ENFORCEMENT_2) &&
@@ -6873,7 +6823,7 @@ int ActiveProtocol()
     //if (IsSporkActive(SPORK_14_NEW_PROTOCOL_ENFORCEMENT))
     //        return MIN_PEER_PROTO_VERSION_AFTER_ENFORCEMENT;
 
-    // SPORK_15 is used for 70917 (v3.3+)
+    // SPORK_15 is used for 70916 (v3.3+)
     if (IsSporkActive(SPORK_15_NEW_PROTOCOL_ENFORCEMENT_2))
             return MIN_PEER_PROTO_VERSION_AFTER_ENFORCEMENT;
 

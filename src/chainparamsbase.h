@@ -11,7 +11,7 @@
 
 /**
  * CBaseChainParams defines the base parameters (shared between blockchainenergy-cli and blockchainenergyd)
- * of a given instance of the Blockchainenergy system.
+ * of a given instance of the BlockchainEnergy system.
  */
 class CBaseChainParams
 {

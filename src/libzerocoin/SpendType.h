@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_SPENDTYPE_H
-#define Blockchainenergy_SPENDTYPE_H
+#ifndef BlockchainEnergy_SPENDTYPE_H
+#define BlockchainEnergy_SPENDTYPE_H
 
 #include <cstdint>
 
@@ -16,4 +16,4 @@ namespace libzerocoin {
     };
 }
 
-#endif //Blockchainenergy_SPENDTYPE_H
+#endif //BlockchainEnergy_SPENDTYPE_H

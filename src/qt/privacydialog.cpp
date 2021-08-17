@@ -85,7 +85,7 @@ PrivacyDialog::PrivacyDialog(QWidget* parent) : QDialog(parent, Qt::WindowSystem
     ui->labelZsupplyText1000->setText(tr("Denom. <b>1000</b>:"));
     ui->labelZsupplyText5000->setText(tr("Denom. <b>5000</b>:"));
 
-    // Blockchainenergy settings
+    // BlockchainEnergy settings
     QSettings settings;
     if (!settings.contains("fMinimizeChange")){
         fMinimizeChange = false;
@@ -330,7 +330,7 @@ void PrivacyDialog::sendzBCE()
     }
     else{
         if (!address.IsValid()) {
-            QMessageBox::warning(this, tr("Spend Zerocoin"), tr("Invalid Blockchainenergy Address"), QMessageBox::Ok, QMessageBox::Ok);
+            QMessageBox::warning(this, tr("Spend Zerocoin"), tr("Invalid BlockchainEnergy Address"), QMessageBox::Ok, QMessageBox::Ok);
             ui->payTo->setFocus();
             return;
         }

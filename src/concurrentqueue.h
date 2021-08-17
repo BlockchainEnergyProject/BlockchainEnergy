@@ -3,8 +3,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_CONCURRENTQUEUE_H
-#define Blockchainenergy_CONCURRENTQUEUE_H
+#ifndef BlockchainEnergy_CONCURRENTQUEUE_H
+#define BlockchainEnergy_CONCURRENTQUEUE_H
 
 
 #include <mutex>
@@ -48,4 +48,4 @@ public:
     }
 };
 
-#endif //Blockchainenergy_CONCURRENTQUEUE_H
+#endif //BlockchainEnergy_CONCURRENTQUEUE_H

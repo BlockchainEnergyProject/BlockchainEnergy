@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_ACCUMULATORS_H
-#define Blockchainenergy_ACCUMULATORS_H
+#ifndef BlockchainEnergy_ACCUMULATORS_H
+#define BlockchainEnergy_ACCUMULATORS_H
 
 #include "libzerocoin/Accumulator.h"
 #include "libzerocoin/Coin.h"
@@ -90,5 +90,5 @@ public:
     searchMintHeightException(const string &message) : message(message) {}
 };
 
-#endif //Blockchainenergy_ACCUMULATORS_H
+#endif //BlockchainEnergy_ACCUMULATORS_H
 

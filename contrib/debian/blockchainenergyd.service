@@ -8,7 +8,7 @@
 # /etc/blockchainenergy/blockchainenergy.conf
 
 [Unit]
-Description=Blockchainenergy daemon
+Description=BlockchainEnergy daemon
 After=network.target
 
 [Service]

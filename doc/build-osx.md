@@ -38,10 +38,10 @@ from the root of the repository.
 
 **Note**: You only need Berkeley DB if the wallet is enabled (see [*Disable-wallet mode*](/doc/build-osx.md#disable-wallet-mode)).
 
-Build Blockchainenergy Core
+Build BlockchainEnergy Core
 ------------------------
 
-1. Clone the Blockchainenergy Core source code:
+1. Clone the BlockchainEnergy Core source code:
 
         git clone https://github.com/blockchainenergy-project/blockchainenergy
         cd blockchainenergy
@@ -51,7 +51,7 @@ Build Blockchainenergy Core
         export LDFLAGS+=-L/usr/local/opt/openssl/lib
         export CPPFLAGS+=-I/usr/local/opt/openssl/include
 
-3.  Build Blockchainenergy Core:
+3.  Build BlockchainEnergy Core:
 
         ./autogen.sh
         ./configure
@@ -69,7 +69,7 @@ Disable-wallet mode
 --------------------
 **Note:** This functionality is not yet completely implemented, and compilation using the below option will currently fail.
 
-When the intention is to run only a P2P node without a wallet, Blockchainenergy Core may be compiled in
+When the intention is to run only a P2P node without a wallet, BlockchainEnergy Core may be compiled in
 disable-wallet mode with:
 
     ./configure --disable-wallet
@@ -79,21 +79,21 @@ In this case there is no dependency on Berkeley DB 4.8.
 Running
 -------
 
-Blockchainenergy Core is now available at `./src/blockchainenergyd`
+BlockchainEnergy Core is now available at `./src/blockchainenergyd`
 
 Before running, you may create an empty configuration file:
 
-    mkdir -p "/Users/${USER}/Library/Application Support/Blockchainenergy"
+    mkdir -p "/Users/${USER}/Library/Application Support/BlockchainEnergy"
 
-    touch "/Users/${USER}/Library/Application Support/Blockchainenergy/blockchainenergy.conf"
+    touch "/Users/${USER}/Library/Application Support/BlockchainEnergy/blockchainenergy.conf"
 
-    chmod 600 "/Users/${USER}/Library/Application Support/Blockchainenergy/blockchainenergy.conf"
+    chmod 600 "/Users/${USER}/Library/Application Support/BlockchainEnergy/blockchainenergy.conf"
 
 The first time you run blockchainenergyd, it will start downloading the blockchain. This process could take many hours, or even days on slower than average systems.
 
 You can monitor the download process by looking at the debug.log file:
 
-    tail -f $HOME/Library/Application\ Support/Blockchainenergy/debug.log
+    tail -f $HOME/Library/Application\ Support/BlockchainEnergy/debug.log
 
 Other commands:
 -------

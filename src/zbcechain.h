@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_ZBCECHAIN_H
-#define Blockchainenergy_ZBCECHAIN_H
+#ifndef BlockchainEnergy_ZBCECHAIN_H
+#define BlockchainEnergy_ZBCECHAIN_H
 
 #include "libzerocoin/Coin.h"
 #include "libzerocoin/Denominations.h"
@@ -39,4 +39,4 @@ bool TxOutToPublicCoin(const CTxOut& txout, libzerocoin::PublicCoin& pubCoin, CV
 std::list<libzerocoin::CoinDenomination> ZerocoinSpendListFromBlock(const CBlock& block, bool fFilterInvalid);
 
 
-#endif //Blockchainenergy_ZBCECHAIN_H
+#endif //BlockchainEnergy_ZBCECHAIN_H

@@ -9,9 +9,9 @@ Covers the scenario of a PoS block where the coinstake input prevout is already 
 
 from time import sleep
 
-from fake_stake.base_test import Blockchainenergy_FakeStakeTest
+from fake_stake.base_test import BlockchainEnergy_FakeStakeTest
 
-class PoSFakeStake(Blockchainenergy_FakeStakeTest):
+class PoSFakeStake(BlockchainEnergy_FakeStakeTest):
 
     def run_test(self):
         self.description = "Covers the scenario of a PoS block where the coinstake input prevout is already spent."

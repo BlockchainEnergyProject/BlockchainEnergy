@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef Blockchainenergy_QT_MULTISENDDIALOG_H
-#define Blockchainenergy_QT_MULTISENDDIALOG_H
+#ifndef BlockchainEnergy_QT_MULTISENDDIALOG_H
+#define BlockchainEnergy_QT_MULTISENDDIALOG_H
 
 #include <QDialog>
 
@@ -38,4 +38,4 @@ private:
     WalletModel* model;
 };
 
-#endif // Blockchainenergy_QT_MULTISENDDIALOG_H
+#endif // BlockchainEnergy_QT_MULTISENDDIALOG_H

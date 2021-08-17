@@ -267,11 +267,11 @@ UniValue stop(const UniValue& params, bool fHelp)
     if (fHelp || params.size() > 1)
         throw runtime_error(
             "stop\n"
-            "\nStop Blockchainenergy server.");
+            "\nStop BlockchainEnergy server.");
     // Event loop will exit after current HTTP requests have been handled, so
     // this reply will get back to the client.
     StartShutdown();
-    return "Blockchainenergy server stopping";
+    return "BlockchainEnergy server stopping";
 }
 
 
@@ -364,7 +364,7 @@ static const CRPCCommand vRPCCommands[] =
         { "hidden",             "waitforblock",           &waitforblock,           true,  true,  false  },
         { "hidden",             "waitforblockheight",     &waitforblockheight,     true,  true,  false  },
 
-        /* Blockchainenergy features */
+        /* BlockchainEnergy features */
         {"blockchainenergy", "listmasternodes", &listmasternodes, true, true, false},
         {"blockchainenergy", "getmasternodecount", &getmasternodecount, true, true, false},
         {"blockchainenergy", "masternodeconnect", &masternodeconnect, true, true, false},
@@ -639,7 +639,7 @@ std::string HelpExampleRpc(string methodname, string args)
 {
     return "> curl --user myusername --data-binary '{\"jsonrpc\": \"1.0\", \"id\":\"curltest\", "
            "\"method\": \"" +
-           methodname + "\", \"params\": [" + args + "] }' -H 'content-type: text/plain;' http://127.0.0.1:18444/\n";
+           methodname + "\", \"params\": [" + args + "] }' -H 'content-type: text/plain;' http://127.0.0.1:18049/\n";
 }
 
 void RPCSetTimerInterfaceIfUnset(RPCTimerInterface *iface)

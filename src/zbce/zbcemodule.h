@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 //
-#ifndef Blockchainenergy_ZBCEMODULE_H
-#define Blockchainenergy_ZBCEMODULE_H
+#ifndef BlockchainEnergy_ZBCEMODULE_H
+#define BlockchainEnergy_ZBCEMODULE_H
 
 #include "libzerocoin/bignum.h"
 #include "libzerocoin/Denominations.h"
@@ -89,4 +89,4 @@ namespace ZBCEModule {
 };
 
 
-#endif //Blockchainenergy_ZBCEMODULE_H
+#endif //BlockchainEnergy_ZBCEMODULE_H

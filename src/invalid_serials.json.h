@@ -4,8 +4,8 @@
 
 
 
-#ifndef Blockchainenergy_INVALID_SERIALS_JSON_H
-#define Blockchainenergy_INVALID_SERIALS_JSON_H
+#ifndef BlockchainEnergy_INVALID_SERIALS_JSON_H
+#define BlockchainEnergy_INVALID_SERIALS_JSON_H
 
 #include <string>
 
@@ -1189,4 +1189,4 @@ std::string LoadInvalidSerials()
     return str;
 }
 
-#endif //Blockchainenergy_INVALID_SERIALS_JSON_H
+#endif //BlockchainEnergy_INVALID_SERIALS_JSON_H

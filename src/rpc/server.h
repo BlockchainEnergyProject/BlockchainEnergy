@@ -129,7 +129,7 @@ public:
 };
 
 /**
- * Blockchainenergy RPC command dispatcher.
+ * BlockchainEnergy RPC command dispatcher.
  */
 class CRPCTable
 {
